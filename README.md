@@ -1,5 +1,4 @@
 # The Synthesis Project - Database
-[![Circle CI](https://circleci.com/gh/olivettigroup/synthesis-database.svg?style=svg&circle-token=41d87bb0a81be3272ce430ac315245372463b707)](https://circleci.com/gh/olivettigroup/synthesis-database)
 
 The Synthesis Project aims to catalog and predict materials synthesis routes. This repository contains code for populating a materials synthesis database from a corpus of PDF/HTML journal articles. The database is exposed to the public via the Synthesis Project API (not contained in this repository).
 
