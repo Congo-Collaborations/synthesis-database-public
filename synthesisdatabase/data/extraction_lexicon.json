@@ -1,0 +1,58 @@
+{
+  "operation_categories": {
+    "add": ["react", "add","adjust","deposit", "fill", "crystallize", "crystalize", "dilute", "drop", "dope","polymerize","digest"],
+    "mix": ["mix", "mill","grind","stir","dissolve", "shake", "blend", "disperse", "alloy", "rotate","homogenize","agitate"],
+    "position": ["take", "keep","pour","bring","pump","put","place","suspend","set","open","close","assemble", "seal", "unseal", "transfer","load", "embed", "immerse", "carry"],
+    "remove": ["purify", "etch", "isolate","decant","collect", "precipitate","evaporate","filter","dry", "remove","recover", "extract", "cut", "separate"],
+    "shape": ["pellet", "press", "mold", "grow"],
+    "heat": ["excite","heat","calcine","anneal","fire","pyrolyze", "sinter", "melt","remelt","incubate","hydrothermal","carbonize"],
+    "cool": ["cool", "chill", "freeze", "refrigerate", "quench"],
+    "clean": ["wash", "rinse","polish"],
+    "synthesize": ["prepare", "obtain", "create", "synthesize", "fabricate", "construct", "synthesis", "preparation", "fabrication"],
+    "wait": ["stand", "decompose", "wait", "age"],
+    "misc": ["maintain", "subject", "treat", "expose", "centrifuge", "sonicate", "ultrasonicate", "harvest", "perform", "concentrate", "hold", "conduct", "irradiate", "control", "powder", "autoclave", "pelletize", "compress", "undergo","hydrolyze", "convert", "rise", "coat"]
+  },
+
+  "apparatus_categories": {
+    "container": ["flask","beaker","vial", "bottle","tube","crucible","syringe","tank","boat","jar"],
+    "oven": ["oven","furnace"],
+    "autoclave": ["autoclave","bomb","vessel"],
+    "stirrer": ["stirrer","sonicator","agitator","ultrasonic bath"],
+    "mill": ["mortar","pestle","mill"],
+    "sieve": ["screen","sieve","membrane","filter paper","centrifuge"],
+    "misc heating apparatus": ["hot plate","hotplate","microwave"],
+    "desiccator": ["dessiccator"],
+    "cooling apparatus": ["fridge","ice bath", "bath"]
+  },
+
+  "num_words": {
+    "one": 1.0,
+    "two": 2.0,
+    "three": 3.0,
+    "four": 4.0,
+    "five": 5.0,
+    "six": 6.0,
+    "seven": 7.0,
+    "eight": 8.0,
+    "nine": 9.0,
+    "ten": 10.0,
+    "few": 3.0,
+    "several": 3.0
+  },
+
+  "environment_conditions": ["argon", "Ar", "oxygen", "O2", "acetone", "ethanol", "water", "nitrogen", "N2", "vacuum", "air"],
+
+  "numeric_conditions": ["rpm", "RPM", "C", "c", "C.", "c.", "°C", "◦C", "°C.", "h", "h.", "hr", "H", "hours", "min", "minutes", "s", "sec", "seconds", "C/h", "Ch", "C/hr", "Chr", "C/hours", "Chours", "days", "pH", "times", "kbar", "bar", "K", "k", "K.", "k.", "V", "kV", "Torr", "A"],
+
+  "numeric_amounts": ["g", "mg", "grams", "milligrams", "ml", "mL", "L", "milliliters", "millilitres", "liters", "litres", "N", "M", "mol/L", "molL-1", "mM", "mmol", "mol", "molar", "millimolar", "moles", "millimoles"],
+
+  "property_units": ["nm", "mm", "Å", "μm", "um", "microns", "cm", "Fg", "F/g", "F", "Cg", "C/g", "m2/g", "m2g", "cm2/g", "cm2g", "mA/cm2", "A/cm2", "Acm2", "MPa", "GPa"],
+
+  "material_properties": ["blaine fineness", "fineness", "surface area", "pore diameter", "pore size", "particle diameter", "particle size", "specific capacitance", "capacitance", "length", "tensile strength", "compressive strength", "strength", "bulk density", "density", "bulk modulus", "modulus"],
+
+  "generic_materials": ["mixture", "solution", "product", "gel", "crystal", "powder", "slurry", "filtrate", "precursor", "needle", "gum", "syrup", "dust", "prisms", "solid", "gas", "foam", "liquid", "acid", "sample", "precipitate", "substrate"],
+
+  "material_descriptors": ["nanoparticle", "nanoparticles", "nanotube", "nanotubes", "nanoprism", "nanoprisms", "nanorod", "nanorods", "nanowire", "nanowires", "nano", "nanopowder", "nanopowders", "porous", "layered", "core-shells"],
+
+  "break_words": ["xrd", "ftir", "ir", "atr", "x-ray", "spectroscopy", "pxrd", "uv", "uv-vis", "sem", "stm", "characterization", "microscopy"]
+}
