@@ -6,7 +6,6 @@ from synthesisdatabase.classifiers.synth_para_classifier import (SynthParaClassi
 from synthesisdatabase.classifiers.token_classifier import (TokenClassifier)
 from synthesisdatabase.classifiers.material_token_classifier import (MaterialTokenClassifier)
 from synthesisdatabase.extractors.info_extractor import (InfoExtractor)
-from synthesisdatabase.managers.material_manager import (MaterialManager)
 from synthesisdatabase.managers.download_manager import (DownloadManager)
 
 from unittest import TestCase
