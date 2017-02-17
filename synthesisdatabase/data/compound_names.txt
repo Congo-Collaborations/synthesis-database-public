@@ -1,0 +1,6048 @@
+titania
+ceria
+zirconia
+silica
+alumina
+magnesia
+yttria
+Acetic acid
+Acetone
+Acetylene gas
+Acetylsalicylic acid
+Aluminium
+Aluminium hydroxide
+Aluminium oxide
+Aluminium ammonium sulfate
+Aluminium potassium sulfate
+Aluminium sulfate
+Ammonia
+Ammonium bicarbonate
+Ammonium bifluoride
+Ammonium bromide
+Ammonium carbonate
+Ammonium chloride
+Ammonium nitrate
+Ammonium persulfate
+Ammonium phosphate
+Ammonium sulfate
+Amylose
+Anthocyanin
+Argon gas
+Ascorbic acid
+barium carbonate
+barium sulfate
+benzoyl peroxide
+bismuth
+bismuth subsalicylate
+boric acid
+bromthymol blue
+butane
+caffeine
+cadmium sulfide
+calcium carbide
+calcium carbonate
+calcium chloride
+calcium hydroxide
+calcium hypochlorite
+calcium nitrate
+calcium oxide
+calcium phosphate, monobasic
+calcium sulfate anhydrous
+calcium sulfate , hemihydrate
+calcium sulfate dihydrate
+camphor
+carbon
+carbon dioxide
+carbonic acid
+carrageenan
+cellulose
+chromium oxide
+citric acid
+copper
+copper naphthenate
+copper sulfate (anhydrous)
+copper sulfate pentahydrate
+cyanuric acid
+dextrose
+dichloromethane
+dimethyl sulfoxide
+ethanol /ethyl alcohol
+ether
+ethylene glycol
+eugenol
+formic acid
+fructose
+glucose
+glycerin , glycerol
+gold
+gum Arabic
+helium
+hexamine
+hydrogen gas
+hydrochloric acid
+hydrofluoric acid
+hypochlorous acid
+hydroquinone
+hydrogen peroxide
+iodine
+iron
+ferric chloride
+ferric oxide ( Iron III Oxide )
+ferrous ferric oxide ( Iron II III Oxide )
+iron(II) sulfate
+kerosene
+lactic acid
+latex
+lead
+linseed oil
+Lithium
+magnesium
+magnesium carbonate
+magnesium hydroxide
+magnesium silicate
+magnesium sulfate
+magnesium chloride
+manganese dioxide
+mercury
+methane
+methanol
+methyl ethyl ketone
+methyl ethyl ketone peroxide
+methyl isobutyl ketone
+methylene blue
+methylene chloride
+methyl salicylate
+mineral oil
+monosodium glutamate
+naphthalene
+nickel
+nitrogen
+nitrous oxide
+oxalic acid
+oxygen
+para-dichlorobenzene
+paraffin
+phenol
+phenolphthalein
+phenol red
+phosphoric acid
+polystyrene
+polyurethane foam
+potassium aluminium sulfate
+potassium bitartrate
+potassium carbonate
+potassium bromide
+potassium chloride
+potassium chromium sulfate
+potassium dichromate
+potassium iron (ii) hexacyanoferrate(iii)
+potassium hydroxide
+potassium iodide
+potassium metabisulfite
+potassium nitrate
+potassium permanganate
+potassium sodium tartrate
+propane
+2-propanol
+silicon carbide
+silicon dioxide
+silver
+sodium acetate
+sodium borate
+sodium bicarbonate
+disodium phosphate
+sodium bisulfate
+sodium bromide
+sodium carbonate
+sodium chlorate
+sodium chloride
+sodium fluoride
+sodium hexametaphosphate
+sodium hydroxide
+sodium hypochlorite
+sodium nitrate
+sodium metabisulfite
+sodium percarbonate
+sodium phosphate
+sodium silicate
+sodium sulfite
+sodium sulfate
+sodium tetraborate decahydrate
+sodium thiosulfate
+stearic acid
+Steel
+sucrose
+sulfur (sulphur)
+sulfuric acid
+tannic acid
+tartaric acid
+tetrachloroethylene
+thymolphthalein
+titanium dioxide
+1,1,1 trichloroethane
+1,1,1,2 tetrafluoroethane
+thiourea
+toluene
+town gas
+trichloroethylene
+tungsten
+turpentine
+urea
+water
+xylene
+zinc
+zinc chloride
+zinc oxide
+zinc sulfate
+Hydrogen
+Helium
+Lithium
+Beryllium
+Boron
+Carbon
+Nitrogen
+Oxygen
+Fluorine
+Neon
+Sodium
+Magnesium
+Aluminium
+Silicon
+Phosphorus
+Sulfur
+Chlorine
+Argon
+Potassium
+Calcium
+Scandium
+Titanium
+Vanadium
+Chromium
+Manganese
+Iron
+Cobalt
+Nickel
+Copper
+Zinc
+Gallium
+Germanium
+Arsenic
+Selenium
+Bromine
+Krypton
+Rubidium
+Strontium
+Yttrium
+Zirconium
+Niobium
+Molybdenum
+Technetium
+Ruthenium
+Rhodium
+Palladium
+Silver
+Cadmium
+Indium
+Tin
+Antimony
+Tellurium
+Iodine
+Xenon
+Caesium
+Barium
+Lanthanum
+Cerium
+Praseodymium
+Neodymium
+Promethium
+Samarium
+Europium
+Gadolinium
+Terbium
+Dysprosium
+Holmium
+Erbium
+Thulium
+Ytterbium
+Lutetium
+Hafnium
+Tantalum
+Tungsten
+Rhenium
+Osmium
+Iridium
+Platinum
+Gold
+Mercury
+Thallium
+Lead
+Bismuth
+Polonium
+Astatine
+Radon
+Francium
+Radium
+Actinium
+Thorium
+Protactinium
+Uranium
+Neptunium
+Plutonium
+Americium
+Curium
+Berkelium
+Californium
+Einsteinium
+Fermium
+Mendelevium
+Nobelium
+Lawrencium
+Rutherfordium
+Dubnium
+Seaborgium
+Bohrium
+Hassium
+Meitnerium
+Darmstadtium
+Roentgenium
+Copernicium
+Ununtrium
+Flerovium
+Ununpentium
+Livermorium
+Ununseptium
+Ununoctium
+Actinium(III) oxide
+Silver tetrafluoroborate
+silver bromide
+silver bromate
+silver chloride
+dicopper silver trichloride
+silver chlorate
+silver perchlorate
+silver cyanide
+silver fluoride
+silver(II) fluoride
+silver iodide
+silver iodate
+silver permanganate
+silver azide
+silver nitrate
+silver oxide
+silver monoxide
+silver fulminate
+silver hexafluorophosphate
+silver thiocyanate
+silver acetylide
+silver(I) carbonate
+silver oxalate
+silver(II) dichloride
+silver chromate
+silver dichromate
+silver subfluoride
+silver molybdate
+silver(I) oxide
+silver sulfide
+silver sulfate
+silver selenide
+silver selenite
+silver selenate
+silver(I) telluride
+silver dibromide
+silver tribromide
+silver(III) trichloride
+silver(III) triiodide
+silver phosphate
+aluminium boron oxide
+aluminium borate
+aluminium monobromide
+aluminium tribromide
+aluminium monochloride
+aluminium chloride fluoride
+aluminium chloride fluoride
+aluminium chloride fluoride
+aluminium chloride oxide
+Dichloroalumane
+aluminium chloride
+aluminium chloride fluoride
+aluminium trichloride
+aluminium caesium tetrachloride
+potassium tetrachloroaluminate
+sodium tetrachloroaluminate
+aluminium rubidium tetrachloride
+potassium hexachloroaluminate
+sodium hexachloroaluminate
+aluminium monofluoride
+aluminium monofluoride monoxide
+aluminium difluoride
+aluminium difluoride oxide
+aluminium trifluoride
+potassium tetrafluoroaluminate
+lithium tetrafluoroaluminate
+potassium hexafluoraluminate
+lithium hexafluoroaluminate
+cryolite
+aluminium-gallium-indium phosphide
+aluminium hydroxide
+aluminium monoiodide
+aluminium triiodide
+lithium aluminate
+aluminium nitride
+aluminium nitrite
+aluminium nitrate
+sodium aluminate
+aluminium monoxide
+aluminium silicon monoxide
+Aluminium(IV) oxide
+aluminium monophosphide
+aluminium phosphate
+aluminium monotelluride
+monoaluminium ditelluride
+beryllium aluminium oxide
+dialuminium hexabromide
+aluminium carbonate
+potassium aluminium chloride
+cobalt blue
+aluminium fluoride
+aluminium iodide
+magnesium aluminium oxide
+dialuminium monoxide
+dialuminium dioxide
+aluminium oxide
+aluminium silicate
+aluminium silicate
+andalusite
+aluminium silicate
+dialuminium monosulfide
+aluminium sulfide
+aluminium sulfate
+dialuminium selenide
+kaolin
+dialuminium telluride
+chiolite
+aluminium carbide
+beryllium aluminium oxide
+mullite
+argon chloride fluoride
+argon chloride hydride
+argon fluoride hydride
+arsenic oxybromide
+arsenic tribromide
+arsenic monoxide monochloride
+arsenic trichloride
+arsenic oxychloride
+arsenic tetrachloride fluoride
+arsenic trifluoride
+arsenic pentafluoride
+arsine
+arsenic triiodide
+arsenic monoxide
+arsenic dioxide
+arsenic monophosphide
+arsenic triphosphide
+thallium arsenide
+arsenic diiodide
+arsenic trioxide
+arsenic diphosphide
+arsenic pentoxide
+arsenic tetrasulfide
+arsenic pentasulfide
+arsenic hemiselenide
+arsenic triselenide
+arsenic pentaselenide
+arsenic tetraoxide
+arsenic(III) phosphide
+tetraarsenic trioxide
+tetraarsenic pentaoxide
+tetraarsenic trisulfide
+tetraarsenic tetrasulfide
+gold monoboride monoxide
+gold bromide
+gold tribromide
+gold cyanide
+gold chloride
+gold trichloride
+gold trifluoride
+gold iodide
+gold(III) iodide
+gold hydroxide
+gold telluride
+gold trioxide
+gold sulfide
+gold trisulfide
+gold triselenate
+gold triselenide
+boron arsenide
+boron(III) arsenate
+boron tribromide
+boron trichloride
+boron trifluoride
+boron iodide
+boron nitride
+boron nitrite
+boron nitrate
+boric acid
+boron(III) phosphide
+boron(III) orthophosphate
+boron chloride
+boron trifluoride
+boron hydride
+boron(III) oxide
+boron sulfide
+borazine
+boron carbide
+barium aluminate
+barium arsenite
+barium arsenate
+barium hexaboride
+barium bromate monohydrate
+barium bromate dihydrate
+barium bromide
+barium formate
+barium acetate
+barium cyanide
+barium oxalate
+barium carbide
+barium carbonate   witherite
+barium perchlorate
+barium chloride
+barium chromate  barium chromate(VI)
+barium fluoride
+gillespite
+barium tetraiodomercurate(II)
+barium hydrosulfide
+barium iodide
+barium potassium chromate
+barium manganate
+barium permanganate
+barium molybdate
+barium azide
+barium nitrite
+barium nitrate
+barium niobate
+barium metaniobate
+barium oxide
+barium hydroxide  baryta
+barium peroxide
+barium metaphosphate
+barium sulfide
+barium thiocyanate
+barium thiosulfate
+barium hexafluorosilicate
+barium sulfite
+barium sulfate   barite
+barium selenide
+barium selenite
+barium selenate
+barium metasilicate
+barium silicide
+barium disilicate
+barium stannate
+barium tellurite
+barium tellurate trihydrate
+barium titanate  barium metatitanate
+barium uranium oxide
+barium tungstate
+barium zirconate
+barium sodium niobate
+barium pyrophosphate
+barium pyrovanadate
+barium perxenate
+barium chromate(V)
+barium nitride
+barium orthophosphate
+barium orthovandate
+beryllium boride
+beryllium borohydride
+beryllium bromide
+beryllium formate
+beryllium carbonate
+beryllium acetate
+beryllium acetylacetonate
+beryllium chloride
+beryllium hypochlorite
+beryllium chlorate
+beryllium perchlorate
+beryllium fluoride
+beryllium iodide
+beryllium nitrite
+beryllium nitrate
+beryllium oxide   bromellite
+beryllium hydroxide
+beryllium sulfide
+beryllium sulfite
+beryllium sulfate
+beryllium carbide
+beryl
+beryllium nitride
+bismuth(III) orthoborate
+bismuth(III) bromide
+bismuth(III) acetate
+bismuth(III) citrate
+bismuth(III) chloride
+bismuth(III) fluoride
+bismuth(III) iodide
+bismuth(III) nitrate pentahydrate
+bismuth(III) oxychloride
+bismuth(III) oxyiodide
+bismuth oxycarbonate
+bismuth(III) orthophosphate
+bismuth(III) metavanadate
+bismuth(III) selenide  bismuth selenide
+bismuth(III) molybdate
+bismuth(III) oxide
+bismuth(III) sulfide  bismuthinite
+bismuth(III) selenide
+bromine chloride
+bromate ion
+bromine
+dibromine pentoxide
+iron fluoride
+gallium monofluoride
+gallium monofluoride monoxide
+gadolinium monofluoride
+germanium monofluoride
+holmium monofluoride
+iodine monofluoride
+monofluorodiiodine
+indium monofluoride
+lanthanum monofluoride
+lithium fluoride
+lithium hypofluorite
+dilithium monofluoride
+magnesium monofluoride
+monomanganese monofluoride
+manganese fluoride trioxide
+molybdenum monofluoride
+fluoroimidogen
+nitrosyl fluoride
+nitryl fluoride
+fluorine nitrate
+thiazyl fluoride
+sodium fluoride
+disodium monofluoride
+neodymium monofluoride
+oxygen monofluoride
+thorium monofluoride monoxide
+titanium fluoride oxide
+dioxygen monofluoride
+fluorosulfate radical
+phosphorus monofluoride
+phosphenothious fluoride
+phosphenodithioic fluoride
+lead monofluoride
+plutonium monofluoride
+rubidium fluoride
+monosulfur monofluoride
+scandium monofluoride
+samarium monofluoride
+tin monofluoride
+strontium monofluoride
+thorium monofluoride
+titanium fluoride
+thallium monofluoride
+tungsten monofluoride
+xenon monofluoride
+yttrium monofluoride
+zirconium fluoride
+fluorine
+ferrous fluoride
+gallium difluoride
+gadolinium difluoride
+germanium difluoride
+difluorogermanone
+mercury fluoride
+mercury fluoride
+holmium difluoride
+difluoroiodophosphine
+dipotassium difluoride
+krypton difluoride
+lanthanum difluoride
+lithium fluoride
+magnesium fluoride
+manganese difluoride
+molybdenum difluoride
+molybdenum difluoride dioxide
+difluoroamino radical
+nitrosodifluoroamine
+disodium difluoride
+neodymium difluoride
+nickel difluoride
+oxygen difluoride
+thionyl fluoride
+difluorooxosilane
+titanium fluoride oxide
+perfluoroperoxide
+sulfuryl fluoride
+tungsten difluoride dioxide
+peroxydisulfuryl difluoride
+phosphorus difluoride
+lead difluoride
+platinum difluoride
+plutonium difluoride
+sulfur difluoride
+tungsten difluoride monosulfide
+difluorodisulfane
+thiothionyl fluoride
+thiothionyl fluoride
+tungsten difluoride disulfide
+scandium difluoride
+selenium difluoride
+difluorosilylene
+tin difluoride
+strontium fluoride
+thorium difluoride
+titanium difluoride
+dithallium difluoride
+tungsten difluoride
+xenon difluoride
+yttrium difluoride
+zinc difluoride
+zirconium fluoride
+iron trifluoride
+gallium trifluoride
+gadolinium trifluoride
+holmium trifluoride
+lanthanum trifluoride
+trilithium trifluoride
+lutetium trifluoride
+manganese trifluoride
+molybdenum trifluoride
+molybdenum trifluoride oxide
+molybdenum trifluoride sulfide
+nitrogen trifluoride
+nitrogen trifluoride oxide
+difluoroaminosulfonyl fluoride
+difluoraminooxysulfonyl fluoride
+thiazyl trifluoride
+sodium trifluorostannate
+neodymium trifluoride
+phosphoryl fluoride
+tantalum monoxide trifluoride
+vanadium trifluoride oxide
+phosphorus trifluoride
+thiophosphoryl fluoride
+praseodymium trifluoride
+plutonium trifluoride
+rhodium fluoride
+sulfur trifluoride
+tungsten trifluoride monosulfide
+antimony trifluoride
+scandium fluoride
+trifluorosilyl radical
+samarium trifluoride
+terbium trifluoride
+thorium trifluoride
+titanium trifluoride
+thallium trifluoride
+thulium trifluoride
+tungsten trifluoride
+yttrium trifluoride
+ytterbium trifluoride
+zirconium trifluoride
+germanium tetrafluoride
+digermanium tetrafluoride
+hafnium fluoride
+dimagnesium tetrafluoride
+magnesium fluoride
+molybdenum tetrafluoride
+molybdenum tetrafluoride oxide
+molybdenum tetrafluoride monosulfide
+tetrafluorohydrazine
+disodium tetrafluorostannate
+osmium oxide tetrafluoride
+diphosphorus tetrafluoride oxide
+rhenium tetrafluoride oxide
+sulfur tetrafluoride oxide
+tungsten tetrafluoride oxide
+xenon tetrafluoride oxide
+diphosphorus tetrafluoride
+lead tetrafluoride
+platinum tetrafluoride
+plutonium tetrafluoride
+sulfur tetrafluoride
+tungsten tetrafluoride monosulfide
+selenium tetrafluoride
+silicon tetrafluoride
+ditin tetrafluoride
+titanium fluoride
+uranium tetrafluoride
+tungsten tetrafluoride
+xenon tetrafluoride
+zirconium tetrafluoride
+iodine pentafluoride
+molybdenum pentafluoride
+rhenium monoxide pentafluoride
+phosphorus pentafluoride
+plutonium pentafluoride
+disulfur decafluoride
+antimony pentafluoride
+tantalum pentafluoride
+uranium pentafluoride
+tungsten pentafluoride
+diiron hexafluoride
+lanthanum trifluoride dimer
+molybdenum hexafluoride
+nitridotriphosphorous hexafluoride
+osmium hexafluoride
+plutonium hexafluoride
+rhenium hexafluoride
+sulfur hexafluoride
+selenium hexafluoride
+hexafluorodisilane
+tritin hexafluoride
+tellurium hexafluoride
+uranium hexafluoride
+tungsten hexafluoride
+xenon hexafluoride
+iodine fluoride
+pentafluorosulfanyldifluoroamine
+rhenium heptafluoride
+octafluorotrisilane
+molybdenum fluoride
+sulfur fluoride
+molybdenum fluoride
+iron arsenic sulfide  arsenopyrite
+iron(II) bromide
+iron(III) bromide
+iron(III) bromide hexahydrate
+siderite
+iron oxalate
+iron pentacarbonyl  pentacarbonyl iron
+ferrocene
+iron(II) chloride
+iron(III) chloride
+chromite (ore)
+iron(II) fluoride tetrahydrate
+iron monoiodide
+iron diiodide  iron(II) iodide
+iron(II) iodide tetrahydrate
+iron(III) iodide
+iron(II) orthomolybdate
+iron monoxide   iron(II) oxide  wstite
+iron dioxide
+goethite
+limonite
+iron(II) hydroxide
+iron(III) hydroxide
+ferrous sulfate
+iron(II) dihydrogen phosphate
+iron(III) phosphide
+iron sulfide   iron(II) sulfide
+pyrite  fool's gold
+12068-85-8
+iron(II) selenide
+iron(II) telluride
+iron(II) metatitanate
+iron(III) orthovanadate
+iron(II) orthotungstate
+iron(II) metazirconate
+diiron diiodide
+diiron tetraiodide
+iron oxide   iron(III) oxide   hematite
+venetian red
+ferric sulfate  iron(III) sulfate
+iron(III) orthotungstate
+diiron phosphide
+fayalite
+chrysotile  white asbestos
+iron(II,III) oxide   magnetite  triiron(II, III) tetraoxide
+iron(tri) phosphide
+amosite  brown asbestos  grunerite
+amide ion
+ethylenediamine
+urea
+sulfanilic Acid
+hydroxylamine
+urea
+ammonia
+ammonium ion
+ammonium nitride
+ammonium bromide
+ammonium carbamate
+ammonium carbonate
+ammonium chloride
+Ammonium perchlorate
+ammonium hydrosulfide
+ammonium dihydrogen arsenate
+ammonium nitrate
+ammonium carbamate
+ammonium cerium(IV) nitrate  ceric ammonium nitrate  CAN
+ammonium phosphate
+ammonium chromate
+mercury(II) ammonium thiocyanate
+ammonium hexachloroplatinate(IV)
+ammonium hexathiocyanoplatinate(IV)
+ammonium sulfate
+nitrogen triiodide
+nitric oxide  nitrogen oxide  nitrogen(II) oxide
+nitrosyl chloride
+nitrosyl bromide
+nitrosyl iodide
+nitrogen dioxide  nitrogen(IV) oxide
+nitrite ion
+nitryl chloride
+nitrate ion
+nitrogen
+diazene
+hydrazine
+nitrous oxide  dinitrogen oxide  nitrogen(I) oxide
+dinitrogen trioxide  nitrogen(III) oxide
+dinitrogen tetroxide  nitrogen(IV) oxide
+dinitrogen pentaoxide  nitrogen(V) oxide
+trans -tetrazene
+albite
+sodium metaarsenite
+sodium dicyanoaurate(I)
+Sodium dichromate dihydrate
+sodium tetranitratoborate(III)
+sodium bromide
+sodium cyanide
+pentafluorobenzoate
+sodium benzoate
+thomsonite
+sodium chloride  rock-salt  halite
+sodium chlorite
+sodium chlorate
+sodium perchlorate
+sodium fluoride
+sodium hydride
+sodium formate
+sodium bicarbonate  baking soda
+sodium hydrosulfide
+sodium bisulfite
+sodium bisulfate
+sodium iodide
+sodium sulfanilate
+sodium nitrite
+sodium nitrate
+sodium metaniobate
+sodium metaniobate heptahydrate
+sodium hypochlorite
+sodium hydroxide
+sodium salt of cacodylic acid
+sodium selenite
+sodium metatantalate
+sodium metavanadate
+sodium carbonate  soda ash
+sodium oxalate
+sodium thiomolybdate
+sodium hyponitrite
+sodium peroxide
+sodium oxide
+sodium monosulfide
+sodium sulfite
+sodium sulfate  salt cake
+sodium thiosulfate
+sodium disulfite
+sodium persulfate
+sodium tetrasulfide
+sodium selenite
+sodium selenate
+sodium tellurite
+sodium tellurate
+sodium metatitanate
+sodium zincate
+sodium zincate
+sodium metazirconate
+cryolite
+sodium tricarbonatocobaltate(III)
+sodium orthovanadate
+sodium pyrovanadate
+niobium(V) bromide
+niobium(III) chloride
+niobium(V) chloride
+niobium(V) iodide
+niobium(III) oxide
+neodymium(II) chloride  neodymium dichloride
+neodymium(III) iodide  neodymium diiodide
+neodymium hydroxide
+neodymium(III) oxide  dineodymium trioxide
+nickel(III) arsenide
+nickel arsenic sulfide  gersdorffite
+nickel(II) bromide
+nickel(II) bromide trihydrate
+nickel(II) bromide hexahydrate
+nickel(II) carbonate
+nickel tetracarbonyl
+nickel(II) oxalate dihydrate
+nickel(II) chloride
+nickel(II) iron(III) oxide
+nickel(II) iodide
+nickel(II) hypophosphite hexahydrate
+nickel(II) orthomolybdate
+nickel(II) nitrate hexahydrate
+nickel oxo-hydroxide
+nickel(II) oxide
+nickel(II) hydroxide
+nickel(II) sulfide  millerite
+nickel sulfate
+nickel sulfide
+nickel(II) selenide
+nickel(II) metatitanate
+nickel(II) metavanadate
+nickel(II) orthotungstate
+nickel(II) orthosilicate
+nickel(II) orthophosphate
+nickel(II) antimonide
+hydrogen astatide
+hydrogen bromide   hydrobromic acid
+bromous acid
+bromic acid
+acetylene  ethyne
+hydrocyanic acid  hydrogen cyanide
+formamide  methanamide
+formate ion
+formic acid  methanoic acid
+ammonium formate
+hydrogen carbonate ion
+lactic acid
+pyridinium ion
+ascorbic acid
+acetylsalicylic acid
+thiamine hydrochloride  vitamin B 1 hydrochloride
+hydrochloric acid   hydrogen chloride
+hypochlorous acid
+chlorous acid
+chloric acid
+perchloric acid
+semiheavy water  water-d1
+hydrofluoric acid
+hydroiodic acid
+hypoiodous acid
+iodic acid
+nitroxyl
+nitrous acid
+nitric acid  hydrogen nitrate
+hydrazoic acid
+hypobromous acid
+hypochlorous acid
+hypofluorous acid
+oxalic acid
+hydrogen phosphate ion
+hydrogen sulfite ion
+hydrogen sulfate
+partially tritiated water  water-t
+hydrogen
+acrylonitrile
+formaldehyde
+carbonic acid
+sulfine
+oxalic acid
+tartaric acid
+phthalic acid  H 2 Ph
+chromic acid
+glycine
+hyponitrous acid
+hydrazine
+water
+hydrogen peroxide
+dihydrogen phosphate ion
+hydrogen sulfide  hydrosulfuric acid
+sulfurous acid
+sulfuric acid  hydrogen sulfate
+thiosulfurous acid
+thiosulfuric acid
+dithionous acid
+disulfurous acid
+dithionic acid
+disulfuric acid
+peroxydisulfuric acid
+selenous acid
+selenic acid
+silicic acid
+tellurous acid
+titanic acid
+arsenic acid
+propane
+zwitterion
+hydronium ion
+hypophosphorous acid
+phosphorous acid
+phosphoric acid
+perxenic acid
+telluric acid
+hafnium(IV) bromide
+hafnium(IV) fluoride
+hafnium(IV) oxychloride octahydrate
+hafnium(IV) acetate, basic
+hafnium(IV) sulfate
+mercury(II) bromate dihydrate
+mercury(I) bromide
+mercury(II) bromide
+mercury(II) acetate
+mercury(II) benzoate monohydrate
+mercury(I) perchlorate tetrahydrate
+mercury(II) perchlorate trihydrate
+mercury(II) chloride
+mercury(II) iodate
+mercury(II) iodide
+mercury(II) nitrate monohydrate
+mercury(II) fulminate
+mercury(II) oxide
+mercury(II) hydroxide
+mercury(II) sulfide  cinnabar
+mercury(II) thiocyanate
+mercury(II) selenide
+mercury(II) selenite
+mercury(II) telluride
+mercury(II) tellurite
+mercury(II) tungstate
+mercury(I) bromide
+mercury(I) chloride
+mercury(I) iodide
+mercury(II) orthoarsenate
+mercury(II) phosphate
+calcium aluminate
+calcium boride
+calcium bromide
+calcium cyanide
+calcium carbonate  spent lime   calcite   limestone   marble
+calcium carbide
+calcium formate
+calcium acetate
+calcium oxalate
+calcium cyanamide
+calcium chloride
+calcium hypochlorite
+calcium chlorate
+calcium perchlorate
+calcium fluoride  fluorite
+calcium hydride
+calcium hypophosphite
+calcium hydrosulfide
+calcium iodide
+calcium iodate
+calcium molybdate
+calcium nitrite
+calcium nitrate
+Calcium nitrate tetrahydrate
+calcium metaniobate
+quicklime  calcium oxide  burnt lime
+calcium hydroxide  slaked lime
+calcium peroxide
+calcium monophosphide
+calcium sulfide  hepar calcies  sulfurated lime  oldhamite
+calcium sulfite
+calcium sulfate  whiskers crystal
+plaster of paris  calcium sulfate hemihydrate
+calcium selenide
+calcium selenite
+calcium selenate
+calcium metasilicate   wollastonite
+calcium telluride
+calcium tellurite
+calcium tellurate
+calcium titanate
+calcium metavanadate
+calcium orthovanadate
+calcium tungstate
+calcium nitride
+calcium phosphide
+calcium fluorophosphate
+cadmium bromide
+cadmium cyanide
+cadmium carbonate
+cadmium acetate
+cadmium oxalate
+cadmium chloride
+cadmium chromate
+cadmium fluoride
+cadmium iodide
+cadmium iodate
+cadmium molybdate
+cadmium nitrate
+cadmium azide
+cadmium oxide
+cadmium hydroxide
+cadmium sulfide  greenockite
+cadmium sulfite
+cadmium sulfate
+cadmium antimonide
+cadmium selenide  cadmoselite
+cadmium selenite
+cadmium metasilicate
+cadmium metatantalate
+cadmium telluride
+cadmium tellurate
+cadmium titanate
+cadmium tungstate
+cadmium metazirconate
+cadmium niobate
+cadmium arsenide
+cadmium phosphide
+cadmium phosphate
+cerium boride
+cerium(III) bromide
+cerium carbide
+cerium(III) chloride
+cerium(III) fluoride
+cerium(IV) fluoride
+cerium(II) iodide
+cerium(III) iodide
+cerium nitride
+cerium(IV) oxide  cerianite
+cerium(II) sulfide
+cerium(IV) sulfate
+cerium silicide
+cerium(III) carbide
+cerium(III) oxide
+cerium(III) sulfide
+Tetrafluoromethane
+chlorine fluoride
+chlorine trifluoride
+chlorine pentafluoride
+chlorine perchlorate
+chlorine dioxide
+chlorine trioxide fluoride
+chlorine
+chlorine trioxide
+chlorine hexoxide
+chlorine heptoxide
+Chlorine octaoxide
+cobalt(II) aluminate
+cobalt arsenide
+cobalt(II) arsenide
+cobalt(II) boride
+cobalt(II) bromide
+cobalt(II) cyanide
+cobalt(II) acetate
+cobalt(III) acetate
+cobalt(II) oxalate
+cobalt(II) perchlorate
+cobalt(II) chloride
+cobalt(II) chromate
+cobalt(II) chromite
+cobalt(II) fluoride
+cobalt(III) fluoride
+cobalt(II) iodate
+cobalt(II) iodide
+cobalt(II) molybdate
+cobalt(II) nitrate
+cobalt(III) nitrate
+cobalt(II) oxide
+cobalt(II) hydroxide
+cobalt(III) hydroxide
+cobalt(II) sulfide
+cobalt disulfide
+cobalt antimonide
+cobalt(II) selenide
+cobalt(II) selenite
+cobalt(II) telluride
+cobalt(II) titanate
+cobalt(II) tungstate
+cobalt boride
+cobalt(II) sulfate
+cobalt(III) sulfide
+cobalt(II) orthosilicate
+cobalt(II) stannate
+cobalt(II) titanite
+cobalt arsenate
+cobalt(II) ferricyanide
+chromium(II) bromide
+chromium(III) bromide
+chromium(II) chloride
+chromium(III) chloride
+chromium(IV) chloride
+chromium(II) fluoride
+chromium(III) fluoride
+chromium(IV) fluoride
+chromium(V) fluoride
+chromium(VI) fluoride
+chromium(II) iodide
+chromium(III) iodide
+chromium(III) nitrate
+chromium(III) nitrite
+chromium(III) hydroxide
+chromium(IV) oxide
+chromium(VI) oxide
+chromate ion
+chromium(VI) oxychloride
+chromium(III) phosphate
+chromium antimonide
+chromium(III) orthovanadate
+chromium(III) oxide  eskolaite
+chromium(III) sulfate
+chromium(III) sulfide
+chromium(III) selenide
+chromium(III) tellurate
+chromium(III) telluride
+chromium(II) arsenide
+chromium(II) carbide
+chromium(II) antimonide
+chromium(II) silicide
+caesium borate
+caesium bromide
+caesium bromate
+caesium tribromide
+caesium cyanide
+caesium acetate
+caesium chloride
+caesium hypochlorite
+caesium chlorite
+caesium chlorate
+caesium perchlorate
+caesium fluoride
+caesium hydrosulfide
+caesium iodide
+caesium triiodide
+caesium amide
+caesium nitrite
+caesium nitrate
+caesium azide
+caesium metaniobate
+caesium hydroxide
+caesium superoxide
+caesium peroxide
+caesium sulfide
+caesium thiocyanate
+caesium selenate
+caesium metatantalate
+caesium carbonate
+caesium bicarbonate
+caesium bisulfite
+caesium bisulfate
+caesium oxalate
+caesium chromate
+caesium dichromate
+caesium hydrogen orthophosphate
+caesium molybdate
+caesium oxide
+caesium sulfite
+caesium sulfate
+caesium metasilicate
+caesium tellurate
+caesium titanate  caesium metatitanate
+caesium orthotungstate
+caesium orthophosphate
+caesium orthovanadate
+copper(I) bromide
+copper(II) bromate hexahydrate
+copper(II) bromide
+copper oxalate
+copper(II) acetate
+copper(I) chloride
+copper(II) chlorate hexahydrate
+copper(II) chloride
+copper(I) fluoride
+copper(II) fluoride
+copper iron sulfide   chalcopyrite
+copper(II) iron(II) oxide
+copper iron sulfide   cubanite
+blue vitriol
+copper(I) iodide
+copper(I) iodate
+copper(II) iodate
+copper(II) orthomolybdate
+copper(II) nitrate
+copper(II) nitrate trihydrate
+copper(II) nitrate hexahydrate
+copper(II) orthoniobate
+copper(II) oxide
+copper(I) oxide
+copper(II) hydroxide
+Verdigris
+copper(II) sulfide   covellite
+copper(I) thiocyanate
+copper(II) sulfate
+copper(II) sulfate pentahydrate
+copper(II) selenide
+copper(II) selenite dihydrate
+copper(II) selenate pentahydride
+copper(II) metasilicate
+copper(II) telluride
+copper(II) tellurite
+copper(II) metatitanate
+copper(II) metavanadate
+copper(II) orthotungstate
+malachite
+copper(I) sulfide   chalcocite
+copper(I) selenide
+copper(I) telluride
+copper(I) arsenide
+copper(I) phosphide
+copper(II) phosphate
+copper(III) antimonide
+copper sulfide  digenite
+dichlorodifluoromethane   freon-12
+carbon tetrachloride  tetrachloromethane
+freon-11
+freon-13
+chloroform  trichloromethane  methyl trichloride
+formate ion
+1,3-butadiene
+ketene
+ethenol
+chloroacetic acid
+dichloromethane
+formaldehyde
+methanediol
+ethylene glycol
+propyne
+2-butene
+propene
+acetaldehyde
+bromoethane
+butan-1-ol
+1-propanol  propan-1-ol
+propanamide
+propionic acid
+diethyl ether  ethoxyethane
+ethanol
+stearic acid
+acetone
+acetyl chloride
+acetamide  ethanamide
+acetate ion
+vinyl acetate
+benzyl acetate
+isoamyl acetate
+acetic acid  ethanoic acid
+sodium acetate
+potassium acetate
+rubidium acetate
+caesium acetate
+acetic anhydride
+chloromethane  methyl chloride
+iodomethane  methyl iodide
+dimethyl ether
+caesium methoxide
+methanol
+potassium methoxide
+lithium methoxide
+sodium methoxide
+rubidium methoxide
+dimethyl sulfide  DMS
+methanethiol
+isopropyl alcohol  2-propanol  propan-2-ol  isopropanol
+acetone
+dimethyl oxalate
+dimethyl hydrazine
+dimethylsulfoniopropionate  DMSP
+t -butyl chloride
+t -butyl alcohol
+di- t -butyl peroxide  DTBP
+methane  natural gas
+hydroxycarbamide
+cyanide ion
+cyanogen
+guanidine nitrate
+cyanate ion
+carbon monoxide
+phosgene
+carbon dioxide
+carbon trioxide
+carbonate ion
+carbon disulfide
+tetrafluoroethylene
+acetylene
+vinyl chloride
+acetate ion
+ethylene
+ethylene dichloride
+3-amino-1,2,4-triazole
+acetic acid
+bromoethane
+ethylamine
+glycine  Gly
+ethoxide ion
+ethanol  ethyl alcohol
+diethylamine
+caesium ethoxide
+potassium ethoxide
+sodium ethoxide
+rubidium ethoxide
+ethane
+dimethyl sulfoxide  DMSO
+taurine
+oxalate ion
+malonate ion
+imidazole
+aminothiazole
+pyruvic acid
+malonic acid
+3-amino-1H-pyrazole
+nitroglycerine
+cyclopropane
+115-07-1
+-alanine
+107-95-9
+cysteine  Cys
+serine  Ser
+propane
+propanol  1-propanol
+67-63-0
+glycerol
+cyanuric acid
+cyanuric triazide
+2,6-dichloro-5-fluoroacil
+5-bromo-2-chloropyrimidine
+2,4-dichloropyrimidine
+1193-21-1
+2-amino-4,6-dichloropyrimidine
+fluorouracil
+flucytosine
+uracil
+3-aminopyrazole-4-carbonitrile
+cytosine
+methimazole
+1603-91-4
+2,4-diamino-6-hydroxypyrimidine
+succinic acid
+2-bromobutyric acid
+2623-87-2
+2052-01-9
+105-36-2
+1-Aminocyclopropanecarboxylic acid
+aspartic acid  Asp
+cyclobutane
+asparagine  Asn
+tetrahydrofuran  THF
+ethyl acetate
+-aminobutyric acid
+threonine  Thr
+butyl alcohol
+butane
+75-28-5
+diethyl ether
+2-bromo-5-nitropyridine
+3,5-dibromopyridine
+2-chloro-5-nitropyridine
+6-chloropurine
+niacin
+pyrazinoic acid
+orotic acid
+allopurinol
+68-94-0
+xanthine
+mercaptopurine
+b-thiophenic acid
+cyclopentadienyl anion
+2-amino-5-bromopyridine
+2-amino-4-chloropyridine
+1072-98-6
+14432-12-3
+2-amino-5-iodopyridine
+pyridine
+2-pyridone
+109-00-2
+pyrazinamide
+2-amino-nitropyridine
+adenine
+guanine
+3-pyridinylboronic acid
+4-aminopyridine
+504-29-0
+2-amino-3-hydroxypyridine
+methylthiouracil
+thymine
+-Ketoglutaric acid
+3,4-diaminopyridine
+proline  Pro
+glutamic acid  Glu
+cyclopentane
+glutamine  Gln
+deoxyribose
+valine  Val
+methionine  Met
+pentane
+pentafluorobenzoic acid
+5-bromonicotinic acid
+2-chloronicotinic acid
+6-chloro-7-dezapurine
+6-chloro-2-pyridinecarboxylic acid
+5326-23-8
+orthobenzoquinone
+106-51-4
+benzaldehyde
+benzyl alcohol
+benzoyl chloride
+benzoate ion
+benzoic acid
+fluorobenzene
+picolinic acid
+4-nitrophenol
+5006-66-6
+phenol
+citrate ion
+tetraphenylgermane
+benzene
+4-chlorophenylboronic acid
+4-fluorophenylboronic acid
+4-iodoaniline
+nicotinamide
+6-aminonicotinic acid
+phenol
+catechol
+123-31-9
+108-46-3
+hydroxymethylfurfural
+phenylboronic acid
+isoniazid
+2-amino-3-methylpyridine
+695-34-1
+1603-41-4
+1824-81-3
+ethyl 2-aminothiazole-4-carboxylate
+63-74-1
+citric acid
+histidine  His
+6994-25-8
+metronidazole
+4-acetylbutyric acid
+6295-06-3
+141-97-9
+25584-83-2
+599-04-2
+20279-43-0
+cycloleucine
+3105-95-1
+cyclohexane
+fructose
+50-99-7
+N -ethylmorpholine
+aminocaproic acid
+73-32-5
+61-90-5
+hexane
+lysine  Lys
+arginine  Arg
+4-fluorobenzoic acid
+quinolinic acid
+499-83-2
+2-mercaptobenzothiazole
+7-nitroindazole
+7-azaindole
+benzoic acid
+123-08-0
+salicylic acid
+99-96-7
+protocatechuic acid
+303-38-8
+gallic acid
+4-carboxyphenylboronic acid
+4-aminobenzoic acid
+mesalazine
+benomyl metabolite
+toluene
+hydrochlorothiazide
+theophylline
+4-methylphenylboronic acid
+4-boronoanisole
+4-dimethylaminopyridine
+heptane
+riluzole
+isatin
+5-bromoindole
+52415-29-9
+4-chloroindole
+2,4-dichlorophenoxyacetic acid
+4-quinazolinol
+indazolium-3-carboxylate
+indole
+indol-4-ol
+59-48-3
+1953-54-4
+cubane
+2-amino-6-methoxybenzothiazole
+4-hydroxyphenylacetic acid
+621-59-0
+vanillic acid
+acetaminophen
+aminomethylbenzoic acid
+hydroxydanaidal
+methyl anthranilate
+caffeine
+tyramine
+aciclovir
+octane
+4-bromoisoquinoline
+5-cyanoindole
+umbelliferone
+8-hydroxyquinoline
+487-89-8
+indole-2-carboxylic acid
+771-50-6
+5-aminoisoquinoline
+611-34-7
+580-15-4
+578-66-5
+cinnamic acid
+o -coumaric acid
+621-54-5
+7400-08-0
+aspirin  acetylsalicylic acid
+331-39-5
+methylketol
+83-34-1
+4-methoxyindole
+1006-94-6
+3189-13-7
+700-06-1
+hippuric acid
+paeonol
+phenylanine  LPA
+150-30-1
+tyrosine  Tyr
+L-DOPA
+gabapentin
+1-boc-piperazine
+nonane
+quinaldic acid
+naphthalene
+hymecromone
+indole-3-acetic acid
+kinetin
+5-methoxyindole-3-carboxaldehyde
+edaravone
+ferulic acid
+sulfamethoxazole
+tryptamine
+adenosine
+mentha spicata herb oil
+ephedrine
+camphor
+boc-4-piperidone
+1-boc-4-piperidinol
+boc-4-aminopiperidine
+decane
+menadione
+3-indolepropionic acid
+tryptophan  Trp
+5-methoxytryptamine
+boc-isonipecotic acid
+undecane
+methoxsalen
+biphenyl
+furosemide
+6-benzylaminopurine
+1-benzyl-4-piperidone
+maltose
+57-50-1
+indole-3-butyric acid
+propofol
+dodecane
+benzophenone
+fluconazole
+-ionone
+monobenzene
+melatonin
+ibuprofen
+tridecane
+anthracene
+benzoyl peroxide
+resveratrol
+aspartame
+trimethoprim
+tetradecane
+daidzein
+apigenin
+518-82-1
+446-72-0
+luteolin
+quercetin
+carbamazepine
+phenytoin
+pentadecane
+zinc acexamate
+hexadecane
+celecoxib
+nifedipine
+omeprazole
+heptadecane
+capsaicin
+linoleic acid
+stearic acid
+octadecane
+indometacin
+nonadecane
+quinine
+tretinoin
+eicosane
+Coenzyme A
+tetrahydrocannabinol
+loratadine
+maitotoxin
+lanthanum(III) chloride
+lanthanum(III) phosphate
+lanthanum(III) phosphate crystal hemihydrate
+keatite
+lithium bromide
+lithium bromide dihydrate
+lithium bromate
+lithium chloride
+lithium hypochlorite
+lithium chlorite
+lithium chlorate
+lithium perchlorate
+lithium cyanide
+lithium ethoxide
+lithium fluoride
+lithium iodide
+lithium bicarbonate
+lithium hydrosulfide
+lithium bisulfite
+lithium hydrogen sulfate
+lithium iodate
+sodium lithium
+lithium nitrite
+lithium nitrate
+lithium nitrate monohydrate
+lithium hydroxide
+lithium tantalate  lithium metatantalate
+lithium metavanadate dihydrate
+lithium tetraborate pentahydrate
+lithium carbonate
+lithium chromate
+lithium chromate dihydrate
+lithium dichromate
+lithium orthomolybdate
+lithium metaniobate
+lithium hyponitrite
+lithium oxide
+lithium peroxide
+lithium sulfide
+lithium sulfite
+lithium sulfate
+lithium selenite
+lithium selenate
+lithium metasilicate
+63985-45-5
+lithium tellurite
+lithium tellurate
+lithium metatitanate
+lithium orthotungstate
+lithium metazirconate
+zinc aluminate
+zinc arsenite
+zinc bromide
+zinc cyanide
+zinc carbonate
+zinc caprylate
+zinc chlorate
+zinc chloride
+zinc chromite
+zinc fluoride
+zinc iodate
+zinc iodide
+zinc orthomolybdate
+zinc nitrite
+zinc nitrate
+zinc metaniobate
+zinc(II) oxide  zinc oxide
+zinc peroxide
+zinc hydroxide
+zincate ion
+zinc sulfide  sphalerite
+zinc thiocyanate
+zinc sulfate
+zinc antimonide
+zinc selenide
+zinc selenite
+zinc stannate
+zinc metatantalate
+zinc telluride
+zinc tellurite
+zinc tellurate
+zinc metatitanate
+zinc metavanadate
+zinc orthotungstate
+zinc metazirconate
+zinc pyrophosphate
+zinc orthosilicate
+zinc arsenate
+zinc arsenide
+zinc nitride
+zinc phosphide
+zinc phosphate
+zinc antimonide
+zirconium boride
+zirconium bromide
+zirconium carbide
+zirconium tetrachloride
+zirconium fluoride
+zirconium iodide
+zirconium nitride
+zirconium hydroxide
+zirconium dioxide   baddeleyite
+zirconate ion
+zirconium phosphide
+zirconium sulfide
+zirconium silicide
+zirconium orthosilicate
+zirconium phosphate
+ACANTHITE (Silver Sulfide)
+ACTINOLITE (Calcium Magnesium Iron Silicate Hydroxide)
+ADAMITE (Zinc Arsenate Hydroxide)
+AEGIRINE (Sodium Iron Silicate)
+AESCHYNITE (Yttrium Calcium Iron Thorium Titanium Niobium Oxide Hydroxide)
+AGATE (variety of Quartz - Silicon Oxide)
+AJOITE (Hydrated Potassium Sodium Copper Aluminum Silicate Hydroxide)
+ALBITE (Sodium Aluminum Silicate)
+ALEXANDRITE (variety of Chrysoberyl- Beryllium Aluminum Oxide)
+ALLANITE (Calcium Cerium Lanthanum Yttrium Aluminum Iron Silicate Hydroxide)
+ALLUVIAL (a type of unconsolidated sediments)
+ALMANDINE (Iron Aluminum Silicate)
+ALTAITE (Lead Telluride)
+ALUMINUM (Al)
+ALUNITE (Potassium Aluminum Sulfate Hydroxide)
+AMBER (Succinite: fossilized tree resin)
+AMBLYGONITE (Lithium Sodium Aluminum Phosphate Fluoride Hydroxide)
+AMETHYST (variety of Quartz- Silicon Oxide)
+ANALCIME (Hydrated Sodium Aluminum Silicate)
+ANAPAITE (Hydrated Calcium Iron Phosphate)
+ANATASE (Titanium Oxide)
+ANDALUSITE (Aluminum Silicate)
+ANDERSONITE (Hydrated Sodium Calcium Uranyl Carbonate)
+ANDESINE (Sodium Calcium Aluminum Silicate)
+ANDESITE (an extrusive igneous rock)
+ANDRADITE (Calcium Iron Silicate)
+ANGELITE (trade name for Anhydrite)
+ANGLESITE (Lead Sulfate)
+ANHYDRITE (Calcium Sulfate)
+ANKERITE (Calcium Iron Carbonate)
+ANNABERGITE (Hydrated Nickel Arsenate)
+ANORTHITE (Calcium Aluminum Silicate)
+ANORTHOSITE (a plutonic igneous rock)
+ANTHOPHYLLITE (Magnesium Iron Silicate Hydroxide)
+ANTIMONY (Sb)
+ANTLERITE (Copper Sulfate Hydroxide)
+APATITE (Calcium (Fluoro, Chloro, Hydroxyl) Phosphate)
+APOPHYLLITE (Hydrated Potassium Calcium Silicate Hydroxide Flouride)
+AQUAMARINE (variety of Beryl, Berylium Aluminum Silicate)
+ARAGONITE (Calcium Carbonate)
+ARFVEDSONITE (Sodium Iron Magnesium Silicate Hydroxide)
+ARGENTITE (Silver Sulfide)
+ARGYRODITE (Silver Germanium Sulfide)
+ARSENIC (As)
+ARSENOPYRITE (Iron Arsenide Sulfide)
+ARSENTSUMEBITE (Lead Copper Arsenate Sulfate)
+ARTHURITE (Hydrated Copper Iron Arsenate Phosphate Sulfate)
+ARTINITE (Hydrated Magnesium Carbonate Hydroxide)
+ASTEROIDS (primordial stony or metallic rocks in space)
+ASTROPHYLLITE (Potassium Iron Titanium Silicate Hydroxide)
+ATACAMITE (Copper Chloride Hydroxide)
+AUGELITE (Aluminum Phosphate Hydroxide)
+AUGITE (Calcium Sodium Magnesium Aluminum Iron Titanium Silicate)
+AURICHALCITE (Zinc Copper Carbonate Hydroxide)
+AUSTINITE (Calcium Zinc Arsenate Hydroxide)
+AUTUNITE (Hydrated Calcium Uranyl Phosphate)
+AXINITE (Calcium Iron Magnesium Manganese Aluminum Boro-Silicate Hydroxide)
+AZURITE (Copper Carbonate Hydroxide)
+B
+BABINGTONITE (Calcium Iron Manganese Silicate Hydroxide)
+BAKERITE (Hydrated Calcium Boro-silicate Hydroxide)
+BARATOVITE (Potassium Lithium Calcium Titanium Zirconium Silicate Fluoride)
+BARITE (Barium Sulfate)
+BASALT (the most common igneous rock)
+BASTNASITE (Cerium Lanthanum Yttrium Carbonate Fluoride)
+BAUMHAUERITE (Lead Arsenic Sulfide)
+BAYLDONITE (Hydrated Copper Lead Arsenate Hydroxide)
+BECQUERELITE (Hydrated Calcium Uranyl Oxide Hydroxide)
+BENITOITE (Barium Titanium Silicate)
+BERAUNITE (Hydrated Iron Phosphate Hydroxide)
+BERLINITE (Aluminum Phosphate)
+BERTHIERITE (Iron Antimony Sulfide)
+BERTRANDITE (Beryllium Silicate Hydroxide)
+BERYL (Berylium Aluminum Silicate)
+BERYLLONITE (Sodium Beryllium Phosphate)
+BETAFITE (Calcium Sodium Uranium Titanium Niobium Tantalum Oxide Hydroxide Fluoride)
+BEUDANTITE (Lead Iron Arsenate Sulfate Hydroxide)
+BIDEAUXITE (Lead Silver Chloride Fluoride Hydroxide)
+BIF (Banded Iron Formation aka Taconite)
+BINDHEIMITE (Lead Antimony Oxide)
+BIOTITE (Potassium Iron Magnesium Aluminum Silicate Hydroxide Fluoride)
+BISMUTH (Bi)
+BISMUTHINITE (Bismuth Sulfide)
+BIXBYITE (Manganese Iron Oxide)
+BLODITE (Hydrated Sodium Magnesium Sulfate)
+BLOODSTONE (variety of Chalcedony)
+BOLEITE (Hydrated Lead Copper Silver Chloride Hydroxide)
+BOLTWOODITE (Hydrated Potassium Uranyl Silicate Hydroxide)
+BORACITE (Magnesium Borate Chloride)
+BORAX (Hydrated Sodium Borate)
+BORNITE (Copper Iron Sulfide)
+BOULANGERITE (Lead Antimony Sulfide)
+BOURNONITE (Copper Lead Antimony Sulfide)
+BRANNERITE (Uranium Calcium Titanium Iron Oxide)
+BRASS (Copper Zinc Alloy)
+BRAZILIANITE (Sodium Aluminum Phosphate Hydroxide)
+BRECCIA (a clastic sedimentary rock)
+BROCHANTITE (Copper Sulfate Hydroxide)
+BROOKITE (Titanium Oxide)
+BRUCITE (Magnesium Hydroxide)
+BUERGERITE (Sodium Iron Aluminum Boro-silicate Oxide Fluoride)
+BURBANKITE (Sodium Calcium Strontium Barium Cerium Carbonate)
+BUTTGENBACHITE (Hydrated Copper Nitrate Chloride Hydroxide)
+BYTOWNITE (Calcium Sodium Aluminum Silicate)
+C
+CACOXENITE (Hydrated Iron Aluminum Phosphate Oxide Hydroxide)
+CALAVERITE (Gold Telluride)
+CALCIOVOLBORTHITE (Calcium Copper Vanadate Hydroxide)
+CALCITE (Calcium Carbonate)
+CALEDONITE (Copper Lead Carbonate Sulfate Hydroxide)
+CALOMEL (Mercury Chloride)
+CANCRINITE (Sodium Calcium Aluminum Silicate Carbonate)
+CARBOCERNAITE (Calcium Sodium Strontium Cerium Barium Carbonate)
+CARBONATES (Class)
+CARLETONITE (Hydrated Potassium Sodium Calcium Carbonate Silicate Fluoride Hydroxide)
+CARNALLITE (Hydrated Potasium Magnesium Chloride)
+CARNELIAN (variety of Quartz - Silicon Oxide)
+CARNOTITE (Hydrated Potassium Uranyl Vanadate)
+CASSITERITE (Tin Oxide)
+CATAPLEIITE (Hydrated Sodium Zirconium Silicate)
+CAVANSITE (Hydrated Calcium Vanadium Silicate)
+CELESTITE (Strontium Sulfate)
+CERUSSITE (Lead Carbonate)
+CHABAZITE (Hydrated Calcium Aluminum Silicate)
+CHALCANTHITE (Hydrated Copper Sulfate)
+CHALCEDONY (variety of Quartz - Silicon Oxide)
+CHALCOCITE (Copper Sulfide)
+CHALCOPHYLLITE (Hydrated Copper Aluminum Sulphate Arsenate Hydroxide)
+CHALCOPYRITE (Copper Iron Sulfide)
+CHALCOSIDERITE (Hydrated Copper Iron Phosphate Hydroxide)
+CHALCOTRICHITE (variety of Cuprite, Copper Oxide)
+CHALK (a sedimentary rock)
+CHAROITE (Hydrated Sodium Calcium Barium Strontium Silicate Hydroxide Fluoride)
+CHENGDEITE (Iridium Iron)
+CHILDRENITE (Hydrated Iron Manganese Aluminum Phosphate Hydroxide)
+CHKALOVITE (Sodium Beryllium Silicate)
+CHLORAPATITE (the chlorine rich apatite)
+CHLORARGYRITE (Silver Chloride)
+CHLORITE (Iron Magnesium Aluminum Silicate Hydroxide)
+CHONDRODITE (Magnesium Iron Silicate Fluoride Hydroxide)
+CHROMITE (Magnesium Iron Chromium Oxide)
+CHROMIUM (Cr)
+CHRYSOBERYL (Berylium Aluminum Oxide)
+CHRYSOCOLLA (Hydrated Copper Silicate)
+CHRYSOPRASE (variety of Quartz - Silicon Oxide)
+CHRYSOTILE (variety of Serpentine, Magnesium Iron Silicate Hydroxide)
+CHURCHITE (Hydrated Yttrium Erbium Phosphate)
+CINNABAR (Mercury Sulfide)
+CITRINE (variety of Quartz- Silicon Oxide)
+CLAUSTHALITE (Lead Selenide)
+CLAYS (Group)
+CLEAVELANDITE (variety of Albite, Sodium Aluminum Silicate)
+CLIFFORDITE (Uranium Tellurate)
+CLINOCHLORE (Magnesium Aluminum Silicate Hydroxide)
+CLINOCLASE (Copper Arsenate Hydroxide)
+CLINOHEDRITE (Hydrated Calcium Zinc Silicate)
+CLINOHUMITE (Magnesium Iron Silicate Fluoride Hydroxide)
+CLINOPTILOLITE (Hydrated Sodium Potassium Calcium Aluminum Silicate)
+COAL (an organic sedimentary rock)
+COBALT (Co)
+COBALTITE (Group)
+COBALTITE (Cobalt Arsenic Sulfide)
+COBALTOCALCITE (alternate name for Sphaerocobaltite)
+COCONINOITE (Hydrated Iron Aluminum Uranyl Phosphate Sulfate Hydroxide)
+COESITE (Silicon Dioxide)
+COLEMANITE (Hydrated Calcium Borate Hydroxide)
+COLLINSITE (Hydrated Calcium Magnesium Iron Phosphate)
+COLUMBITE (Iron Magnesium Manganese Niobium Tantalum Oxide)
+COMETS (primordial icy rocks in space)
+CONICHALCITE (Calcium Copper Arsenate Hydroxide)
+CONNELLITE (Hydrated Copper Sulfate Chloride Hydroxide)
+COPIAPITE (Hydrated Iron Magnesium Sulfate Hydroxide)
+COPPER (Cu)
+CORDIERITE (Magnesium Aluminum Silicate)
+CORDYLITE (Barium Cerium Lanthanum Carbonate Fluoride)
+CORNETITE (Copper Phosphate Hydroxide)
+CORNWALLITE (Copper Arsenate Hydroxide)
+CORUNDUM (Aluminum Oxide)
+COVELLITE (Copper Sulfide)
+CREEDITE (Hydrated Calcium Aluminum Sulfate Fluoride Hydroxide)
+CRISTOBALITE (Silicon Dioxide)
+CROCOITE (Lead Chromate)
+CROCIDOLITE (asbestiform variety of Riebeckite, Sodium Iron Magnesium Silicate Hydroxide)
+CRYOLITE (Sodium Aluminum Fluoride)
+CUBANITE (Copper Iron Sulfide)
+CUMENGITE (Lead Copper Chloride Hydroxide)
+CUMMINGTONITE (Magnesium Iron Silicate Hydroxide)
+CUPRITE (Copper Oxide)
+CUPROADAMITE (Copper Zinc Arsenate Hydroxide)
+CUPROSKLODOWSKITE (Hydrated Copper Uranyl Silicate)
+CYANOTRICHITE (Hydrated Copper Aluminum Sulfate Hydroxide)
+CYLINDRITE (Iron Lead Tin Antimony Sulfide)
+D
+DANBURITE (Calcium Boro-Silicate)
+DATOLITE (Group)
+DATOLITE (Calcium Boro-Silicate Hydroxide)
+DESCLOIZITE (Lead Zinc Vanadate Hydroxide)
+DEMANTOID (variety of Andradite garnet)
+DEPOSITS (unconsolidated sediments)
+DIABOLEITE (Lead Copper Chloride Hydroxide)
+DIAMOND (Carbon)
+DIGENITE (Copper Sulfide)
+DIOPSIDE (Calcium Magnesium Silicate)
+DIOPTASE (Copper Silicate Hydroxide)
+DOLOMITE (Calcium Magnesium Carbonate)
+DOMEYKITE (Copper Arsenide)
+DRAVITE (complex Sodium Magnesium Iron Boro-Aluminum Silicate)
+DUFRENITE (Hydrated Iron Phosphate Hydroxide)
+DUFTITE (Lead Calcium Copper Zinc Arsenate Hydroxide)
+DUMORTIERITE (Aluminum Borate Silicate Oxide)
+DUNDASITE (Hydrated Lead Aluminum Carbonate Hydroxide)
+DYSCRASITE (Silver Antimonide)
+E
+EDENITE (Sodium Calcium Magnesium Iron Aluminum Silicate Hydroxide)
+EDINGTONITE (Hydrated Barium Aluminum Silicate)
+ELBAITE (Sodium Lithium Aluminum Boro-Silicate Hydroxide)
+ELEMENTS (Class)
+ELPIDITE (Hydrated Sodium Zirconium Silicate)
+EMERALD (variety of Beryl- Berylium Aluminum Silicate)
+EMMONSITE (Hydrated Iron Tellurite)
+EMPLECTITE (Copper Bismuth Sulfide)
+ENARGITE (Copper Arsenic Sulfide)
+ENSTATITE (Magnesium Silicate)
+EOSPHORITE (Hydrated Manganese Aluminum Phosphate Hydroxide)
+EPIDIDYMITE (Sodium Beryllium Silicate Hydroxide)
+EPIDOTE (Calcium Iron Aluminum Silicate Hydroxide)
+EPISTILBITE (Hydrated Calcium Aluminum Silicate)
+EPSOMITE (Hydrated Magnesium Sulfate)
+ERIONITE (Hydrated Potassium Sodium Calcium Magnesium Aluminum Silicate)
+ERYTHRITE (Hydrated Cobalt Arsenate)
+ESPERITE (Calcium Lead Zinc Silicate)
+ETTRINGITE (Hydrated Calcium Aluminum Sulfate Hydroxide)
+EUCLASE (Beryllium Aluminum Silicate Hydroxide)
+EUCRYPTITE (Lithium Aluminum Silicate)
+EUDIALYTE (Sodium Calcium Cerium Iron Manganese Zirconium Silicate Hydroxide Chloride)
+EUDIDYMITE (Sodium Beryllium Silicate Hydroxide)
+EUXENITE (Yttrium Calcium Erbium Lanthanum Cerium Uranium Thorium Niobium Tantalum Titanium Oxide)
+F
+FAYALITE (Magnesium Iron Silicate)
+FEDORITE (Hydrated Sodium Potassium Calcium Silicate Fluoride Chloride Hydroxide)
+FELDSPAR (Group)
+FERBERITE (Iron Tungstate)
+FERRO-EDENITE (Sodium Calcium Iron Magnesium Aluminum Silicate Hydroxide)
+FERROGLAUCOPHANE (Sodium Iron Magnesium Aluminum Silicate Hydroxide)
+FIEDLERITE (Lead Chloride Fluoride Hydroxide)
+FLINT (variety of Quartz - Silicon Oxide)
+FLUORAPATITE (the fluorine rich apatite)
+FLUORITE (Calcium Fluoride)
+FLUORRICHTERITE (Sodium Calcium Magnesium Iron Silicate Hydroxide Fluoride)
+FORSTERITE (Iron Magnesium Silicate)
+FRANCKEITE (Lead Tin Iron Antimony Sulfide)
+FRANKLINITE (Zinc Manganese Iron Oxide)
+FUCHSITE (the chromium-rich muscovite)
+FULGARITE (lightning created Lechatelierite, Silicon Dioxide)
+G
+GADOLINITE (Yttrium Iron Beryllium Silicate)
+GAHNITE (Zinc Aluminum Oxide)
+GALENA (Group)
+GALENA (Lead Sulfide)
+GARNET (Group)
+GASPEITE (Nickel Magnesium Iron Carbonate)
+GAYLUSSITE (Hydrated Sodium Calcium Carbonate)
+GEMSTONES (Class)
+GEODES (generally hollow sedimentary rocks)
+GERSDORFFITE (Nickel Arsenide Sulfide)
+GIBBSITE (Aluminum Hydroxide)
+GLAUBERITE (Sodium Calcium Sulfate)
+GLAUCOPHANE (Sodium Magnesium Iron Aluminum Silicate Hydroxide)
+GMELINITE (Hydrated Sodium Calcium Aluminum Silicate)
+GOETHITE (Hydrated Iron Oxide)
+GOLD (Au)
+GOOSECREEKITE (Hydrated Calcium Aluminum Silicate)
+GORMANITE (Hydrated Iron Magnesium Aluminum Phosphate Hydroxide)
+GOSHENITE (variety of Beryl, Berylium Aluminum Silicate)
+GRAEMITE (Hydrated Copper Tellurate)
+GRANITE (an igneous rock with visible crystals)
+GRAPHITE (Carbon)
+GRATONITE (Lead Arsenic Sulfide)
+GREENOCKITE (Cadmium Sulfide)
+GROSSULAR (Calcium Aluminum Silicate)
+GYPSUM (Hydrated Calcium Sulfate)
+GYROLITE (Hydrated Calcium Silicate Hydroxide)
+H
+HACKMANITE (variety of Sodalite, Sodium Aluminum Silicate Chloride)
+HALIDES (Class)
+HALITE (Sodium Chloride)
+HANKSITE (Potassium Sodium Sulfate Carbonate Chloride)
+HARDYSTONITE (Calcium Zinc Silicate)
+HARMOTOME (Hydrated Barium Potasium Aluminum Silicate)
+HAUSMANNITE (Manganese Oxide)
+HEDENBERGITE (Calcium Iron Silicate)
+HEDYPHANE (Lead Calcium Arsenate Chloride)
+HELIODOR (variety of Beryl, Berylium Aluminum Silicate)
+HEMATITE (Iron Oxide)
+HEMIMORPHITE (Hydrated Zinc Silicate Hydroxide)
+HERDERITE (Calcium Beryllium Phosphate Fluoride Hydroxide)
+HESSITE (Silver Telluride)
+HESSONITE (variety of Grossular garnet)
+HEULANDITE (Hydrated Sodium Calcium Aluminum Silicate)
+HIDDENITE (variety of Spodumene)
+HILAIRITE (Hydrated Sodium Zirconium Silicate)
+HINSDALITE (Lead Strontium Aluminum Phosphate Sulfate Hydroxide)
+HODGKINSONITE (Manganese Zinc Silicate Hydroxide)
+HOPEITE (Hydrated Zinc Phosphate)
+HORNBLEND (Calcium Sodium Magnesium Iron Aluminum Silicate Hydroxide)
+HOWLITE (Calcium Boro-Silicate Hydroxide)
+HUEBNERITE (Manganese Tungstate)
+HUMITE (Magnesium Iron Silicate Fluoride Hydroxide)
+HUREAULITE (Hydrated Manganese Phosphate Hydroxide)
+HYDROBORACITE (Hydrated Calcium Magnesium Borate)
+HYDROMAGNESITE (Hydrated Magnesium Carbonate Hydroxide)
+HYDROXYLAPATITE (the hydroxyl group rich apatite)
+HYDROXYLBASTNASITE (Cerium Lanthanum Neodymium Carbonate Hydroxide Fluoride)
+HYDROZINCITE (Hydrated Zinc Carbonate)
+HYPERSTHENE (Magnesium Iron Silicate)
+I
+ICE (Hydrogen Oxide)
+IDOCRASE (alternate name of Vesuvianite)
+IGNEOUS (rocks that solidified from magma)
+ILVAITE (Calcium Iron Silicate Hydroxide)
+ILMENITE (Iron Titanium Oxide)
+INDICOLITE (blue variety of Elbaite tourmaline)
+INESITE (Hydrated Calcium Manganese Silicate Hydroxide)
+IOLITE (variety of Cordierite)
+IRON (Fe)
+J
+JADE (gem variety of both Jadeite and Nephrite (variety of Actinolite))
+JADEITE (Sodium Iron Aluminum Silicate)
+JAMESONITE (Lead Iron Antimony Sulfide)
+JAROSITE (Potassium Iron Sulfate Hydroxide)
+JASPER (variety of Quartz - Silicon Oxide)
+JOAQUINITE (Barium Sodium Cesium Titanium Niobium Iron Silicate Hydroxide Fluoride)
+JORDANITE (Lead Arsenic Antimony Sulfide)
+K
+KAEMMERERITE (the chromium rich variety of cliniclore)
+KAOLINITE (Aluminum Silicate Hydroxide)
+KERMESITE (Antimony Oxysulfide)
+KERNITE (Hydrated Sodium Borate)
+KIDWELLITE (Hydrated Sodium Iron Phosphate Hydroxide)
+KIESERITE (Hydrated Magnesium Sulfate)
+KINOITE (Hydrated Calcium Copper Silicate)
+KNAUFITE (alternate name for VOLBORTHITE, Copper Vanadate Hydroxide)
+KOLWEZITE (Copper Cobalt Carbonate Hydroxide)
+KORNERUPINE (Magnesium Aluminum Iron Boro-silicate Hydroxide)
+KOTTIGITE (Hydrated Zinc Arsenate)
+KOVDORSKITE (Hydrated Magnesium Carbonate Phosphate Hydroxide)
+KTENASITE (Hydrated Copper Zinc Sulfate Hydroxide)
+KULANITE (Barium Iron Manganese Magnesium Aluminum Phosphate Hydroxide)
+KUNZITE (variety of Spodumene)
+KUPLETSKITE (Potassium Sodium Manganese Iron Titanium Niobium Silicate Hydroxide)
+KUTNOHORITE (Calcium Magnesium Carbonate)
+KYANITE (Aluminum Silicate)
+L
+LABRADORITE (Calcium Sodium Aluminum Silicate)
+LARDERELLITE (Ammonium Borate Hydroxide)
+LARIMAR (variety of Pectolite)
+LAUEITE (Hydrated Manganese Iron Phosphate Hydroxide)
+LAUMONTITE (Hydrated Calcium Aluminum Silicate)
+LAURIONITE (Lead Chloride Hydroxide)
+LAZULITE (Magnesium Aluminum Phosphate Hydroxide)
+LAZURITE (Sodium Calcium Aluminum Silicate Sulfate)
+LEAD (Pb)
+LEADHILLITE (Lead Sulfate Carbonate Hydroxide)
+LECHATELIERITE (Silicon Dioxide)
+LEGRANDITE (Hydrated Zinc Arsenate Hydroxide)
+LEIFITE (Hydrated Sodium Beryllium Aluminum Silicate Hydroxide Fluoride)
+LEPIDOLITE (Potassium Lithium Aluminum Silicate Hydroxide Fluoride)
+LEUCITE (Potasium Aluminum Silicate)
+LEUCOCHALCITE (variety of Olivenite)
+LEUCOPHANITE (Sodium Calcium Beryllium Silicate Fluoride)
+LIBETHENITE (Copper Phosphate Hydroxide)
+LIMESTONE (a common sedimentary rock)
+LIMONITE (Hydrated Iron Oxide Hydroxide)
+LINARITE (Lead Copper Sulfate hydroxide)
+LINNAEITE (Cobalt Sulfide)
+LIROCONITE (Hydrated Copper Aluminum Arsenate Hydroxide)
+LITHIOPHILITE (Lithium Manganese Iron Phosphate)
+LOLLINGITE (Iron Arsenide)
+LORENZENITE (Sodium Titanium Silicate)
+LARIMAR (variety of Pectolite)
+LUDLAMITE (Hydrated Iron Magnesium Manganese Phosphate)
+M
+MACPHERSONITE (Lead Sulfate Carbonate Hydroxide)
+MAGNESITE (Magnesium Carbonate)
+MAGNETITE (Iron Oxide)
+MALACHITE (Hydrated Copper Carbonate)
+MANGANBABINGTONITE (Calcium Manganese Iron Silicate Hydroxide)
+MANGANESE (Mn)
+MANGANITE (Manganese Oxide Hydroxide)
+MARBLE (a metamorphic rock from limestone)
+MARCASITE (Group)
+MARCASITE (Iron Sulfide)
+MASSICOT (Lead Oxide)
+MELANITE (the black variety of Andradite Garnet)
+MELANOPHLOGITE (Silicon Oxide with organic compounds)
+MELANTERITE (Hydrated Iron Sulfate)
+MENEGHINITE (Lead Antimony Sulfide)
+MERCURY (Hg)
+MESOLITE (Hydrated Sodium Calcium Aluminum Silicate)
+META-ANKOLEITE (Hydrated Potassium Uranyl Phosphate)
+META-AUTUNITE (Hydrated Calcium Uranyl Phosphate)
+META-TORBERNITE (Hydrated Copper Uranyl Phosphate)
+META-URANOCIRCITE (Hydrated Barium Uranyl Phosphate)
+META-VARISCITE (Hydrated Aluminum Phosphate)
+META-ZEUNERITE (Hydrated Copper Uranyl Arsenate)
+METAMORPHIC (rocks formed via heat and pressure)
+METEORITES (primordial rocks that fell to Earth)
+MIARGYRITE (Silver Antimony Sulfide)
+MICA (Group)
+MICROCLINE (Potasium Aluminum Silicate)
+MICROLITE (Calcium Sodium Tantalum Oxide Hydroxide Fluoride)
+MILARITE (Hydrated Potassium Calcium Aluminum Beryllium Silicate)
+MILKY_QUARTZ (variety of Quartz)
+MILLERITE (Nickel Sulfide)
+MIMETITE (Lead Chloroarsenate)
+MINASGERAISITE - (Y) (Calcium Yttrium Beryllium Silicate)
+MINERALOIDS (Class)
+MINIUM (Lead Oxide)
+MIXITE (Hydrated Bismuth Copper Arsenate Hydroxide)
+MOCTEZUMITE (Lead Uranyl Tellurite)
+MOISSANITE (Silicon Carbide)
+MOLDAVITE (variety of Tecktite: Meteoric Silica Glass)
+MOLYBDENUM (the element Molybdenum)
+MOLYBDENITE (Molybdenum Sulfide)
+MONAZITE (Cerium Lanthanum Thorium Neodymium Yttrium Phosphate)
+MONTEBRASITE (Lithium Sodium Aluminum Phosphate Hydroxide Fluoride)
+MONTMORILLONITE (Hydrated Sodium Calcium Aluminum Magnesium Silicate Hydroxide)
+MOONSTONE (variety of Oligoclase, Sodium Calcium Aluminum Silicate)
+MORDENITE (Hydrated Calcium Sodium Potassium Aluminum Silicate)
+MORGANITE (variety of Beryl, Berylium Aluminum Silicate)
+MOSCHELLANDSBERGITE (Silver Mercury or Silver Amalgam)
+MOTTRAMITE (Lead Copper Vanadate Hydroxide)
+MURMANITE (Hydrated Sodium Titanium Niobium Silicate)
+MUSCOVITE (Potassium Aluminum Silicate Hydroxide Fluoride)
+N
+NAGYAGITE (Lead Gold Antimony Bismuth Telluride Sulfide)
+NAHCOLITE (Sodium Bicarbonate)
+NARSARSUKITE (Sodium Titanium Iron Silicate Fluoride)
+NATROJAROSITE (Sodium Iron Sulfate Hydroxide)
+NATROLITE (Hydrated Sodium Aluminum Silicate)
+NEALITE (Lead Iron Arsenate Chloride)
+NEPHELINE (Sodium Potassium Aluminum Silicate)
+NEPHRITE (variety of Actinolite, Calcium Magnesium Iron Silicate Hydroxide)
+NEPTUNITE (Potassium Sodium Lithium Iron Manganese Titanium Silicate)
+NICKEL (the element Nickel)
+NICKELINE (Nickel Arsenide)
+NITER (Potasium Nitrate)
+NITRATINE (Sodium Nitrate)
+NORBERGITE (Magnesium Silicate Fluoride Hydroxide)
+O
+OBSIDIAN (Volcanic Silica Glass)
+OKENITE (Hydrated Calcium Silicate)
+OLIGOCLASE (Sodium Calcium Aluminum Silicate)
+OLIVINE (Group)
+OLIVINE (Magnesium Iron Silicate)
+OLIVENITE (Copper Arsenate Hydroxide)
+ONYX (variety of Quartz - Silicon Oxide)
+OPAL (Hydrated Silica)
+ORGANICS (Class)
+ORPIMENT (Arsenic Sulfide)
+ORTHOCLASE (Potasium Aluminum Silicate)
+OSBORNITE (Titanium Nitride)
+OSUMILITE (Hydrated Potassium Sodium Iron Magnesium Aluminum Silicate)
+OTAVITE (Cadmium Carbonate)
+OXIDES (Class)
+P
+PACHNOLITE (Hydrated Sodium Calcium Aluminum Fluoride)
+PALYGORSKITE (Hydrated Magnesium Aluminum Silicate Hydroxide)
+PAPAGOITE (Calcium Copper Aluminum Silicate Hydroxide)
+PARADAMITE (Zinc Arsenate Hydroxide)
+PARASYMPLESITE (Hydrated Iron Arsenate)
+PARAVAUXITE (Hydrated Iron Aluminum Phosphate Hydroxide)
+PARISITE (Calcium Cerium Lanthanum Neodymium Carbonate Fluoride)
+PECTOLITE (Sodium Calcium Silicate Hydroxide)
+PENTLANDITE (Iron Nickel Sulfide)
+PERICLASE (Magnesium Oxide)
+PERIDOT (variety of Olivine)
+PEROVSKITE (Calcium Titanium Oxide)
+PHARMACOLITE (Hydrated Calcium Arsenate Hydroxide)
+PHARMACOSIDERITE (Hydrated Potassium Iron Arsenate Hydroxide)
+PHENAKITE (Berylium Silicate)
+PHILLIPSITE (Hydrated Potasium Sodium Calcium Aluminum Silicate)
+PHLOGOPITE (Potassium Magnesium Aluminum Silicate Hydroxide)
+PHOSGENITE (Lead Carbonate Chloride)
+PHOSPHATES (Class)
+PHOSPHOPHYLLITE (Hydrated Zinc Iron Manganese Phosphate)
+PHOSPHURANYLITE (Hydrated Calcium Uranyl Phosphate Hydroxide)
+PICROMERITE (Hydrated Potassium Magnesium Sulfate)
+PIRSSONITE (Hydrated Sodium Calcium Carbonate)
+PLANCHEITE (Hydrated Copper Silicate Hydroxide)
+PLATINUM (Pt)
+PLATTNERITE (Lead Oxide)
+POLYBASITE (Silver Copper Antimony Sulfide)
+POLYHALITE (Hydrated Potassium Calcium Magnesium Sulfate)
+POLYLITHIONITE (Potassium Lithium Aluminum Silicate Fluoride)
+POWELLITE (Calcium Molybdenate)
+PRASIOLITE (variety of Quartz)
+PREHNITE (Calcium Aluminum Silicate Hydroxide)
+PRIMORDIAL (rocks formed before the Earth)
+PROUSTITE (Silver Arsenic Sulfide)
+PSEUDOBOLEITE (Lead Copper Chloride Hydroxide)
+PSEUDOBROOKITE (Iron Titanium Oxide)
+PSEUDOMALACHITE (Copper Phosphate Hydroxide)
+PSILOMELANE (Manganese Oxide)
+PUCHERITE (Bismuth Vanadate)
+PURPURITE (Manganese Phosphate)
+PYRARGYRITE (Silver Antimony Sulfide)
+PYRITE (Iron Sulfide)
+PYROAURITE (Hydrated Magnesium Iron Carbonate Hydroxide)
+PYROCHLORE (Calcium Sodium Niobium Oxide Hydroxide Fluoride)
+PYROLUSITE (Manganese Oxide)
+PYROMORPHITE (Lead Chlorophosphate)
+PYROPE (Magnesium Aluminum Silicate)
+PYROPHYLLITE (Aluminum Silicate Hydroxide)
+PYROXENE (Group)
+PYRRHOTITE (Iron Sulfide)
+QUARTZ (Silicon Oxide)
+QUETZALCOATLITE (Zinc Copper Tellurite Hydroxide)
+RAITE (Hydrated Sodium Calcium Manganese Titanium Iron Silicate Hydroxide)
+RAMMELSBERGITE (Nickel Arsenide)
+RAMSDELLITE (Manganese Oxide)
+REALGAR (Arsenic Sulfide)
+RHABDOPHANE (Hydrated Cerium Lanthanum Neodymium Phosphate)
+RHENIITE (Rhenium Sulfide)
+RHODIZITE (Potassium Cesium Beryllium Aluminum Borate)
+RHODOCHROSITE (Manganese Carbonate)
+RHODOLITE (variety of PYROPE garnet, Magnesium Aluminum Silicate)
+RHODONITE (Manganese Iron Magnesium Calcium Silicate)
+RICHTERITE (Sodium Calcium Magnesium Iron Silicate Hydroxide)
+RIEBECKITE (Sodium Iron Magnesium Silicate Hydroxide)
+ROCK_CRYSTAL (variety of Quartz- Silicon Oxide)
+ROCKBRIDGEITE (Iron Manganese Phosphate Hydroxide)
+ROMANECHITE (Hydrated Barium Manganese Oxide)
+ROSASITE (Copper Zinc Carbonate Hydroxide)
+ROSE_QUARTZ (variety of Quartz- Silicon Oxide)
+ROSELITE (Hydrated Calcium Cobalt Magnesium Arsenate)
+RUBY (variety of Corundum- Aluminum Oxide)
+RUTILE (Titanium Oxide)
+SAFFLORITE (Cobalt Iron Arsenide)
+SAINFELDITE (Hydrated Calcium Arsenate Hydroxide)
+SAL_AMMONIAC (Ammonium Chloride)
+SAMARSKITE (Yttrium Cerium Uranium Iron Niobium Tantalum Titanium Oxide)
+SANBORNITE (Barium Silicate)
+SANDSTONE (a common sedimentary rock)
+SANIDINE (Potasium Aluminum Silicate)
+SAPPHIRE (variety of Corundum- Aluminum Oxide)
+SARD (variety of Quartz - Silicon Oxide)
+SARDONYX (variety of Quartz - Silicon Oxide)
+SARTORITE (Lead Arsenic Sulfide)
+SCAPOLITE (Sodium Calcium Aluminum Silicate Chloride Carbonate Sulfate)
+SCHEELITE (Calcium Tungstate)
+SCHMITTERITE (Uranyl Tellurite)
+SCHOLZITE (Hydrated Calcium Zinc Phosphate)
+SCHORL (complex Sodium Iron Boro-Aluminum Silicate)
+SCHROCKINGERITE (Hydrated Sodium Calcium Uranyl Sulfate Carbonate Fluoride)
+SCOLECITE (Hydrated Calcium Aluminum Silicate)
+SCORODITE (Hydrated Iron Arsenate)
+SCORZALITE (Iron Magnesium Aluminum Phosphate Hydroxide)
+SEDIMENTARY (rocks formed via biochemical, clastic, or evaporative processes)
+SELENITE (alternate name for Gypsum)
+SELENIUM (Se)
+SEMSEYITE (Lead Antimony Sulfide)
+SENARMONTITE (Antimony Oxide)
+SERANDITE (Sodium Manganese Calcium Silicate Hydroxide)
+SERPENTINE (Iron Magnesium Nickel Silicate Hydroxide)
+SHATTUCKITE (Copper Silicate Hydroxide)
+SIDERITE (Iron Carbonate)
+SILICATES (Class)
+SILICON (Si)
+SILLIMANITE (Aluminum Silicate)
+SILVER (Ag)
+SINHALITE (Magnesium Aluminum Borate)
+SJOGRENITE (Hydrated Magnesium Iron Carbonate Hydroxide)
+SKLODOWSKITE (Hydrated Magnesium Uranyl Silicate)
+SKUTTERUDITE (Cobalt Arsenide)
+SMITHSONITE (Zinc Carbonate)
+SMOKY_QUARTZ (variety of Quartz- Silicon Oxide)
+SODALITE (Sodium Aluminum Silicate Chloride)
+SPANGOLITE (Hydrated Copper Aluminum Sulfate Chloride Hydroxide)
+SPERRYLITE (Platinum Arsenide)
+SPESSARTINE (Manganese Aluminum Silicate)
+SPHAEROCOBALTITE (Cobalt Carbonate)
+SPHALERITE (Zinc Iron Sulfide)
+SPHENE (Calcium Titanium Silicate)
+SPINEL (Group)
+SPINEL (Magnesium Aluminum Oxide)
+SPODUMENE (Lithium Aluminum Silicate)
+STAUROLITE (Iron Magnesium Zinc Aluminum Silicate Hydroxide)
+STELLERITE (Hydrated Calcium Aluminum Silicate)
+STEPHANITE (Silver Antimony Sulfide)
+STIBARSEN (Antimony Arsenic)
+STIBICONITE (Antimony Oxide Hydroxide)
+STIBNITE (Antimony Sulfide)
+STICHTITE (Hydrated Magnesium Chromium Carbonate Hydroxide)
+STILBITE (Hydrated Calcium Aluminum Silicate)
+STISHOVITE (Silicon Dioxide)
+STRENGITE (Hydrated Iron Phosphate)
+STRONTIANITE (Strontium Carbonate)
+STRUNZITE (Calcium Zinc Arsenate Hydroxide)
+STURMANITE (Hydrated Calcium Iron Aluminum Manganese Sulfate Tetrahydroxoborate Hydroxide)
+SUGILITE (Potassium Sodium Lithium Iron Manganese Aluminum Silicate)
+SULFATES (Class)
+SULFIDES (Class)
+SULFUR (S)
+SUNSTONE (variety of Oligoclase, Sodium Calcium Aluminum Silicate)
+SUOLUNITE (Hydrated Calcium Silicate Hydroxide)
+SUSANNITE (Lead Sulfate Carbonate Hydroxide)
+SUSSEXITE (Manganese Borate Hydroxide)
+SVANBERGITE (Strontium Aluminum Phosphate Sulfate Hydroxide)
+SYLVANITE (Silver Gold Telluride)
+SYLVITE (Potassium Chloride)
+SYMPLESITE (Hydrated Iron Arsenate)
+SYNCHYSITE (Calcium Cerium Lanthanum Neodymium Yttrium Carbonate Fluoride)
+TAAFFEITE (Beryllium Magnesium Aluminum Oxide)
+TAINIOLITE (Potassium Lithium Magnesium Silicate Fluoride)
+TALC (Magnesium Silicate Hydroxide)
+TANTALITE (Iron Manganese Tantalum Niobium Oxide)
+TANZANITE (gem variety of Zoisite)
+TARBUTTITE (Zinc Phosphate Hydroxide)
+TEALLITE (Lead Tin Sulfide)
+TEKTITES (Meteoric Silica Glass)
+TELLURIUM (Te)
+TENNANTITE (Copper Arsenic Sulfide)
+TEPHROITE (Manganese Silicate)
+TETRAHEDRITE (Copper Antimony Sulfide)
+THAUMASITE (Hydrated Calcium Silicon Carbonate Sulfate Hydroxide)
+THENARDITE (Sodium Sulfate)
+THOMSONITE (Hydrated Sodium Calcium Aluminum Silicate)
+THORITE (Thorium Uranium Silicate)
+THOROGUMMITE (Thorium Uranium Silicate Hydroxide)
+TINAKSITE (Titanium Sodium Potasium Silicate Hydroxide)
+TINCALCONITE (Hydrated Sodium Borate)
+TITANIUM (Ti)
+TITANITE (alternate name for Sphene)
+TOPAZ (Aluminum Silicate Fluoride Hydroxide)
+TOPAZOLITE (the yellow variety of Andradite Garnet)
+TORBERNITE (Hydrated Copper Uranyl Phosphate)
+TOURMALINE (Group)
+TREMOLITE (Calcium Magnesium Iron Silicate Hydroxide)
+TRIDYMITE (Silicon Dioxide)
+TRIPHYLITE (Lithium Iron Manganese Phosphate)
+TRONA (Hydrated Sodium Bicarbonate Carbonate)
+TSAVORITE (variety of Grossular garnet)
+TSUMCORITE (Hydrated Lead Zinc Iron Arsenate)
+TSUMEBITE (Lead Copper Phosphate Sulfate)
+TURQUOISE (Hydrated Copper Aluminum Phosphate)
+TYUYAMUNITE (Hydrated Calcium Uranyl Vanadate)
+ULEXITE (Sodium Calcium Borate Hydroxide)
+ULLMANNITE (Nickel Antimony Sulfide)
+URANINITE (Uranium Oxide)
+URANOCIRCITE (Hydrated Barium Uranyl Phosphate)
+URANOPHANE (Hydrated Calcium Uranyl Silicate)
+URANOPILITE (Hydrated Uranyl Sulfate Hydroxide)
+UVAROVITE (Calcium Chromium Silicate)
+UVITE (complex Calcium Sodium Magnesium Iron Boro-Aluminum Silicate Hydroxide)
+VALENTINITE (Antimony Oxide)
+VANADINITE (Lead Chlorovanadinate)
+VARISCITE (Hydrated Aluminum Phosphate)
+VAUXITE (Hydrated Iron Aluminum Phosphate Hydroxide)
+VERMICULITE (Hydrated Magnesium Iron Aluminum Silicate Hydroxide)
+VESUVIANITE (Calcium Magnesium Aluminum Silicate Hydroxide)
+VESZELYITE (Hydrated Copper Zinc Phosphate Hydroxide)
+VILLIAUMITE (Sodium Fluoride)
+VIVIANITE (Hydrated Iron Phosphate)
+VOLBORTHITE (Copper Vanadate Hydroxide)
+WALPURGITE (Hydrated Bismuth Uranyl Arsenate Oxide)
+WARDITE (Hydrated Sodium Aluminum Phosphate Hydroxide)
+WAVELLITE (Hydrated Aluminum Phosphate Hydroxide)
+WELOGANITE (Hydrated Sodium Strontium Calcium Zirconium Carbonate)
+WERNERITE (properly called Scapolite, Sodium Calcium Aluminum Silicate Chloride Carbonate Sulfate)
+WHEWELLITE (Hydrated Calcium Oxalate)
+WHITEITE (Hydrated Calcium Iron Manganese Magnesium Aluminum Phosphate)
+WHITLOCKITE (Calcium Magnesium Iron Phosphate Hydroxide)
+WILLEMITE (Zinc Silicate)
+WITHERITE (Barium Carbonate)
+WOLFEITE (Iron Manganese Phosphate Hydroxide)
+WOLFRAMITE (Manganese Iron Tungstate)
+WOLLASTONITE (Calcium Silicate)
+WOODHOUSEITE (Calcium Aluminum Phosphate Sulfate Hydroxide)
+WULFENITE (Lead Molybdenate)
+WURTZITE (Zinc Iron Sulfide)
+XENOTIME (Yttrium Phosphate)
+XONOTLITE (Calcium Silicate Hydroxide)
+YUKSPORITE (Hydrated Potassium Barium Sodium Calcium Titanium Silicate Fluoride Hydroxide)
+ZEOLITE
+ZEUNERITE (Hydrated Copper Uranyl Arsenate)
+ZINC (Zn)
+ZINCITE (Zinc Manganese Oxide)
+ZINKENITE (Lead Antimony Sulfide)
+ZINNWALDITE (Potassium Lithium Iron Aluminum Silicate Hydroxide Fluoride)
+ZIPPEITE (Hydrated Potassium Uranyl Sulfate Hydroxide)
+ZIRCON (Zirconium Silicate)
+ZOISITE (Calcium Aluminum Silicate Hydroxide)
+Acerila
+Coyamito Agate
+King Topaz
+Precious Cat's Eye
+Achroite
+Crazy Lace Agate
+Kingman Turquoise
+Precious Fire Opal
+Acmite
+Crocidolite
+Kinradite
+Precious Opal
+Adamine
+Cromfordite
+Kittlite
+Pseudoleucite
+Adularia
+Cromite
+Kunzite
+Purple Copper Ore
+Aegyrine
+Cronstedtite
+Kupfernickel
+Pycnite
+African Amethyst
+Crystal Opal
+Kutnohorite
+Pyralspite
+African Jade
+Crystalline Quartz
+Laguna Agate
+Pyrhottite
+Agalmatolite
+Csarite
+Lake Superior Agate
+Pyrite Cube
+Agaric Mineral
+Cuboargyrite
+Landscape Agate
+Pyrite Sun
+Agate
+Cuproadamite
+Lapis
+Pyritohedron
+Agate Geode
+Cupropyrite
+Lapis Lazuli
+Pyrophane
+Agate Jasper
+Cyanite
+Larimar
+Queensland Agate
+Agate Opal
+Cymatolite
+Laumonite
+Queensland Opal
+Agatized Wood
+Cymophane
+Lavender Amethyst
+Quicksilver
+Agua Nueva Agate
+Cyprine
+Lead Glance
+Quinzite Opal
+Alabaster
+Cyrtolite
+Lead Spar
+Radelerz
+Alabaster
+Danaite
+Lechosos Opal
+Radiolite Opal
+Alacranite
+Dark Opal
+Ledererite
+Rainbow Agate
+Alamandine
+Dark Red Silver Ore
+Lemon Opal
+Rainbow Aura Quartz
+Albite-Anorthite Series
+Dark Ruby Silver Ore
+Lemon Quartz
+Rainbow Garnet
+Alexandrite
+Dauphinite
+Lennix Emerald
+Rainbow Hematite
+Allemontite
+Dekalbite
+Leonhardite
+Rainbow Opal
+Allemontite I
+Demantoid
+Leopard Jasper
+Rainbow Pyrite
+Allemontite II
+Dendritic Agate
+Leopard Stone
+Rainbow Quartz
+Allemontite III
+Deschutes Jasper
+Lepidomelane
+Ram's Horn
+Almandine Spinel
+Desert Rose
+Lettsomite
+Rasorite
+Almandite
+Desmine
+Leuco-Garnet
+Raspberry Beryl
+Alpha Quartz
+Deweylite
+Leucoxene
+Raspberry Garnet
+Alurgite
+Diasporite
+Levin Opal
+Raspberry Spar
+Amatite
+Diatomacious Opal
+Liddicoatite
+Raspberyl
+Amatrix
+Diatomite
+Light Opal
+Red Beryl
+Amazon Stone
+Dichroite
+Light Red Silver Ore
+Red Cobalt
+Amazonite
+Dickite
+Light Ruby Silver Ore
+Red Flash Opal
+Amazonstone
+Disthene
+Lightning Ridge Opal
+Red Iron Ore
+Amber Opal
+Dogtooth Calcite
+Lime-Soda Feldspar
+Red Lead Ore
+Amesite
+Dogtooth Spar
+Limestone
+Red Silver Ore
+Amethyst
+Dollar
+Limestone Onyx
+Redruthite
+Amethyst Quartz
+Dolomite Rock
+Lincolnite
+Reinite
+Ametrine
+Dolostone
+Lintonite
+Retinalite
+Amianthus
+Doyleite
+Liquid Silver
+Rhodochrosite Onyx
+Analbite
+Dravite
+Lithium Mica
+Rhodolite
+Analcite
+Dry Bone Ore
+Lithoxyl Opal
+Rhyacolite
+Andamooka Opal
+Dryhead Agate
+Liver Opal
+Riband Jasper
+Angelite
+Ducktownite
+Lizardite
+Ribbon Jasper
+Annite
+Dumortierite Quartz
+Lodestone
+Rice Grain Spar
+Annivite
+Dunite
+Lllingite
+Ringwoodite
+Anorpiment
+Eastonite
+Lonsdaleite
+Ringwoodite
+Anorthose
+Eden Valley Wood
+Lussatine
+Ripidolite
+Anthraconite
+Egyptian Jasper
+Lussatite
+Rock Crystal
+Antigorite
+Eilat Stone
+Mackintoshite
+Rock Salt
+Antimonite
+Elaeolite
+Madeira Citrine
+Rogueite
+Antimonpearceite
+Elbaite
+Magnesiochromite
+Rose Quartz
+Antimony Glance
+Electrum
+Magnesiocolumbite
+Rosickyite
+Antozonite
+Eliasite
+Magnesiodumortierite
+Rosinca
+Aphrite
+Elie Ruby
+Magnesio-Hastingsite
+Rosolite
+Apricotine
+Embolite
+Magnesio-Hornblende
+Rubellite
+Aqua Aura
+Emerald
+Magnesio-Riebeckite
+Rubicelle
+Aquamarine
+Emery
+Magnesiostaurolite
+Ruby
+Argentiferous Galena
+Endellionite
+Magnesiotantalite
+Ruby Fuschite
+Argentite
+Endellite
+Magnetic Pyrites
+Ruby Jack
+Argentotennantite
+Endlichite
+Malacolite
+Ruby Silver
+Arizona Ruby
+Enhydritic Agate
+Malaia Garnet
+Ruby Spinel
+Arkansite
+Enhydro Agate
+Malaya Garnet
+Ruby Sulfur
+Arsenical Pyrites
+Epidesmine
+Mali Garnet
+Ruby Zoisite
+Arsenoferrite
+Epidote-(Pb)
+Mangan Diaspore
+Rumanite
+Arsenolamprite
+Epidote-(Sr)
+Manganapatite
+Russian Jasper
+Arsenpolybasite
+Epsom
+Manganbabingtonite
+Rutilated Quartz
+Asbestos
+Epsom Salt
+Manganocalcite
+Sagenite
+Asbestos Amphibole
+Erubescite
+Manganocolumbite
+Sagenite Agate
+Automolite
+Essonite
+Manganophyllite
+Salaite
+Aventurine
+Evening Stone
+Manganotantalite
+Salammoniac
+Awaruite
+Eye Agate
+Manganowollastonite
+Salite
+Azure Copper Ore
+Faden Quartz
+Mangansiderite
+Salmon Calcite
+Azure-Malachite
+Fahlerz
+Mangan-Vesuvianite
+Salt
+Balas Ruby
+Fairburn Agate
+Mangocolumbite
+Saltpeter
+Ballas
+Fairy Cross
+Marble
+Saltwater
+Banded Opal
+Fairy Stone
+Mariposite
+Sammite
+Bandfire Opal
+Falcon's Eye
+Marmatite
+Sand Calcite
+Baryte
+Fancy
+Marmolite
+Sand Celestine
+Basanite
+Faroelite
+Martite
+Sand Gypsum
+Bastite
+Fassaite
+Matrix Opal
+Sapphire
+Baumstarkite
+Fayalite
+Melanite
+Sapphire Quartz
+Bayerite
+Feather Ore
+Menaccanite
+Sard
+Bazzite
+Feitknechtite
+Menilite
+Sardonyx
+Beaumontite
+Ferro-Actinolite
+Metacinnabarite
+Satin Spar
+Biggs Jasper
+Ferrocolumbite
+Meteoric Iron
+Scenic Agate
+Binghamite
+Ferro-Edenite
+Mexican Fire Opal
+Scepter Quartz
+Binnite
+Ferro-Glaucophane
+Mexican Lace Agate
+Schalenblende
+Bitter Salt
+Ferro-Hornblende
+Mexican Onyx
+Schefferite
+Bixbite
+Ferro-Magnesite
+Mica
+Scherbencobalt
+Black Jack
+Ferro-Pargasite
+Microcline And Sanidine
+Schernikite
+Black Lead
+Ferrosillite
+Microcrystalline Quartz
+Schorl
+Black Opal
+Ferroskutterudite
+Milk Opal
+Schorlomite
+Blanchardite
+Ferrotantalite
+Milky Quartz
+Schwazite
+Blende
+Ferrotitanite
+Mineral Salt
+Seam Opal
+Blister Copper
+Ferrous Chromite
+Mispickel
+Seawater
+Blood Jasper
+Ferrowollastonite
+Mizzonite
+Seiland Zircon
+Bloodstone
+Ferruginous Quartz
+Moctezuma Agate
+Sekaninaite
+Blue Asbestos
+Fibrolite
+Mojave Blue Agate
+Selenite
+Blue Cap Tourmaline
+Fire Agate
+Monel Metal
+Semiopal
+Blue Copper
+Fire Opal
+Moonstone
+Seraphinite
+Blue Jasper
+Flame Opal
+Moor's Head Tourmaline
+Sericite
+Blue John
+Flame Spinel
+Morenosite
+Serpentine Marble
+Blue Lace Agate
+Flash Opal
+Morgan Hill Jasper
+Serpentine Rock
+Blue Quartz
+Flashfire Opal
+Morganite
+Serpentinite
+Blue Vitriol
+Flint
+Morion
+Shell Opal
+Blushing Copper
+Flos Ferri
+Morrisonite
+Sherry Topaz
+Bog Iron
+Flowstone
+Moss Agate
+Shirozulite
+Bog Iron Ore
+Fluor
+Moss Jasper
+Siberian Amethyst
+Bohemian Garnet
+Fluorannite
+Moss Opal
+Siberite
+Bohmite
+Fluorapatite
+Mossottite
+Siderophyllite
+Bolivian Amethyst
+Fluorapophyllite
+Mother Of Opal
+Sideroplesite
+Bologna Stone
+Fluor-Buergerite
+Mother Of Pearl Opal
+Silica
+Bonamite
+Fluor-Dravite
+Mountain Cork
+Silicafied Wood
+Bone Opal
+Fluor-Elbaite
+Mountain Leather
+Silver Glance
+Bone Turquoise
+Fluor-Liddicoatite
+Mountain Opal
+Slocum Stone
+Bort
+Fluoro-Edenite
+Mullanite
+Smaltite
+Botryolite
+Fluoro-Magnesio-Arfvedsonite
+Mullicite
+Smokey Quartz
+Botswana Agate
+Fluoro-Pargasite
+Mushroom Tourmaline
+Smoky Quartz
+Boulder Opal
+Fluorophlogopite
+Myrickite
+Snakeskin Agate
+Bowenite
+Fluor-Schorl
+Myrmekite
+Snow
+Brass Ore
+Fluorspar
+Nacrite
+Snowflake
+Brazilian Amethyst
+Fluor-Uvite
+Nail Head Spar
+Soaprock
+Brecciated Agate
+Fools Gold
+Native Antimony
+Soapstone
+Brecciated Jasper
+Forsterite
+Native Arsenic
+Soda Feldspar
+Breunnerite
+Fortification Agate
+Native Bismuth
+Soda Niter
+Brimstone
+Fossil Agate
+Native Copper
+Sodaclase
+Bromyrite
+Fossil Opal
+Native Gold
+Soda-Lime Feldspar
+Bronzite
+Fossil Turquoise
+Native Iron
+Sodium Nitrate
+Brown Iron Ore
+Fowlerite
+Native Lead
+Souesite
+Bruneau Jasper
+Fraipontite
+Native Mercury
+South African Jade
+Buergerite
+Frazil
+Native Nickel
+Spectrolite
+Bustamite
+Freshwater
+Native Platinum
+Specularite
+Byssolite
+Frost
+Native Silver
+Spessartite
+Cabrerite
+Fuchsite
+Native Sulfur
+Sphaerosiderite
+Cachalong Opal
+Gahnite
+Native Sulphur
+Sphene
+Cactus Amethyst
+Gahnospinel
+Native Tellurium
+Spherocobaltite
+Cactus Citrine
+Galaxite
+Natroapophyllite
+Spinell
+Cactus Quartz
+Galenite
+Natural Salt
+Staffelite
+Cadmium Ochre
+Garnet Jade
+Needle Tin
+Stalactite
+Cadmium Smithsonite
+Garnierite
+Nemalite
+Stalagmite
+Cairngorm
+Gastaldite
+Nephrite
+Star Muscovite
+Calamine
+Gelite
+Nepouite
+Star Quartz
+Calcareous Sinter
+Genthite
+Neslite
+Star Ruby
+Calcareous Tufa
+Geyserite
+Nevada Opal
+Star Sapphire
+Calciocelsian
+Geyserite
+Niccolite
+Starlite
+Calciotherite
+Gigantolite
+Niccolo
+Steatite
+Calcspar
+Girasol
+Nicholsonite
+Stone Canyon Jasper
+Calderite
+Glacier
+Nickel
+Stream Tin
+Californite
+Glass Opal
+Nickel Bloom
+Strontian
+Campylite
+Glaze
+Nickelian Loellingite
+Strontian-Apatite
+Canadian Amethyst
+Gold Opal
+Nickel-Iron
+Struverite
+Cape May Diamond
+Golden Beryl
+Nickelskutterudite
+Strverite
+Capillary Pyrites
+Golden Citrine
+Niigataite
+Suisan Marble
+Capillitite
+Goshenite
+Niobite
+Sulphur
+Carbonado
+Goslarite
+Nipomo Agate
+Sulphur
+Carbonate Apatite
+Grafito
+Nitratite
+Sun Opal
+Carbonate Fluorapatite
+Grape Agate
+Nitre
+Sunstone
+Carbonate Hydroxylapatite
+Green Beryl
+Noble Orthoclase
+Sweetwater Agate
+Carbonatecyanotrichite
+Green Jasper
+Noselite
+Sylvine
+Carbonate-Rich Apatite
+Green Lead Ore
+Nostrandite
+Sylvinite
+Carbonate-Rich Fluorapatite
+Green Onyx
+Nuttalite
+Syrian Garnet
+Carbonate-Rich Hydroxylapatite
+Greenovite
+Occidental Turquoise
+Tabasheer
+Carnelian
+Grossularite
+Ocean Jasper
+Taconite
+Carnelian Onyx
+Grothite
+Octahedrite
+Taenite
+Caswellite
+Groutite
+Odinite
+Tanzanite
+Cathedral Pyrite
+Gudmundite
+Odontolite
+Tarnowitzite
+Cat's Eye
+Gymnite
+Odontolite
+Teis Sphere
+Cave Creek Jasper
+Gypsite
+Odontolite
+Television Rock
+Celestite
+Gypsum Flower
+Oisanite
+Television Stone
+Cerargyrite
+Gypsum Rock
+Oligonite
+Terrestrial Iron
+Cerasite
+Hbnerite
+Olivinoid
+Tetraferriannite
+Ceylonite
+H2O
+Onegite
+Tetraferriphlogopite
+Chabasite
+Hackmanite
+Onice
+Tetrataenite
+Chalcedon
+Hafnium Zircon
+Onofrite
+Thorogummite
+Chalcedonite
+Hailstone
+Onyx
+Thulite
+Chalcedony
+Hair Pyrites
+Onyx Marble
+Thunder Egg
+Chalcedonyx
+Halfbreed
+Onyx Opal
+Thuringite
+Chalcotrichite
+Halloysite
+Opal Jasper
+Tigereye
+Chalk
+Hancockite
+Opal Matrix
+Tiger's Eye
+Chalybite
+Harlequin Opal
+Opaline
+Tin Stone
+Chaoite
+Hauyunite
+Opalite
+Tincal
+Cherry Blossom Stone
+Hawk's Eye
+Opalized Bone
+Tinzenite
+Cherry Opal
+Hawleyite
+Opalized Fossil
+Tirodite
+Chert
+Haydenite
+Opalized Shell
+Titanoferrite
+Chessylite
+Haytorite
+Opalized Wood
+Titano-Hematite
+Chiastolite
+Heavy Spar
+Ophiolite
+Titano-Magnetite
+Chile Saltpeter
+Heliodor
+Optical Calcite
+Topazolite
+Chillagite
+Heliodorite
+Orangite
+Torite
+China Clay
+Heliotrope
+Orbicular Jasper
+Touchonite
+Chloanthite
+Hercynite
+Orbiculated Jasper
+Tourmalinated Quartz
+Chlorapatite
+Herkimer Diamond
+Oregon Snakeskin Agate
+Transvaal Jade
+Chlorastrolite
+Herschelite
+Oriental Alabaster
+Trapiche Emerald
+Chloropal
+Hessonite
+Oriental Garnet
+Travertine
+Chlorophane
+Hexagonite
+Orthoantigorite
+Triphane
+Chlorospinel
+Hibschite
+Orthochamosite
+Troilite
+Chromdravite
+Hiddenite
+Orthochrysotile
+Troostite
+Chrome Diaspore
+Hog-Toothed Spar
+Owyhee Jasper
+Tsavorite
+Chrome Garnet
+Holly Blue
+Padparadschah
+Tube Agate
+Chrome Titanite
+Honey Opal
+Paint Ore
+Tufa
+Chrome Tourmaline
+Horn Lead
+Painted Boulder
+Turgite
+Chrome Vesuvianite
+Horn Silver
+Pajsbergite
+Turkey Fat Ore
+Chrome-Diopside
+Hornstone
+Pallasite
+Turquoise Odontolite
+Chrome-Enstatite
+Hungarian Opal
+Palmeria Citrine
+TV Stone
+Chrome-Magnetite
+Hyacinth
+Paracelsian
+Ugrandite
+Chrome-Pyrophyllite
+Hyacinth Opal
+Parachrysotile
+Ultralite
+Chrome-Spinel
+Hyalite
+Paraiba Tourmaline
+Umbalite
+Chrome-Tremolite
+Hyalophane
+Paricutinite
+Umite
+Chromian Lawsonite
+Hydrargillite
+Peach Beryl
+Unakite
+Chromio-Pargasite
+Hydrargyllite
+Peacock Copper
+Uralite
+Chromium Dravite
+Hydrargyrum
+Peacock Ore
+Uranothorite
+Chromohercynite
+Hydrogarnet
+Pearl Opal
+Utahlite
+Chrysolite
+Hydrogen Dioxide
+Pearl Spar
+Uvite
+Chrysomelane
+Hydrogrossular
+Pencil Ore
+Valencianite
+Chrysopal
+Hydrohalite
+Pennine
+Vanadiumdravite
+Chrysoprase
+Hydrophane Opal
+Penninite
+Variegated Copper
+Chrysotile
+Hydroxyapophyllite
+Pericline
+Variscite Quartz
+Chrysotile Asbestos
+Hydroxylapatite
+Peridot
+Velvet Copper Ore
+Cinnabarite
+Hydroxyl-Apatite
+Peristerite
+Velvet Tourmaline
+Cinnamon Stone
+Hydroxylclinohumite
+Perthite
+Venus Hair Quartz
+Citrine
+Hypercinnabar
+Petrified Wood
+Venus Hair Stone
+Citrine
+Hypersthene
+Petschite
+Venus Hairstone
+Clarkeite
+Iceberg
+Pezzottaite
+Veracruz Amethyst
+Claro Opal
+Iceland Spar
+Phacolite
+Verde Antique
+Clay Ironstone
+Iceland Spar Magnesite
+Phantom Quartz
+Verdelite
+Cleavelandite
+Icicle
+Phenacite
+Vermarine
+Cleiophane
+Idocrase
+Pianlinite
+Viluite
+Cleiophane
+Ilmenorutile
+Piconite
+Violane
+Cleveite
+Imperial Topaz
+Picotite
+Virgin Valley Opal
+Clinocervantite
+Inca Rose
+Picrochromite
+Viridine
+Clinochrysotile
+Indialite
+Picroilmenite
+Volga Blue
+Clinoenstatite
+Indicolite
+Picrolite
+Wad
+Clinoferrosillite
+Indigo Copper
+Picture Jasper
+Wadsleyite
+Clinomimetite
+Iolite
+Picture Rock
+Wascoite
+Clinothulite
+Iridot
+Pineapple Opal
+Wash Opal
+Clinozoisite-(Sr)
+Iris Agate
+Pinfire Opal
+Washingtonite
+Cloud Agate
+Iris Quartz
+Pinite
+Water Opal
+Cobalt Bloom
+Iron
+Pinnite
+Water Sapphire
+Cobalt Calcite
+Iron Mica
+Pinpoint Opal
+Watermelon Tourmaline
+Cobaltian Adamite
+Iron Rose
+Pipe Opal
+Wax Opal
+Cobaltian Calcite
+Iserine
+Pistacite
+Wernerite
+Cobaltian Dolomite
+Isinglass
+Pitch Opal
+White Cliffs Opal
+Cobaltian Loellingite
+Isopyre
+Pitchblende
+White Feldspar
+Cobaltoadamite
+Jacinth
+Plagioclase Feldspar
+White Lead Ore
+Cobaltocalcite
+Jade
+Plasma
+White Opal
+Cog Wheel Ore
+Jargon
+Pleonast
+White Topaz
+Collophane
+Jargoon
+Pleonaste
+Williamsite
+Colombian Emerald
+Jasp Agate
+Pleonaste
+Wiluite
+Colorado Ruby
+Jaspe
+Plumbago
+Wiluite
+Common Garnet
+Jasper
+Plume Agate
+Wood Opal
+Common Mica
+Jasper Opal
+Plumosite
+Wood Iron
+Common Opal
+Jaspilite
+Poldervaartite
+Wood Tin
+Common Salt
+Jasponyx
+Polianite
+Xanthitane
+Comuccite
+Jeffersonite
+Polybasite-Tac
+Xanthite
+Condor Agate
+Jelly Opal
+Poppy Jasper
+Xanthochroite
+Contra Luz Opal
+Josephinite
+Potash Mica
+Yellow Citrine
+Contra Luz Opal
+Juddite
+Potassic-Arfvedsonite
+Yellow Copper
+Coober Pedy Opal
+Julianite
+Potassic-Pargasite
+Yellow Lead Ore
+Copper Adamite
+Kaemmererite
+Potassium Feldspar
+Yowah Nut
+Copper Pyrites
+Kamacite
+Potassium Nitrate
+Yttrocerite
+Copper Smithsonite
+Kammererite
+Potch
+Yttrofluorite
+Copper Sulfate
+Kaolin
+Prase
+Yttrogummite
+Copper Vitriol
+Kasoite
+Prase Opal
+Yttrotitanite
+Coracite
+Katoite
+Praseme
+Zebra Jasper
+Corn Spar
+Keilhauite
+Prasiolite
+Zinc Blende
+Cornelian
+Kidney Ore
+Praziolite
+Zincostaurolite
+Cornflower Sapphire
+Kimberlite
+Precious Beryl
+Zultanite
+Aluminium diacetate  Al(CH3CO2)2OH, basic aluminium acetate
+Aluminium triacetate  Al(CH3CO2)3
+Aluminium antimonide  AlSb
+Aluminium arsenate  AlAsO4.8H2O
+Aluminium arsenide  AlAs
+Aluminium boride  AlB2
+Aluminium bromide  AlBr3
+Aluminium carbide  Al4C3
+Aluminium iodide  AlI3
+Aluminium nitride  AlN
+Aluminium oxide  Al2O3
+Aluminium phosphide  AlP
+Aluminium chloride  AlCl3
+Aluminium fluoride  AlF3
+Aluminium hydroxide  Al(OH)3
+Aluminium nitrate  Al(NO3)3
+Aluminium sulfide  Al2S3
+Aluminium sulfacetate  Al2SO4(CH3CO2)4
+Aluminium sulfate  Al2(SO4)3
+Aluminium potassium sulfate  AlK(SO4)2 potassium alum
+Ammonia  NH3
+Ammonium azide  NH4N3
+Ammonium bicarbonate  NH4HCO3
+Ammonium chromate  (NH4)2CrO4
+Ammonium cerium(IV) nitrate  (NH4)2Ce(NO3)6
+Ammonium chloride  NH4Cl
+Ammonium chlorate  NH4ClO3
+Ammonium cyanide  NH4CN
+Ammonium dichromate  (NH4)2Cr2O7
+Ammonium hydroxide  NH4OH
+Ammonium hexachloroplatinate  (NH4)2(PtCl6)
+Ammonium nitrate  NH4NO3
+Ammonium sulfamate  H6N2O3S
+Ammonium sulfide  (NH4)2S
+Ammonium sulfite  (NH4)2SO3
+Ammonium sulfate  (NH4)2SO4
+Ammonium persulfate  (NH4)2S2O8
+Ammonium perchlorate  NH4ClO4
+Ammonium tetrathiocyanatodiamminechromate(III)  NH4[Cr(SCN)4(NH3)2]
+Ammonium thiocyanate  NH4SCN
+Antimony hydride  SbH3
+Antimony pentachloride  SbCl5
+Antimony pentafluoride  SbF5
+Antimony trioxide  Sb2O3
+Arsine  AsH3
+Arsenic trioxide (Arsenic(III) oxide)  As2O3
+Arsenous acid  As(OH)3
+B[edit]
+Barium azide  Ba(N3)2
+Barium carbonate  BaCO3
+Barium chlorate  Ba(ClO3)2
+Barium chloride  BaCl2
+Barium chromate  BaCrO4
+Barium ferrate  BaFeO4
+Barium ferrite  BaFe2O4
+Barium fluoride  BaF2
+Barium hydroxide  Ba(OH)2
+Barium iodide  BaI2
+Barium nitrate  Ba(NO3)2
+Barium oxalate  Ba(C2O4)
+Barium oxide  BaO
+Barium peroxide  BaO2
+Barium sulfate  BaSO4
+Barium sulfide  BaS
+Barium titanate  BaTiO3
+Beryllium borohydride  Be(BH4)2
+Beryllium bromide  BeBr2
+Beryllium carbonate  BeCO3
+Beryllium chloride  BeCl2
+Beryllium fluoride  BeF2
+Beryllium hydride  BeH2
+Beryllium hydroxide  Be(OH)2
+Beryllium iodide  BeI2
+Beryllium nitrate  Be(NO3)2
+Beryllium nitride  Be3N2
+Beryllium oxide  BeO
+Beryllium sulfate  BeSO4
+Beryllium sulfite  BeSO3
+Beryllium telluride  BeTe
+Bismuth(III) oxide  Bi2O3
+Bismuth oxychloride  BiOCl
+Bismuth(III) telluride  Bi2Te3
+Borane  diborane: B2H6, pentaborane: B5H9 decaborane: B10H14
+Borax  Na2B4O710H2O
+Boric acid  H3BO3
+Boron carbide  B4C
+Boron nitride  BN
+Boron suboxide  B6O
+Boron trichloride  BCl3
+Boron trifluoride  BF3
+Boron oxide  B2O3
+Bromine monochloride  BrCl
+Bromine pentafluoride  BrF5
+Bromine trifluoride  BrF3
+C[edit]
+Cacodylic acid  (CH3)2As(O)OH
+Cadmium arsenide  Cd3As2
+Cadmium bromide  CdBr2
+Cadmium chloride  CdCl2
+Cadmium fluoride  CdF2
+Cadmium iodide  CdI2
+Cadmium nitrate  Cd(NO3)2
+Cadmium oxide  CdO
+Cadmium selenide  CdSe
+Cadmium sulfate  CdSO4
+Cadmium sulfide  CdS
+Cadmium telluride  CdTe
+Caesium bicarbonate  CsHCO3
+Caesium carbonate  Cs2CO3
+Caesium chloride  CsCl
+Caesium chromate  Cs2CrO4
+Caesium fluoride  CsF
+Caesium hydride  CsH
+Calcium carbide  CaC2
+Calcium chlorate  Ca(ClO3)2
+Calcium chloride  CaCl2
+Calcium chromate  CaCrO4
+Calcium cyanamide  CaCN2
+Calcium fluoride  CaF2
+Calcium hydride  CaH2
+Calcium hydroxide  Ca(OH)2
+Calcium oxalate  Ca(C2O4)
+Calcium oxychloride  CaOCl2
+Calcium perchlorate  Ca(ClO4)2
+Calcium sulfate (gypsum)  CaSO4
+Carbon dioxide  CO2
+Carbon disulfide  CS2
+Carbon monoxide  CO
+Carbon tetrabromide  CBr4
+Carbon tetrachloride  CCl4
+Carbon tetraiodide  CI4
+Carbonic acid  H2CO3
+Carbonyl chloride  COCl2
+Carbonyl fluoride  COF2
+Carbonyl sulfide  COS
+Carboplatin  C6H12N2O4Pt
+carborundum  SiC
+Cerium aluminium  CeAl
+Cerium cadmium  CeCd
+Cerium magnesium  CeMg
+Cerium mercury  CeHg
+Cerium silver  CeAg
+Cerium thallium  CeTl
+Cerium zinc  CeZn
+Cerium(III) bromide  CeBr3
+Cerium(III) chloride  CeCl3
+Cerium(IV) sulfate  Ce(SO4)2
+Chloric acid  HClO3
+Chlorine dioxide  ClO2
+Chlorine monoxide  ClO
+Chlorine tetroxide (the peroxide)  O3ClOOClO3
+Chlorine trifluoride  ClF3
+Chlorine trioxide  ClO3
+Chlorine  Cl2
+Chloroplatinic acid  H2PtCl6
+Chrome-alum  K2SO4Cr2(SO4)324H2O
+Chromic acid  CrO3
+Chromium trioxide (Chromic acid)  CrO3
+Chromium(II) chloride  CrCl2 (also chromous chloride)
+Chromium(II) sulfate  CrSO4
+Chromium(III) chloride  CrCl3
+Chromium(III) oxide  Cr2O3
+Chromium(III) sulfate  Cr2(SO4)3
+Chromium(IV) oxide  CrO2
+Chromyl chloride  CrO2Cl2
+Chromyl fluoride  CrO2F2
+Cisplatin (cis-platinum(II) chloride diamine)  PtCl2(NH3)2
+Cobalt(II) bromide  CoBr2
+Cobalt(II) carbonate  CoCO3
+Cobalt(II) chloride  CoCl2
+Cobalt(III) fluoride  CoF3
+Cobalt(II) nitrate  Co(NO3)2
+Cobalt(II) sulfate  CoSO4
+Columbite  Fe2+Nb2O6
+Copper(I) chloride  CuCl
+Copper(I) oxide  Cu2O
+Copper oxychloride  H3ClCu2O3[1]
+Copper(I) sulfide  Cu2S
+Copper(II) azide  Cu(N3)2
+Copper(II) carbonate  CuCO3
+Copper(II) chloride  CuCl2
+Copper(I) fluoride  CuF
+Copper(II) hydroxide  Cu(OH)2
+Copper(II) nitrate  Cu(NO3)2
+Copper(II) oxide  CuO
+Copper(II) sulfate  CuSO4 and the pentahydrate  CuSO45H2O
+Copper(II) sulfide  CuS
+Cyanogen bromide  CNBr
+Cyanogen chloride  CNCl
+Cyanogen iodide  ICN
+Cyanogen  (CN)2
+Cyanuric chloride  C3Cl3N3
+Cyanogen thiocyanate  CNSCN[2]
+Cyanogen selenocyanate  CNSeCN[2]
+Cyanogen azide  CNN3[2]
+D[edit]
+Decaborane (Diborane)  B10H14
+Diammonium dioxido(dioxo)molybdenum  H8MoN2O4[3]
+Diammonium phosphate  (NH4)2HPO4
+Diborane  B2H6
+Dichlorine monoxide  Cl2O
+Dichlorine dioxide  Cl2O2
+Dichlorine trioxide  Cl2O3
+Dichlorine tetroxide (chlorine perchlorate)  ClOClO3
+Dichlorine hexoxide  Cl2O6
+Dichlorine heptoxide  Cl2O7
+Dichlorosilane  SiH2Cl
+Dinitrogen pentoxide (nitronium nitrate)  N2O5
+Dinitrogen tetroxide  N2O4
+Disilane  Si2H6
+Disulfur dichloride S2Cl2
+Dysprosium(III) chloride  DyCl3
+Dysprosium oxide  Dy2O3
+Dysprosium titanate  Dy2Ti2O7
+E[edit]
+Erbium(III) chloride  ErCl3
+Europium(III) chloride  EuCl3
+Erbium-copper  ErCu
+Erbium-gold  ErAu
+Erbium-silver  ErAg
+Erbium-Iridium  ErIr
+G[edit]
+Gadolinium(III) chloride  GdCl3
+Gadolinium(III) oxide  Gd2O3
+Gallium antimonide  GaSb
+Gallium arsenide  GaAs
+Gallium(III) fluoride  GaF3
+Gallium trichloride  GaCl3
+Gallium nitride  GaN
+Gallium phosphide  GaP
+Gallium(III) sulfide  Ga2S3
+Gallium(II) sulfide  GaS
+Germane  GeH4
+Digermane  Ge2H6
+Germanium(II) fluoride  GeF2
+Germanium(IV) fluoride  GeF4
+Germanium(II) chloride  GeCl2
+Germanium(IV) chloride  GeCl4
+Germanium(II) bromide  GeBr2
+Germanium(IV) bromide  GeBr4
+Germanium(II) iodide  GeI2
+Germanium(IV) iodide  GeI4
+Germanium(II) oxide  GeO
+Germanium(IV) oxide  GeO2
+Germanium(II) sulfide  GeS
+Germanium(IV) sulfide  GeS2
+Germanium(II) selenide  GeSe
+Germanium(IV) selenide  GeSe2
+Germanium telluride  GeTe
+Germanium(IV) nitride  Ge3N4
+Gold(I) chloride  AuCl
+Gold(III) chloride  (AuCl3)2
+Gold(I,III) chloride  Au4Cl8
+Gold(III) fluoride  AuF3
+Gold(V) fluoride  AuF5
+Gold(I) bromide  AuBr
+Gold(III) bromide  (AuBr3)2
+Gold(I) iodide  AuI
+Gold(III) iodide  AuI3
+Gold(I) hydride  AuH
+Gold(III) oxide  Au2O3
+Gold(I) sulfide  Au2S
+Gold(III) sulfide  Au2S3
+Gold(I) selenide  Au2Se
+Gold(III) selenide  Au2Se3
+Gold ditelluride  AuTe2
+H[edit]
+Hafnium carbide  HfC
+Hafnium tetrafluoride  HfF4
+Hafnium tetrachloride  HfCl4
+Hexadecacarbonylhexarhodium  Rh6(CO)16
+Hexafluorosilicic acid  H2F6Si
+Hydrazine  N2H4
+Hydrazoic acid  HN3
+Hydroiodic acid  HI
+Hydrogen bromide  HBr
+Hydrogen chloride  HCl
+Hydrogen cyanide  HCN
+Hydrogen fluoride  HF
+Hydrogen peroxide  H2O2
+Hydrogen selenide  H2Se
+Hydrogen sulfide  H2S
+Hydrogen telluride  H2Te
+Hydroxylamine  NH2OH
+Hypobromous acid  HBrO
+Hypochlorous acid  HClO
+Hypophosphorous acid  H3PO2
+I[edit]
+Indium antimonide  InSb
+Indium arsenide  InAs
+Indium(III) chloride  InCl3
+Indium nitride  InN
+Indium phosphide  InP
+Iodic acid  HIO3
+Iodine heptafluoride  IF7
+Iodine pentafluoride  IF5
+Iodine monochloride  ICl
+Iodine trichloride  ICl3
+Iridium(IV) chloride  IrCl4
+Iron(II) chloride  FeCl2 including hydrate
+Iron(III) chloride  FeCl3
+Iron ferrocyanide  Fe7(CN)18
+Iron(II) oxalate  FeC2O4
+Iron(III) oxalate  C6Fe2O12
+Iron(II) oxide  FeO
+Iron(III) nitrate  Fe(NO3)3(H2O)9
+Iron(II,III) oxide  Fe3O4
+Iron(III) oxide  Fe2O3
+Iron(III) thiocyanate  Fe(SCN)3
+Iron(III) fluoride  FeF3
+K[edit]
+Krypton difluoride  KrF2
+L[edit]
+Lanthanum carbonate  La2(CO3)3
+Lanthanum magnesium  LaMg
+Lanthanum aluminium  LaAl
+Lanthanum zinc  LaZn
+Lanthanum silver  LaAg
+Lanthanum cadmium  LaCd
+Lanthanum mercury  LaHg
+Lanthanum tallium  LaTl
+Lead(II) carbonate  Pb(CO3)
+Lead(II) chloride  PbCl2
+Lead(II) iodide  PbI2
+Lead(II) nitrate  Pb(NO3)2
+Lead hydrogen arsenate  PbHAsO4
+Lead(II) oxide  PbO
+Lead(IV) oxide  PbO2
+Lead(II) phosphate  Pb3(PO4)2
+Lead(II) sulfate  Pb(SO4)
+Lead(II) selenide  PbSe
+Lead styphnate  C6HN3O8Pb
+Lead(II) sulfide  PbS
+Lead(II) telluride  PbTe
+Lead tetroxide  Pb3O4[4]
+Lead zirconate titanate  Pb[TixZr1x]O3 (e.g., x = 0.52 is Lead zirconium titanate)
+Lithium aluminium hydride  LiAlH4
+Lithium bromide  LiBr
+Lithium borohydride  LiBH4
+Lithium carbonate (Lithium salt)  Li2CO3
+Lithium chloride  LiCl
+Lithium hypochlorite  LiClO
+Lithium chlorate  LiClO3
+Lithium perchlorate  LiClO4
+Lithium cobalt oxide  LiCoO2
+Lithium oxide  Li2O
+Lithium peroxide  Li2O2
+Lithium hydride  LiH
+Lithium hydroxide  LiOH
+Lithium iodide  LiI
+Lithium iron phosphate  FeLiO4P
+Lithium nitrate  LiNO3
+Lithium sulfide  Li2S
+Lithium sulfite  HLiO3S
+Lithium sulfate  Li2SO4
+Lithium superoxide  LiO2
+M[edit]
+Magnesium antimonide  MgSb
+Magnesium carbonate  MgCO3
+Magnesium chloride  MgCl2
+Magnesium oxide  MgO
+Magnesium perchlorate  Mg(ClO4)2
+Magnesium phosphate  Mg3(PO4)2
+Magnesium sulfate  MgSO4
+Manganese(IV) oxide (manganese dioxide)  MnO2
+Manganese(II) sulfate monohydrate  MnSO4.H2O
+Manganese(II) chloride  MnCl2
+Manganese(III) chloride  MnCl3
+Manganese(IV) fluoride  MnF4
+Manganese(II) phosphate  Mn3(PO4)2
+Mercury(I) chloride  Hg2Cl2
+Mercury(II) chloride  HgCl2
+Mercury fulminate  Hg(ONC)2
+Mercury(II) selenide  HgSe
+Mercury(I) sulfate  Hg2SO4
+Mercury(II) sulfate  HgSO4
+Mercury(II) sulfide  HgS
+Mercury(II) telluride  HgTe
+Mercury(II) thiocyanate  Hg(SCN)2
+Metaphosphoric acid  HPO3
+Molybdenum(II) bromide  MoBr2
+Molybdenum(III) bromide  MoBr3
+Molybdenum(IV) carbide  MoC
+Molybdenum(II) chloride  Mo6Cl12
+Molybdenum(III) chloride  MoCl3
+Molybdenum(IV) chloride  MoCl4
+Molybdenum(V) chloride  Mo2Cl10
+Molybdenum trioxide  MoO3
+Molybdenum disulfide  MoS2
+Molybdenum hexacarbonyl  Mo(CO)6
+Molybdic acid  H2MoO4
+N[edit]
+Neodymium(III) chloride  NdCl3
+Nessler's reagent  K2[HgI4]
+Nickel(II) carbonate  NiCO3
+Nickel(II) chloride  NiCl2 and hexahydrate
+Nickel(II) fluoride  NiF2
+Nickel(II) hydroxide  Ni(OH)2
+Nickel(II) nitrate  Ni(NO3)2
+Nickel(II) oxide  NiO
+Nickel(II) sulfamate  Ni(SO3NH2)2
+Nickel(II) sulfide  NiS
+Niobium oxychloride  NbOCl3
+Niobium pentachloride  NbCl5
+Nitric acid  HNO3
+Nitrous acid  HNO2
+Nitrogen monoxide  NO
+Nitrogen dioxide  NO2
+Nitrous oxide  N2O  (dinitrogen monoxide, laughing gas, NOS)
+Nitrosylsulfuric acid  NOHSO4
+O[edit]
+Osmium tetroxide (osmium(VIII) oxide)  OsO4
+Osmium trioxide (osmium(VI) oxide)  OsO3
+Oxybis(tributyltin)  C24H54OSn2
+Oxygen difluoride  OF2
+Ozone  O3
+P[edit]
+Palladium(II) chloride  PdCl2
+Palladium(II) nitrate  Pd(NO3)2
+Palladium sulfate  PdSO4[5]
+Pentaborane  B5H9
+Pentasulfide antimony  Sb2S5
+Perbromic acid  HBrO4
+Perchloric acid  HClO4
+Periodic acid  HIO4
+Perchloryl fluoride  ClFO3
+Persulfuric acid (Caro's acid)  H2SO5
+Perxenic acid  H4XeO6
+Phenylarsine oxide  (C6H5)AsO
+Phenylphosphine  C6H7P
+Phosgene  COCl2
+Phosphine  PH3
+Phosphomolybdic acid  H3PMo12O40
+Phosphoric acid  H3PO4
+Phosphorous acid (Phosphoric(III) acid)  H3PO3
+Phosphorus pentabromide  PBr5
+Phosphorus pentafluoride  PF5
+Phosphorus pentasulfide  P4S10
+Phosphorus pentoxide  P2O5
+Phosphorus sesquisulfide  P4S3
+Phosphorus tribromide  PBr3
+Phosphorus trichloride  PCl3
+Phosphorus trifluoride  PF3
+Phosphorus triiodide  PI3
+Phosphotungstic acid  H3PW12O40
+Platinum(II) chloride  PtCl2
+Platinum(IV) chloride  PtCl4
+Plutonium(III) chloride  PuCl3
+Plutonium dioxide (Plutonium(IV) oxide)  PuO2
+Potash Alum  K2SO4.Al2(SO4)324H2O
+Potassium aluminium fluoride  KAlF4
+Potassium borate  K2B4O74H2O
+Potassium bromide  KBr
+Potassium calcium chloride  KCaCl3
+Potassium bicarbonate  KHCO3
+Potassium bisulfite  KHSO3
+Potassium carbonate  K2CO3
+Potassium chlorate  KClO3
+Potassium chlorite  KClO2
+Potassium chloride  KCl
+Potassium cyanide  KCN
+Potassium dichromate  K2Cr2O7
+Potassium dithionite  K2S2O4
+Potassium ferrioxalate  K3[Fe(C2O4)3]
+Potassium ferricyanide  K3[Fe(CN)]6
+Potassium ferrocyanide  K4[Fe(CN)]6
+Potassium hydrogencarbonate  KHCO3
+Potassium hydrogen fluoride  HF2K
+Potassium hydroxide  KOH
+Potassium iodide  KI
+Potassium iodate  KIO3
+Potassium monopersulfate  K2SO4KHSO42KHSO5
+Potassium nitrate  KNO3
+Potassium perbromate  KBrO4
+Potassium perchlorate  KClO4
+Potassium periodate  KIO4
+Potassium permanganate  KMnO4
+Potassium sulfate  K2SO4
+Potassium sulfite  K2SO3
+Potassium sulfide  K2S
+Potassium tetraiodomercurate(II)  K2HgI4
+Potassium thiocyanate  KSCN
+Potassium titanyl phosphate  KTiOPO4
+Potassium vanadate  KVO3
+Praseodymium(III) chloride  PrCl3
+Protonated molecular hydrogen  H3+
+Prussian blue (Iron(III) hexacyanoferrate(II))  Fe4[Fe(CN)6]3
+Pyrosulfuric acid  H2S2O7
+Q[edit]
+No compounds.
+
+R[edit]
+Radium chloride  RaCl2
+Radon difluoride  RnF2
+Rhodium(III) chloride  RhCl3
+Rubidium bromide  RbBr
+Rubidium chloride  RbCl
+Rubidium fluoride  RbF
+Rubidium hydroxide  RbOH
+Rubidium iodide  RbI
+Rubidium nitrate  RbNO3
+Rubidium oxide  Rb2O
+Rubidium telluride  Rb2Te
+Ruthenium(VIII) oxide  RuO4
+S[edit]
+Samarium(II) iodide  SmI2
+Samarium(III) chloride  SmCl3
+Scandium(III) chloride  ScCl3 and hydrate
+Scandium(III) fluoride  ScF3
+Scandium(III) nitrate  Sc(NO3)3
+Scandium(III) oxide  Sc2O3
+Scandium(III) triflate  Sc(OSO2CF3)3
+Selenic acid  H2SeO4
+Selenious acid  H2SeO3
+Selenium dioxide  SeO2
+Selenium disulfide  SeS2
+Selenium hexafluoride  SeF6
+Selenium hexasulfide  Se2S6
+Selenium oxybromide  SeOBr2
+Selenium oxydichloride  SeOCl2
+Selenium tetrachloride  SeCl4
+Selenium tetrafluoride  SeF4
+Selenium trioxide  SeO3
+Selenoyl fluoride  SeO2F2
+Silane  SiH4
+Silica gel  SiO2nH2O
+Silicic acid  [SiOx(OH)4-2x]n
+Silicochloroform, trichlorosilane  Cl3HSi
+Silicofluoric acid  H2SiF6
+Silicon boride  SiB3
+Silicon carbide  SiC
+Silicon dioxide  SiO2
+Silicon monoxide  SiO
+Silicon nitride  Si3N4
+Silicon tetrabromide  SiBr4
+Silicon tetrachloride  SiCl4
+Silver argentocyanide  KAg(CN)2
+Silver azide  AgN3
+Silver bromate  AgBrO3
+Silver bromide  AgBr
+Silver chlorate  AgClO3
+Silver chloride  AgCl
+Silver chromate  Ag2CrO4
+Silver fluoroborate  AgBF4
+Silver fulminate  AgCNO
+Silver hydroxide  AgOH
+Silver iodide  AgI
+Silver nitrate  AgNO3
+Silver nitride  Ag3N
+Silver oxide  Ag2O
+Silver perchlorate  AgClO4
+Silver phosphate (silver orthophosphate)  Ag3PO4
+Silver subfluoride  Ag2F
+Silver sulfate  Ag2SO4
+Silver sulfide  Ag2S
+Silver(I) fluoride  AgF
+Silver(II) fluoride  AgF2
+Soda lime
+Sodamide  NaNH2
+Sodium aluminate  NaAlO2
+Sodium arsenate  H24Na3AsO16
+Sodium azide  NaN3
+Sodium bicarbonate  NaHCO3
+Sodium biselenide  NaHSe
+Sodium bisulfite  NaHSO3
+Sodium borate  Na
+2B
+4O
+7
+Sodium borohydride  NaBH4
+Sodium bromate  NaBrO3
+Sodium bromide  NaBr
+Sodium bromite  NaBrO2
+Sodium carbide  Na2C2
+Sodium carbonate  Na2CO3
+Sodium chlorate  NaClO3
+Sodium chloride  NaCl
+Sodium chlorite  NaClO2
+Sodium cobaltinitrite  CoN6Na3O12[6]
+Sodium cyanate  NaCNO
+Sodium cyanide  NaCN
+Sodium dichromate  Na2Cr2O7.2H2O
+Sodium dioxide  NaO2
+Sodium dithionite  Na2S2O4
+Sodium ferrocyanide  Na4Fe(CN)6
+Sodium fluorosilicateF6Na2Si Sodium fluorosilicate
+Sodium hydride  NaH
+Sodium hydrogen carbonate (Sodium bicarbonate)  NaHCO3
+Sodium hydrosulfide  NaSH
+Sodium hydroxide  NaOH
+Sodium hypobromite  NaBrO
+Sodium hypochlorite  NaOCl
+Sodium hypoiodite  NaIO
+Sodium hypophosphite  NaPO2H2
+Sodium iodate  NaIO3
+Sodium iodide  NaI
+Sodium manganate  Na2MnO4
+Sodium molybdate  Na2MoO4
+Sodium monofluorophosphate (MFP)  Na2PFO3
+Sodium nitrate  NaNO3
+Sodium nitrite  NaNO2
+Sodium nitroprusside  Na2[Fe(CN)5NO]2H2O
+Sodium oxide  Na2O
+Sodium perborate  NaBO3H2O
+Sodium perbromate  NaBrO4
+Sodium percarbonate  2Na2CO33H2O2
+Sodium perchlorate  NaClO4
+Sodium periodate  NaIO4
+Sodium permanganate  NaMnO4
+Sodium peroxide  Na2O2
+Sodium perrhenate  NaReO4
+Sodium persulfate  Na
+2S
+2O
+8
+Sodium persulfate  Na2S2O8
+Sodium phosphate; see trisodium phosphate  Na3PO4
+Sodium selenate  Na2O4Se
+Sodium selenide  Na2Se
+Sodium selenite  Na2SeO3
+Sodium silicate  Na2SiO3
+Sodium sulfate  Na2SO4
+Sodium sulfide  Na2S
+Sodium sulfite  Na2SO3
+Sodium tellurite  Na2TeO3
+Sodium thioantimoniate  Na3(SbS4).9H2O
+Sodium thiocyanate  NaSCN
+Sodium thiosulfate  Na2S2O3
+Sodium tungstate  Na2WO4
+Sodium uranate  Na2O7U2
+Sodium zincate  H4Na2O4Zn[7]
+Stibine  SbH3
+Strontium carbonate  SrCO3
+Strontium chloride  SrCl2
+Strontium fluoride  SrF2
+Strontium hydroxide  Sr(OH)2
+Strontium nitrate  Sr(NO3)2
+Strontium oxide  SrO
+Strontium titanate  SrTiO3
+Sulfamic acid  H3NO3S
+Hydrogen sulfide (sulfane)  H2S
+Sulfur dioxide  SO2
+Sulfur hexafluoride  SF6
+Sulfur tetrafluoride  SF4
+Disulfur decafluoride  S2F10
+Sulfuric acid  H2SO4
+Sulfurous acid  H2SO3
+Sulfuryl chloride  SO2Cl2
+T[edit]
+Tantalum carbide  TaC
+Tantalum(V) oxide  Ta2O5
+Telluric acid  H6TeO6
+Tellurium dioxide  TeO2
+Tellurium tetrachloride  TeCl4
+Tellurous acid  H2TeO3
+Terbium(III) chloride  TbCl3
+Tetraborane  B4H10
+Tetrachloroauric acid  HAuCl4
+Tetrafluorohydrazine  N2F4
+Tetramminecopper(II) sulfate  [Cu(NH3)4]SO4
+Tetrasulfur tetranitride  S4N4
+Thallium(I) carbonate  Tl2CO3
+Thallium(I) fluoride  TlF
+Thallium(III) oxide  Tl2O3
+Thallium(III) sulfate  Tl2(SO4)2
+Thionyl chloride  SOCl2
+Thiophosgene  CSCl2
+Thiophosphoryl chloride  Cl3PS
+Thorium dioxide  ThO2
+Thortveitite  (Sc,Y)2Si2O7
+Thulium(III) chloride  TmCl3
+Tin(II) chloride (stannous chloride)  SnCl2
+Tin(II) fluoride  SnF2
+Tin(IV) chloride  SnCl4
+Titanium boride  TiB2
+Titanium carbide  TiC
+Titanium dioxide (titanium(IV) oxide)  TiO2  Titanium dioxide (B)
+Titanium nitride  TiN
+Titanium(IV) bromide (titanium tetrabromide)  TiBr4
+Titanium(IV) carbide  TiC
+Titanium(IV) chloride (titanium tetrachloride)  TiCl4
+Titanium(III) chloride  TiCl3
+Titanium(II) chloride  TiCl2
+Titanium(III) fluoride  TiF3
+Titanium(IV) iodide (titanium tetraiodide)  TiI4
+Trifluoromethylisocyanide  C2NF3
+Trifluoromethanesulfonic acid  CF3SO3H
+Trimethylphosphine  C3H9P
+Trioxidane  H2O3
+Tripotassium phosphate  K3PO4
+Trisodium phosphate  Na3PO4
+Triuranium octaoxide (pitchblende or yellowcake)  U3O8
+Tungsten boride  WB2
+Tungsten carbide  WC
+Tungsten(VI) chloride  WCl6
+Tungsten(VI) fluoride  WF6
+Tungstic acid  H2WO4
+Tungsten hexacarbonyl  W(CO)6
+U[edit]
+Uranium hexafluoride  UF6
+Uranium pentafluoride  UF5
+Uranium tetrachloride  UCl4
+Uranium tetrafluoride  UF4
+Uranyl acetate  UO2(CH3COO)2
+Uranyl carbonate  UO2CO3
+Uranyl chloride  UO2Cl2
+Uranyl fluoride  UO2F2
+Uranyl hydroxide  UO2(OH)2
+Uranyl hydroxide  (UO2)2(OH)4
+Uranyl nitrate  UO2(NO3)2
+Uranyl sulfate  UO2SO4
+V[edit]
+Vanadium carbide  VC
+Vanadium oxytrichloride (Vanadium(V) oxide trichloride)  VOCl3
+Vanadium(IV) chloride  VCl4
+Vanadium(II) chloride  VCl2
+Vanadium(II) oxide  VO
+Vanadium(III) nitride  VN
+Vanadium(III) bromide  VBr3
+Vanadium(III) chloride  VCl3
+Vanadium(III) fluoride  VF3
+Vanadium(IV) fluoride  VF4
+Vanadium(III) oxide  V2O3
+Vanadium(IV) oxide  VO2
+Vanadium(IV) sulfate  VOSO4
+Vanadium(V) oxide  V2O5
+W[edit]
+Water  H2O
+X[edit]
+Xenon difluoride  XeF2
+Xenon hexafluoroplatinate  Xe[PtF6]
+Xenon tetrafluoride  XeF4
+Xenon tetroxide  XeO4
+Xenic acid  H2XeO4
+Y[edit]
+Ytterbium(III) chloride  YbCl3
+Ytterbium(III) oxide  Yb2O3
+Yttrium(III) antimonide  YSb
+Yttrium(III) arsenide  YAs
+Yttrium(III) bromide  YBr3
+Yttrium aluminium garnet  Y3Al5O12
+Yttrium barium copper oxide  YBa2Cu3O7
+Yttrium(III) fluoride  YF3
+Yttrium iron garnet  Y3Fe5O12
+Yttrium(III) oxide  Y2O3
+Yttrium(III) sulfide  Y2S3
+Yttrium copper  YCu
+Yttrium silver  YAg
+Yttrium gold  YAu
+Yttrium rhodium  YRh
+Yttrium iridium  YIr
+Yttrium zinc  YZn
+Yttrium cadmium  YCd
+Yttrium magnesium  YMg
+Z[edit]
+Zinc bromide  ZnBr2
+Zinc carbonate  ZnCO3
+Zinc chloride  ZnCl2
+Zinc cyanide  Zn(CN)2
+Zinc fluoride  ZnF2
+Zinc iodide  ZnI2
+Zinc oxide  ZnO
+Zinc selenide  ZnSe
+Zinc sulfate  ZnSO4
+Zinc sulfide  ZnS
+Zinc telluride  ZnTe
+Zirconia hydrate  ZrO2nH2O
+Zirconium boride  ZrB2
+Zirconium carbide  ZrC
+Zirconium(IV) chloride  ZrCl4
+Zirconium nitride  ZrN
+Zirconium hydroxide  Zr(OH)4
+Zirconium(IV) oxide  ZrO2
+Zirconium orthosilicate  ZrSiO4
+Zirconium tetrafluoride  ZrF4
+Zirconium tetrahydroxide  H4O4Zr
+Zirconium tungstate  ZrW2O8
+Acetic acid
+Acetone
+Acetylene
+Ammonia
+Ammonium hydroxide
+Azobisisobutyronitrile
+Baeyer's reagent
+N-Bromosuccinimide
+Butanone (methyl ethyl ketone)
+Butylated hydroxytoluene
+n-Butyllithium
+Carbon disulfide
+Carbon tetrachloride
+Carbonyldiimidazole
+Ceric ammonium nitrate
+Chloroform
+Chromic acid
+Chromium trioxide
+Collins reagent
+Copper(I) iodide
+DessMartin periodinane
+Diborane
+Dicyclohexylcarbodiimide
+Diethyl azodicarboxylate
+Diethyl ether
+Dihydropyran
+Diisobutylaluminium hydride
+Diisopropyl azodicarboxylate
+Dimethyl ether
+Dimethylformamide
+Dimethylsulfide
+Dimethyl sulfoxide
+Dioxane
+Ethanol
+Fehling's reagent
+Fenton's reagent
+Formaldehyde
+Formic acid
+Grignard reagents
+Hexamethylphosphoramide
+Hydrazine
+Hydrazoic acid
+Hydrochloric acid
+Hydrofluoric acid
+Hydrogen peroxide
+Imidazole
+Isopropyl alcohol
+Lime
+Limestone
+Lithium aluminium hydride
+Lithium diisopropylamide
+Manganese dioxide
+Meta-Chloroperoxybenzoic acid
+Methyl tert-butyl ether
+Millon's reagent
+Nitric acid
+Osmium tetroxide
+Oxalyl chloride
+Palladium(II) acetate
+Perchloric acid
+Phosphoric acid
+Phosphorus pentachloride
+Phosphorus tribromide
+Phosphorus trichloride
+Phosphoryl chloride
+Potassium dichromate
+Potassium hydroxide
+Potassium permanganate
+Pyridinium chlorochromate
+Pyridinium dichromate (Cornforth reagent)
+Raney nickel
+Samarium(II) iodide (Kagan Reagent)
+Silver oxide
+Silver nitrate
+Sodium amide
+Sodium azide
+Sodium bis(trimethylsilyl)amide
+Sodium borohydride
+Sodium chlorite
+Sodium hydride
+Sodium hydroxide
+Sodium hypochlorite
+Sodium nitrite
+Sulfuric acid
+tert-Butyl hydroperoxide
+Tetrahydrofuran
+Tetrakis(triphenylphosphine)palladium(0)
+Tetramethylammonium hydroxide
+Tetramethylsilane
+Thionyl chloride
+Thiophenol
+Titanium tetrachloride
+Tollens' reagent
+Triphenylphosphine
+Abelsonite
+Abenakiite-(Ce)
+Abernathyite
+Abhurite
+Abramovite
+Abswurmbachite
+Acanthite
+Achavalite
+Actinolite
+Acuminite
+Adamite
+Adamsite-(Y)
+Adelite
+Admontite
+Aegirine
+Aenigmatite
+Aerinite
+Aerugite
+Aeschynite-(Ce)
+Aeschynite-(Nd)
+Aeschynite-(Y)
+Afghanite
+Afwillite
+Agardite
+Agrellite
+Agrinierite
+Aguilarite
+Aheylite
+Ahlfeldite
+Aikinite
+Ajoite
+Akaganite
+Akatoreite
+Akdalaite
+kermanite
+Akhtenskite
+Akimotoite
+Akrochordite
+Aksaite
+Aktashite
+Alabandite
+Alacrnite
+Alamosite
+Alarsite
+Albite
+Albrechtschraufite
+Aldermanite
+Aleksite
+Alforsite
+Algodonite
+Aliettite
+Allabogdanite
+Allactite
+Allanite
+Allanpringite
+Allargentum
+Alleghanyite
+Alloclasite
+Allophane
+Alluaivite
+Alluaudite
+Almandine
+Almarudite
+Alsakharovite-Zn
+Alstonite
+Altaite
+Althausite
+Althupite
+Altisite
+Alum-(K)
+Aluminite
+Aluminium
+Alunite
+Alunogen
+Amakinite
+Amarantite
+Amblygonite
+Ameghinite
+Amesite
+Amicite
+Amphibole (mineral group)
+Analcime (analcite)
+Anandite
+Anapaite
+Anatase
+Ancylite (mineral group)
+Andalusite
+Andersonite
+Andesine
+Andorite (IV/VI)
+Andradite
+Andyrobertsite
+Anglesite
+Anhydrite
+Ankerite
+Annabergite
+Annite
+Anorthite
+Anorthoclase
+Antarcticite
+Anthonyite
+Anthophyllite
+Antigorite
+Antimony
+Antitaenite
+Antlerite
+Apachite
+Apatite (mineral group)
+Aphthitalite
+Apophyllite
+Aragonite
+Arcanite
+Archerite
+Arctite
+Arcubisite
+Ardaite
+Arfvedsonite
+Argentite
+Argutite
+Argyrodite
+Armalcolite
+Arsenic
+Arseniosiderite
+Arsenoclasite
+Arsenolite
+Arsenopyrite
+Arthurite
+Artinite
+Artroeite
+Ashburtonite
+Ashoverite
+Asisite
+Astrophyllite
+Atacamite
+Athabascaite
+Atheneite
+Aubertite
+Augelite
+Augite
+Aurichalcite
+Auricupride
+Aurostibite
+Austinite
+Autunite
+Avicennite
+Avogadrite
+Awaruite
+Axinite (mineral group)
+Azurite
+Varieties that are not valid species:
+Adamantine spar (variety of corundum)
+Agate (variety of quartz)
+Alabaster (variety of gypsum)
+Alexandrite (variety of chrysoberyl)
+Allingite (synonym of amber)
+Alum
+Amazonite (variety of microcline)
+Amber (fossilized resin)
+Amethyst (purple variety of quartz)
+Ammolite (organic; also a gemstone)
+Amosite (asbestiform grunerite)
+Antozonite (variety of fluorite)
+Anyolite (metamorphic rock - zoisite, ruby, and hornblende)
+Aquamarine (light blue variety of beryl)
+Argentite (high temperature form of acanthite)
+Asbestos (fibrous serpentine- or amphibole minerals)
+Auerlite (variety of thorite)
+Avalite (chromian variety of illite)
+Aventurine (variety of quartz)
+
+
+Biotite
+Babefphite
+Babingtonite
+Baddeleyite
+Bakerite
+Balangeroite
+Banalsite
+Baotite
+Bararite
+Barrerite
+Barstowite
+Baryte (barite)
+Barytocalcite
+Bassanite
+Bastnsite (mineral group)
+Baumhauerite
+Bayldonite
+Bayleyite
+Bazzite
+Becquerelite
+Benitoite
+Benstonite
+Bentorite
+Beraunite
+Berborite
+Bergenite
+Berlinite
+Berryite
+Berthierite
+Bertrandite
+Beryl
+Beryllonite
+Beudantite
+Bicchulite
+Biehlite
+Blinite
+Billietite
+Billwiseite
+Biotite
+Birnessite
+Bischofite
+Bismite
+Bismuth
+Bismuthinite
+Bismutite
+Bityite
+Bixbyite
+Bldite
+Blossite
+Bobfergusonite
+Boehmite
+Boleite
+Boltwoodite
+Bonaccordite
+Boracite
+Borax
+Bornite
+Botallackite
+Botryogen
+Boulangerite
+Bournonite
+Boussingaultite
+Bowieite
+Braggite
+Brassite
+Braunite
+Brazilianite
+Breithauptite
+Brewsterite (series of zeolites)
+Brezinaite
+Brianite
+Brianyoungite
+Briartite
+Bridgmanite
+Brochantite
+Brockite
+Bromargyrite
+Bromellite
+Bronzite
+Brookite
+Brownleeite
+Brownmillerite
+Brucite
+Brushite
+Buddingtonite
+Bukovite
+Bukovskyite
+Bultfonteinite
+Bunsenite
+Bustamite
+Bystrite
+Varieties that are not valid species:
+Barbertonite (polytype of stichtite)
+Bauxite (aluminium ore)
+Beckerite (natural resin)
+Bentonite (mixture of montmorillonite and other clays)
+Bixbite (red gem variety of beryl)
+Bowenite (variety of antigorite)
+Brammallite (variety of illite)
+Brokenhillite
+Buergerite (renamed to fluor-buergerite)
+Bursaite
+Bytownite (variety of anorthite)
+
+Cabalzarite
+Cabriite
+Cacoxenite
+Cadmium
+Cadmoindite
+Cadmoselite
+Cadwaladerite
+Cafarsite
+Cafetite
+Cahnite
+Calaverite
+Calciborite
+Calcite
+Calderite
+Caledonite
+Calumetite
+Campigliaite
+Canavesite
+Cancrinite
+Canfieldite
+Carletonite
+Carlosruizite
+Carlsbergite
+Carminite
+Carnallite
+Carnotite
+Carobbiite
+Carpathite
+Carpholite
+Carrollite
+Caryopilite
+Cassiterite
+Cattierite
+Cavansite
+Celadonite
+Celestine
+Celsian
+Cerite
+Cerium
+Cerussite
+Cervandonite-(Ce)
+Cervantite
+Cesanite
+Cesbronite
+Chabazite (series of zeolites)
+Chaidamuite
+Chalcanthite
+Chalcocite
+Chalcophyllite
+Chalcopyrite
+Challacolloite
+Chambersite
+Chamosite
+Changbaiite
+Chaoite
+Chapmanite
+Charoite
+Chatkalite
+Chesterite
+Chibaite
+Childrenite
+Chlorargyrite
+Chlorite (mineral group)
+Chloritoid
+Chlormayenite
+Chlorocalcite
+Chloroxiphite
+Chondrodite
+Chrisstanleyite
+Christite
+Chromite
+Chromium
+Chrysoberyl
+Chrysocolla
+Chrysotile
+Chvaleticeite
+Cinnabar
+Clarkeite
+Claudetite
+Clausthalite
+Clearcreekite
+Cleusonite
+Clinoclase
+Clinohedrite
+Clinohumite
+Clinoptilolite
+Clinozoisite
+Clintonite
+Cobaltite
+Coccinite
+Coconinoite
+Coesite
+Coffinite
+Cohenite
+Colemanite
+Colimaite
+Collinsite
+Coloradoite
+Columbite (mineral group)
+Combeite
+Conichalcite
+Connellite
+Cooperite
+Copiapite
+Copper
+Corderoite
+Cordierite
+Corkite
+Cornubite
+Cornwallite
+Corundum
+Cotunnite
+Covellite
+Coyoteite
+Creedite
+Cristobalite
+Crocoite
+Cronstedtite
+Crookesite
+Crossite
+Cryolite
+Cryptomelane
+Cubanite
+Cummingtonite
+Cupalite
+Cuprite
+Cuprosklodowskite
+Cuprospinel
+Curite
+Cuspidine
+Cyanotrichite
+Cylindrite
+Cymrite
+Cyrilovite
+
+Native copper
+Varieties that are not valid species:
+Campylite (variety of mimetite)
+Carnelian (variety of quartz)
+Cementite (synthetic cohenite)
+Ceylonite (variety of spinel)
+Chalcedony (cryptocrystalline variety of quartz)
+Chiastolite (variety of andalusite)
+Chlorastrolite (variety of pumpellyite-(Mg))
+Chrysoprase (green nickel bearing chalcedony)
+Chrysotile (group name - asbestiform serpentine)
+Citrine (yellow variety of quartz)
+Cleveite (variety of uraninite)
+Clinochrysotile (polytype of chrysotile)
+Coltan (short for minerals of the columbite group)
+Crocidolite (asbestiform riebeckite)
+Cumberlandite (igneous rock)
+
+
+The slightly misshapen octahedral shape of this rough diamond crystal in matrix is typical of the mineral.
+Danalite
+Danburite
+Datolite
+Daubreite
+Daubrelite
+Davidite
+Dawsonite
+Delafossite
+Delvauxite
+Demesmaekerite
+Derriksite
+Descloizite
+Devilline
+Diaboleite
+Diadochite
+Diamond
+Diaspore
+Dickite
+Digenite
+Dimorphite
+Diopside
+Dioptase
+Djerfisherite
+Djurleite
+Dmitryivanovite
+Dollaseite-(Ce)
+Dolomite
+Domeykite
+Donnayite-(Y)
+Drysdallite
+Duftite
+Dumortierite
+Dundasite
+Dypingite
+Dyscrasite
+Dzhalindite
+Varieties that are not valid species:
+Delessite (magnesian chamosite)
+Diatomite (diatomaceous earth)
+
+Edenite
+Edingtonite
+Efremovite
+Ekanite
+Elbaite
+Emmonsite
+Empressite
+Enargite
+Enstatite
+Eosphorite
+Ephesite
+Epidote
+Epsomite
+Ericssonite
+Erionite (series of zeolites)
+Erythrite
+Eskolaite
+Esperite
+Ettringite
+Euchroite
+Euclase
+Eucryptite
+Eudialyte
+Eudialyte group
+Euxenite-(Y)
+Eveite
+Evenkite
+Eveslogite
+Varieties that are not valid species:
+Elsmoreite (pure hydrokenoelsmoreite)
+Emerald (green gem variety of beryl)
+Emery (a rock containing corundum)
+
+Fabianite
+Farneseite
+Faujasite (subgroup of zeolites)
+Faustite
+Fayalite (olivine group)
+Feldspar (mineral group)
+Feldspathoid (mineral group)
+Felsbnyaite
+Ferberite
+Fergusonite (mineral group)
+Feroxyhyte
+Ferrierite (subgroup of zeolite minerals)
+Ferrihydrite
+Ferrimolybdite
+Ferro-actinolite
+Ferrogedrite
+Ferrohortonolite (olivine group)
+Ferronigerite-2N1S
+Ferropericlase
+Ferroselite
+Fettelite
+Fichtelite
+Fletcherite
+Fluckite
+Fluellite
+Fluoborite
+Fluocerite
+Fluor-buergerite
+Fluor-liddicoatite
+Fluor-uvite
+Fluorapatite (apatite group)
+Fluorapophyllite-(K)
+Fluorcaphite
+Fluorellestadite
+Fluorite
+Fluororichterite (amphibole group)
+Fornacite
+Forsterite (olivine group)
+Fougrite (layered double hydroxide)
+Fourmarierite
+Fraipontite
+Francevillite
+Franckeite
+Frankamenite
+Frankdicksonite
+Frankhawthorneite
+Franklinite (spinel group)
+Franklinphilite
+Freibergite
+Freieslebenite
+Fukuchilite
+Varieties that are not valid species:
+Fassaite (variety of augite)
+Ferricrete (iron oxide cemented soil or sediment)
+Ferrocolumbite (synonym of columbite-(Fe))
+Ferrotantalite (synonym of tantalite-(Fe))
+Fluorspar (synonym of fluorite)
+Francolite (variety of fluorapatite)
+
+Gabrielite
+Gadolinite (mineral group)
+Gagarinite-(Ce)
+Gahnite
+Galaxite
+Galena
+Galkhaite
+Gananite
+Garnet (mineral group)
+Gaspeite
+Gatehouseite
+Gaylussite
+Gedrite
+Geerite
+Gehlenite
+Geigerite
+Geikielite
+Geocronite
+Georgerobinsonite
+Germanite
+Gersdorffite
+Getchellite
+Gibbsite
+Gilalite
+Gismondine
+Glauberite
+Glaucochroite
+Glaucodot
+Glauconite
+Glaucophane
+Gmelinite
+Godovikovite
+Goethite
+Gold
+Goldmanite
+Gonnardite
+Gordaite
+Gormanite
+Goslarite
+Graftonite
+Grandidierite
+Grandreefite
+Graphite
+Gratonite
+Greenalite
+Greenockite
+Gregoryite
+Greifensteinite
+Greigite
+Grossite
+Grossular
+Groutite
+Grunerite
+Guettardite
+Gugiaite
+Guilleminite
+Gunningite
+Guyanaite
+Gwihabaite
+Gypsum
+Varieties that are not valid species:
+Garnierite (a nickel ore)
+Gedanite (fossilized resin)
+Glessite (natural resin)
+Gummite (a mixture of uranium minerals)
+
+
+Hanksite, from Searles Lake.
+
+Hematite
+Hafnon
+Hagendorfite
+Haggertyite
+Haidingerite
+Haiweeite
+Hleniusite-(La)
+Halite
+Halloysite
+Halotrichite
+Hambergite
+Hanksite
+Hapkeite
+Hardystonite
+Harmotome
+Hauerite
+Hausmannite
+Hauyne
+Hawleyite
+Haxonite
+Hazenite
+Heazlewoodite
+Hectorite
+Hedenbergite
+Hellyerite
+Hematite
+Hemihedrite
+Hemimorphite
+Hemusite
+Herbertsmithite
+Hercynite
+Herderite
+Hessite
+Heulandite (series of zeolites)
+Hexaferrum
+Hirneite
+Hibonite
+Hidalgoite
+Hilgardite
+Hisingerite
+Hodgkinsonite
+Hoelite
+Hollandite
+Holmquistite
+Homilite
+Hopeite
+Hornblende (series of amphiboles)
+Howlite
+Hsianghualite
+Hubeite
+Hbnerite
+Huemulite
+Humite
+Huntite
+Hureaulite
+Hutchinsonite
+Huttonite
+Hydroboracite
+Hydrogrossular (series of garnets)
+Hydrohalite
+Hydrokenoelsmoreite
+Hydromagnesite
+Hydrotalcite
+Hydroxylapatite
+Hydrozincite
+Varieties that are not valid species:
+Hatchettite (a paraffin wax)
+Heliodor (greenish-yellow variety of beryl)
+Heliotrope (variety of chalcedony)
+Hessonite (variety of grossular)
+Hiddenite (variety of spodumene)
+Hyalite (variety of opal)
+Hyalophane
+Hypersthene (synonym of enstatite or ferrosilite, or mid-way member of the enstatiteferrosilite series)
+I[edit]
+Ianbruceite
+Icosahedrite
+Idrialite
+Ikaite
+Illite
+Ilmenite
+Ilvaite
+Imogolite
+Indite
+Indium
+Inyoite
+Iodargyrite
+Iranite
+Iridium
+Iron
+Ixiolite
+Varieties that are not valid species:
+Idocrase (synonym of vesuvianite)
+Iolite (a gem-quality variety of cordierite)
+J[edit]
+Jacobsite
+Jadarite
+Jadeite
+Jaffeite
+Jalpaite
+Jamesonite
+Janggunite
+Jarosewichite
+Jarosite
+Jennite
+Jeremejevite
+Jerrygibbsite
+Jimthompsonite
+Johannite
+Jolliffeite
+Jonesite
+Jordanite
+Julgoldite
+Junitoite
+Jurbanite
+Varieties that are not valid species:
+Jade (tough, green mineral either jadeite or nephrite amphibole)
+Jasper (variety of quartz)
+Jeffersonite (variety of augite)
+Jet (fossilised wood)
+
+Kaatialaite
+Kadyrelite
+Kaersutite
+Kainite
+Kainosite-(Y)
+Kalininite
+Kalinite
+Kalsilite
+Kamacite
+Kambaldaite
+Kamiokite
+Kampfite
+Kakite
+Kanoite
+Kaolinite
+Karlite
+Kassite
+Kegelite
+Keilite
+Kermesite
+Kernite
+Kesterite
+Keyite
+Khatyrkite
+Kieserite
+Kinoite
+Knebelite
+Knorringite
+Kobellite
+Kochite
+Kogarkoite
+Kolbeckite
+Kornerupine
+Kosmochlor
+Kostovite
+Kttigite
+Kovdorskite
+Kratochvlite
+Kremersite
+Krennerite
+Krieselite
+Krhnkite
+Krotite
+Krut'aite
+Krutovite
+Kukharenkoite-(Ce)
+Kuratite
+Kurnakovite
+Kutnohorite
+Kyanite
+Varieties that are not valid species:
+Keilhauite (variety of titanite)
+Kerolite (variety of talc)
+Krantzite (natural resin)
+Kunzite (variety of spodumene)
+
+Labradorite
+Lanarkite
+Langbeinite
+Langite
+Lansfordite
+Lanthanite (group of rare earth carbonates)
+Laplandite-(Ce)
+Larnite
+Laumontite
+Laurionite
+Laurite
+Lautite
+Lavendulan
+Lawsonite
+Lazulite
+Lazurite
+Lead
+Leadhillite
+Legrandite
+Leifite
+Leightonite
+Lepidocrocite
+Lepidolite
+Letovicite
+Leucite
+Leucophanite
+Leucophoenicite
+Lvyne (series of zeolites)
+Libethenite
+Liebigite
+Linarite
+Lindgrenite
+Linnaeite
+Lipscombite
+Liroconite
+Litharge
+Lithiophilite
+Livingstonite
+Lizardite
+Loellingite
+Lonsdaleite
+Loparite-(Ce)
+Lpezite
+Lorndite
+Lorenzenite
+Loveringite
+Ludlamite
+Ludwigite
+Lulzacite
+Lyonsite
+Varieties that are not valid species:
+Lapis lazuli (a rock consisting primarily of lazurite, calcite and pyrite)
+Larimar (blue variety of pectolite)
+Lechatelierite (fused quartz glass)
+Lignite (a type of coal)
+Limonite (a mineraloid)
+Lodestone (a synonym of magnetite)
+Lublinite (variety of calcite)
+
+A polished slice of Malachite
+
+Muscovite
+Macaulayite
+Macdonaldite
+Mackinawite
+Madocite
+Magadiite
+Maghemite
+Magnesioferrite
+Magnesiohastingsite
+Magnesiopascoite
+Magnesite
+Magnetite
+Majorite
+Malachite
+Malayaite
+Manganite
+Manganosite
+Manganvesuvianite
+Marcasite
+Margaritasite
+Margarite
+Marialite
+Maricite
+Marrite
+Marthozite
+Mascagnite
+Massicot
+Masuyite
+Matlockite
+Maucherite
+Mawsonite
+Mckelveyite-(Y)
+Meionite
+Melanophlogite
+Melanterite
+Melilite
+Mellite
+Melonite
+Mendipite
+Mendozite
+Meneghinite
+Mercury
+Mereheadite
+Merenskyite
+Meridianiite
+Merrillite
+Mesolite
+Messelite
+Metacinnabar
+Metatorbernite
+Metazeunerite
+Meyerhofferite
+Miargyrite
+Mica (a group of silicate minerals)
+Microcline
+Microlite
+Milarite
+Millerite
+Millosevichite
+Mimetite
+Minium
+Minnesotaite
+Minyulite
+Mirabilite
+Mixite
+Moganite
+Mohite
+Mohrite
+Moissanite
+Molybdenite
+Molybdite
+Monazite
+Monohydrocalcite
+Monticellite
+Montmorillonite (clay mineral)
+Mooihoekite
+Moolooite
+Mordenite
+Moschellandsbergite
+Mosesite
+Mottramite
+Motukoreaite
+Mullite
+Mundite
+Murdochite
+Muscovite
+Musgravite (magnesiotaaffeite-6N'3S)
+Varieties that are not valid species:
+Magnesia
+Magnesiocummingtonite (magnesium-rich variety of cummingtonite)
+Malacolite (synonym of diopside)
+Manganocolumbite (synonym of columbite-(Mn))
+Manganotantalite (synonym of tantalite-(Mn))
+Mariposite (variety of phengite/muscovite)
+Meerschaum (variety of sepiolite)
+Melanite (variety of andradite)
+Menilite (variety of opal)
+Milky quartz (a cloudy white quartz)
+Morganite (a pink beryl)
+
+Nabalamprophyllite
+Nabesite
+Nacrite
+Nadorite
+Nagygite
+Nahcolite
+Naldrettite
+Nambulite
+Narsarsukite
+Native copper
+Natrolite
+Natron
+Natrophilite
+Nekrasovite
+Nelenite
+Nenadkevichite
+Nepheline
+Npouite
+Neptunite
+Nichromite
+Nickel
+Nickeline
+Niedermayrite
+Niningerite
+Nissonite
+Niter
+Nitratine
+Nobleite
+Nontronite
+Norbergite
+Normandite
+Northupite
+Nosean
+Nsutite
+Nyerereite
+Varieties that are not valid species:
+Nephrite (variety of actinolite)
+Niobite (synonym of columbite)
+Niobite-tantalite (synonym of columbite-tantalite)
+
+Okenite
+Oldhamite
+Olgite
+Olivenite
+Olivine (a group of silicate minerals)
+Omphacite
+Ordezite
+Oregonite
+Orpiment
+Orthoclase
+Osarizawaite
+Osmium
+Osumilite
+Otavite
+Ottrelite
+Otwayite
+
+Opal
+Varieties that are not valid species:
+Obsidian (a mineraloid)
+Oligoclase (a mixture of albite and anorthite)
+Onyx (a monochromatic banded variety of chalcedony)
+Opal (a mineraloid)
+Orthochrysotile (a polytype of chrysotile)
+
+Pkknenite
+Pabstite
+Painite
+Palladium
+Palygorskite
+Panethite
+Panguite
+Papagoite
+Paragonite
+Paralaurionite
+Paramelaconite
+Pararealgar
+Pargasite
+Parisite-(Ce)
+Parsonsite
+Parthite
+Pascoite
+Patrnite
+Paulingite (series of zeolites)
+Paulscherrerite
+Pearceite
+Pecoraite
+Pectolite
+Penikisite
+Penroseite
+Pentagonite
+Pentlandite
+Perhamite
+Periclase
+Perite
+Perovskite
+Petalite
+Petzite
+Pezzottaite
+Pharmacolite
+Pharmacosiderite
+Phenakite
+Phillipsite (series of zeolites)
+Phlogopite
+Phoenicochroite
+Phosgenite
+Phosphophyllite
+Phosphuranylite
+Pickeringite
+Picropharmacolite
+Piemontite
+Pigeonite
+Pinalite
+Pinnoite
+Piypite
+Plagioclase Na-Ca feldspar series
+Plancheite
+Platinum
+Plattnerite
+Playfairite
+Plumbogummite
+Polarite
+Pollucite
+Polybasite
+Polycrase
+Polydymite
+Polyhalite
+Portlandite
+Posnjakite
+Poudretteite
+Povondraite
+Powellite
+Prehnite
+Proustite
+Pseudobrookite
+Pseudomalachite
+Pseudowollastonite
+Pumpellyite (group of sorosilicates)
+Purpurite
+Putnisite
+Pyrargyrite
+Pyrite
+Pyrochlore (mineral group)
+Pyrolusite
+Pyromorphite
+Pyrope
+Pyrophanite
+Pyrophyllite
+Pyroxene (group of silicate minerals)
+Pyroxferroite
+Pyroxmangite
+Pyrrhotite
+Varieties that are not valid species:
+Palagonite (basaltic volcanic glass)
+Parachrysotile (a polytype of chrysotile)
+Pelagosite (variety of aragonite)
+Pericline (variety of albite)
+Peridot (gem-quality olivine)
+Perlite (volcanic glass)
+Phengite (variety of muscovite)
+Phosphorite (name given to impure, massive apatite.)
+Pimelite ("discredited mineral species")
+Pitchblende (a massive impure form of uraninite)
+Plessite (mixture of kamacite and taenite)
+Potassium alum or potash alum
+Psilomelane
+Pumicite
+Quartz
+Qingsongite
+Quartz
+Quenstedtite
+Quintinite
+Rambergite
+Rameauite
+Rammelsbergite
+Rapidcreekite
+Raspite
+Realgar
+Reidite
+Reinerite
+Renierite
+Rheniite
+Rhodium
+Rhodochrosite
+Rhodonite
+Rhodplumsite
+Rhomboclase
+Richterite
+Rickardite
+Riebeckite
+Ringwoodite
+Roaldite
+Robertsite
+Rodalquilarite
+Romanchite
+Romeite
+Rosasite
+Roscoelite
+Roselite
+Rosenbergite
+Rosickite
+Routhierite
+Rozenite
+Rubicline
+Ruizite
+Russellite
+Ruthenium
+Rutherfordine
+Rutile
+Rynersonite
+Rashleighite
+Rhodolite
+Rock crystal
+Rose quartz
+Roumanite
+Ruby
+Sabatierite
+Sabieite
+Sabinaite
+Sacrofanite
+Safflorite
+Sal ammoniac
+Saleeite
+Saliotite
+Salzburgite
+Samarskite-(Y)
+Sampleite
+Samsonite
+Samuelsonite
+Sanbornite
+Saneroite
+Sanidine (orthoclase variety)
+Santabarbaraite
+Santite
+Saponite (clay mineral)
+Sapphirine
+Sarabauite
+Sarkinite
+Sassolite
+Satterlyite
+Sauconite
+Sborgite
+Scapolite (a group of silicate minerals)
+Schferite
+Scheelite
+Schmiederite
+Schoepite
+Schorl (black tourmaline)
+Schreibersite
+Schreyerite
+Schrckingerite
+Schwertmannite
+Scolecite
+Scorodite
+Scorzalite
+Scrutinyite
+Seamanite
+Searlesite
+Seeligerite
+Segelerite
+Seifertite
+Sekaninaite
+Selenium
+Seligmannite
+Sellaite
+Semseyite
+Senarmontite
+Sepiolite
+Srandite
+Serendibite
+Serpentine group
+Serpierite
+Sewardite
+Shandite
+Shattuckite
+Shigaite
+Shortite
+Siderite
+Siderophyllite
+Siderotil
+Siegenite
+Silicate perovskite
+Silicon
+Sillimanite
+Silver
+Simonellite
+Simpsonite
+Sincosite
+Sinkankasite
+Sinoite
+Skaergaardite
+Sklodowskite
+Skutterudite
+Smaltite
+Smectite
+Smithsonite
+Sodalite
+Soddyite
+Sonolite
+Sperrylite
+Spertiniite
+Spessartine
+Sphalerite
+Spherocobaltite
+Spinel
+Spodumene
+Spurrite
+Stannite
+Stannoidite
+Staurolite
+Steacyite
+Stellerite
+Stephanite
+Stercorite
+Stibarsen
+Stibiconite
+Stibiopalladinite
+Stibnite
+Stichtite
+Stilbite
+Stilleite
+Stillwaterite
+Stillwellite-(Ce)
+Stilpnomelane
+Stishovite
+Stolzite
+Strashimirite
+Strengite
+Stromeyerite
+Strontianite
+Struvite
+Studenitsite
+Studtite
+Sttzite
+Suanite
+Suessite
+Sugilite
+Sulfur
+Sursassite
+Susannite
+Sussexite
+Svanbergite
+Sweetite
+Switzerite
+Sylvanite
+Sylvite
+Synchysite-(Ce)
+Syngenite
+Sapphire
+Sard
+Satinspar
+Selenite
+Stantienite
+Taaffeite
+Tachyhydrite
+Taenite
+Talc
+Talmessite
+Talnakhite
+Tamarugite
+Tangeite
+Tantalite
+Tantite
+Tapiolite
+Taranakite
+Tarapacaite
+Tarbuttite
+Tausonite
+Teallite
+Tellurite
+Tellurium
+Tellurobismuthite
+Temagamite
+Tennantite
+Tenorite
+Tephroite
+Terlinguaite
+Teruggite
+Tetradymite
+Tetrahedrite
+Tetrataenite
+Thaumasite
+Thenardite
+Thermonatrite
+Thiospinel group
+Thomasclarkite-(Y)
+Thomsenolite
+Thomsonite
+Thorianite
+Thorite
+Thortveitite
+Tiemannite
+Tienshanite
+Tin
+Tinaksite
+Tincalconite
+Titanite
+Titanium
+Titanowodginite
+Tobermorite
+Todorokite
+Tokyoite
+Tongbaite
+Topaz
+Torbernite
+Tourmaline
+Tranquillityite
+Tremolite
+Trevorite
+Tridymite
+Triphylite
+Triplite
+Triploidite
+Tripuhyite
+Troilite
+Trona
+Tschermakite
+Tschermigite
+Tsumcorite
+Tsumebite
+Tugtupite
+Tungsten
+Tungstite
+Tuperssuatsiaite
+Turquoise
+Tusionite
+Tyrolite
+Tyrrellite
+Tyuyamunite
+Tanzanite
+Thulite
+Thuringite
+Travertine
+Tsavorite
+Uchucchacuaite
+Uklonskovite
+Ulexite
+Ullmannite
+Ulrichite
+Ulvspinel
+Umangite
+Umbite
+Upalite
+Uraninite
+Uranocircite-II
+Uranophane
+Uranopilite
+Urea
+Uricite
+Urusovite
+Ussingite
+Utahite
+Uvarovite
+Uytenbogaardtite
+Ultramarine
+Umber
+Unakite
+Uralite
+Vaesite
+Valentinite
+Valleriite
+Vanadinite
+Vanadiocarpholite
+Vanadium
+Vantasselite
+Vanuralite
+Variscite
+Vaterite
+Vauquelinite
+Vauxite
+Veatchite
+Vermiculite
+Vesuvianite
+Villiaumite
+Violarite
+Vishnevite
+Vivianite
+Vladimirite
+Vlasovite
+Volborthite
+Vulcanite
+Wadsleyite
+Wagnerite
+Wairakite
+Wakabayashilite
+Wakefieldite
+Walfordite
+Wardite
+Warikahnite
+Warwickite
+Wassonite
+Wavellite
+Weddellite
+Weeksite
+Weilite
+Weissite
+Weloganite
+Whewellite
+Whiteite
+Whitlockite
+Willemite
+Wiluite
+Witherite
+Wodginite
+Wolframite
+Wollastonite
+Woodhouseite
+Wulfenite
+Wurtzite
+Wstite
+Wyartite
+Xanthiosite
+Xanthoconite
+Xanthoxenite
+Xenophyllite
+Xenotime
+Xiangjiangite
+Xieite
+Xifengite
+Xilingolite
+Ximengite
+Xingzhongite
+Xitieshanite
+Xocolatlite
+Xocomecatlite
+Xonotlite
+Ye'elimite
+Yttrialite
+Yttropyrochlore-(Y)
+Yuksporite
+Yttrocerite
+Yttrocolumbite
+Zabuyelite
+Zaccagnaite
+Zaherite
+Zarite
+Zakharovite
+Zanazziite
+Zaratite
+Zektzerite
+Zemannite
+Zeolite
+Zeunerite
+Zhanghengite
+Zharchikhite
+Zhemchuzhnikovite
+Ziesite
+Zimbabweite
+Zincite
+Zinclipscombite
+Zincmelanterite
+Zincobotryogen
+Zincochromite
+Zincolivenite
+Zinkenite
+Zinnwaldite
+Zippeite
+Zircon
+Zirconolite
+Zircophyllite
+Zirkelite
+Znucalite
+Zoisite
+Zorite
+Zunyite
+Zussmanite
+Zykaite
+Zajacite-(Ce)
+Zhonghuacerite-(Ce)
+Zinalsite
