@@ -58,11 +58,10 @@ class ExtractorTester(TestCase):
 class ManagerTester(TestCase):
   def setUp(self):
     self.db = 'predsynth'
-    self.em = MaterialManager(self.db)
     self.dm = DownloadManager(self.db)
 
   def test_build(self):
-    self.assertTrue(self.em is not None)
+    self.assertTrue(self.dm is not None)
 
   def test_relevance(self):
     self.assertTrue(self.dm.is_title_relevant('Synthesis of TiO2 nanotubes'))
