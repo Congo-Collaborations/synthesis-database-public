@@ -13,7 +13,9 @@ from classifiers.token_classifier import TokenClassifier
 from os import (environ)
 from autologging import (logged, traced)
 from chemdataextractor import Document as cdeDoc
+from chemdataextractor.nlp.tokenize import ChemWordTokenizer
 from collections import Counter
+from spacy.tokens import Doc
 import traceback
 import numpy as np
 
@@ -26,21 +28,37 @@ class InfoExtractor(object):
     self._load_token_classifier()
     self._load_lexicon()
     self._load_unit_conversions()
+    self.cwt = ChemWordTokenizer()
 
     self.__logger.info( self.__class__.__name__ + ' initialized' )
 
     self.token_class_lookups = {
       0: 'null',
-      1: 'amount',
-      2: 'condition',
-      3: 'material',
-      4: 'target',
-      5: 'operation',
-      6: 'descriptor',
-      7: 'property',
-      8: 'apparatus',
-      9: 'intermediate',
-      10: 'num'
+      1: 'amt_unit',
+      2: 'amt_misc',
+      3: 'cnd_unit',
+      4: 'cnd_misc',
+      5: 'material',
+      6: 'target',
+      7: 'operation',
+      8: 'descriptor',
+      9: 'prop_unit',
+      10: 'prop_type',
+      11: 'synth_aprt',
+      12: 'char_aprt',
+      13: 'brand',
+      14: 'intrmed',
+      15: 'number',
+      16: 'meta',
+      17: 'ref'
+    }
+
+    #TODO: Dictionary of chunk to word-label-sequence mappings
+    self.chunk_mappings = {
+      'amount': [
+        ('number', 'amt_unit'),
+        ('amt_misc')
+      ],
     }
 
   def load_nlp(self, nlp):
@@ -50,9 +68,9 @@ class InfoExtractor(object):
     if len(dois) == 0:
       self.papers = self.connection[self.db][collection].find()
     else:
-      self.papers = list(self.connection[self.db][collection].find(
+      self.papers = self.connection[self.db][collection].find(
         {'doi': {'$in':dois}}, no_cursor_timeout=True
-        ))
+        )
     self.__logger.info( 'Loaded all papers!' )
 
   def save_verbose_info(self, save_data={}, fpath='/raid10/synthesis-project/verbose_extracted_papers/'):
@@ -76,7 +94,7 @@ class InfoExtractor(object):
 
     self.__logger.info( "SUCCESS: Extracted and saved all papers!" )
 
-  def extract_paper(self, paper, save_verbose=False):
+  def extract_paper(self, paper, save_verbose=False, db_save=True):
     paper['materials'] = []
     paper['operations'] = []
     paper['connections'] = []
@@ -101,7 +119,8 @@ class InfoExtractor(object):
       cde_doc = cdeDoc(
         unicode(paper['title']) + '\n' +
         unicode(paper['abstract']) + '\n' +
-        recipe_text
+        recipe_text,
+        body_text
         )
 
       if len(recipe_text) > 0:
@@ -180,17 +199,33 @@ class InfoExtractor(object):
       self.__logger.warning( 'ERR_MSG: ' + str(e) )
 
     try:
+      #TODO
+      '''
+      Next steps on entity coreference:
+
+      1. Cleaner synonym lists
+      2. Capture 'source' of materials (e.g., commercial vs synthesized)
+      3. Use preceding words / sentences as features
+      4. Use sieve-like method to build entity clusters (see: Raghunathan et al. 2010)
+      5. Use synthesis condition mentions to support coreference as a feature
+      '''
+
       coreferenced_materials = []
-      #cde_recs = [rec['names'] for rec in cde_doc.records.serialize() if 'names' in rec]
 
       for material in paper['materials']:
         modified_material = material
         if material['is_target']:
           for coref_material in mats_to_coref:
             alias_match = bool(material['alias'].lower() == coref_material['alias'].lower())
-            #cde_record_match = any(bool(material['alias'] in rec and coref_material['alias'] in rec) for rec in cde_recs)
-            #if alias_match or cde_record_match:
-            if alias_match:
+
+            abbrev_match = any( any( [abbrev[0][0].lower() == material['alias'].lower(),
+            all([a.lower() in material['alias'].lower() for a in abbrev[1]])] )
+            for abbrev in cde_doc.abbreviation_definitions)
+
+            synonym_match = bool(self.connection[self.db].chemical_db.find_one(
+            {'names':{'$all':[material['alias'].lower(), coref_material['alias'].lower()]}}) is not None)
+
+            if alias_match or abbrev_match or synonym_match:
               modified_material = self._merge_materials(material, coref_material, merge_amounts=False)
         coreferenced_materials.append(modified_material)
 
@@ -199,18 +234,29 @@ class InfoExtractor(object):
       self.__logger.warning( 'FAILURE: Failed to coreference target materials from ' + str(paper['doi']) )
       self.__logger.warning( 'ERR_MSG: ' + str(e) )
 
-    self.connection[self.db].papers.update_one({'_id' : paper['_id']}, {'$set': paper})
+    if db_save: self.connection[self.db].papers.update_one({'_id' : paper['_id']}, {'$set': paper})
     if save_verbose and 'recipe_text' in verbose_data: self.save_verbose_info(verbose_data)
 
-  def apply_token_labels(self, tokens_text, cde_doc=None):
+    return paper
+
+  def apply_token_labels(self, tokens_text, cde_doc=None, pretokenized=False):
     #Run a chemdataextractor parse as well
     cde_cems = set([unicode(c) for c in cde_doc.cems])
     cde_abbrevs = []
     for abbrev_list in cde_doc.abbreviation_definitions:
       cde_abbrevs.extend(abbrev_list[0])
 
-    #First, get some basic parse labels (SpaCy)
-    spacy_tokens = self.nlp(tokens_text)
+    #First, get some basic parse labels (SpaCy/CDE)
+    if not pretokenized:
+      text_tokens = self.cwt.tokenize(tokens_text)
+    else:
+      text_tokens = tokens_text
+
+    spacy_doc = Doc(self.nlp.vocab, words=text_tokens)
+    self.nlp.tagger(spacy_doc)
+    self.nlp.parser(spacy_doc)
+    self.nlp.entity(spacy_doc)
+    spacy_tokens = spacy_doc
     spacy_noun_chunks = spacy_tokens.noun_chunks
     spacy_entities = spacy_tokens.ents
     toks_labels = []
@@ -274,20 +320,18 @@ class InfoExtractor(object):
   def get_relevant_chunks(self, labels):
     token_chunks = []
     curr_chunk = self._get_new_chunk()
-    allowed_types = ['amount', 'condition', 'material', 'target', 'operation', 'descriptor', 'property', 'apparatus', 'intermediate', 'num', 'null']
+    allowed_types = self.token_class_lookups.values()
     char_counter = 0
 
-    label_vec_matrix = [
-      np.array([l['vec'] for l in labels]),
-      np.array([self.tc.featurize_embedding(l['raw']) for l in labels])
-    ]
-    label_types = [self.token_class_lookups[c] for c in self.tc.predict(label_vec_matrix)]
+    label_types = self._get_token_label_types(labels)
 
     for i, label in enumerate(labels):
       #print i, (label['raw'])
-      curr_type_guess = label_types[i]
 
-      if curr_type_guess == 'num': curr_type_guess = 'amount|condition|property'
+      if (not self._is_ascii(label['raw'])) and (len(label['raw']) == 1): continue
+
+      curr_type_guess = label_types[i]
+      if curr_type_guess == 'number': curr_type_guess = 'amt_unit|cnd_unit|prop_unit'
 
       if ( (curr_type_guess not in curr_chunk['type'] and curr_chunk['type'] == 'null' and curr_type_guess != 'null')
       or (curr_type_guess in curr_chunk['type'] and curr_chunk['type'] != 'null' and curr_type_guess != 'null') ):  #Chunk start/inside
@@ -347,33 +391,32 @@ class InfoExtractor(object):
       self.__logger.warning( 'ERR_MSG: ' + str(e) )
 
     try:
-      if len(operation_inds) > 0:
-        for i, chunk in enumerate([c for c in chunks if c['type'] in ['material', 'target', 'intermediate']]):
-          if any(self._is_chunk_ancestor(chk, chunk) for chk in operation_chunks):
-            new_material = Material()
-            new_material['_id'] = unicode(ObjectId())
-            new_material['is_target'] = bool(chunk['type'] == 'target')
-            used_chunk = False
-            for tok in chunk['toks']:
-              if len(unicode(tok['spacy_noun_chunk'])) > 3:
-                new_material['alias'] = unicode(tok['spacy_noun_chunk'])
-                used_chunk = True
-            if not used_chunk: new_material['alias'] = ' '.join(t['raw'] for t in chunk['toks'])
-            if chunk['type'] == 'intermediate':
-              new_material['alias'] = unicode('intermediate_') + unicode(new_material['alias'])
+      for i, chunk in enumerate([c for c in chunks if c['type'] in ['material', 'target', 'intrmed']]):
+        #if any(self._is_chunk_ancestor(chk, chunk) for chk in operation_chunks):
+        new_material = Material()
+        new_material['_id'] = unicode(ObjectId())
+        new_material['is_target'] = bool(chunk['type'] == 'target')
+        used_chunk = False
+        for tok in chunk['toks']:
+          if len(unicode(tok['spacy_noun_chunk'])) > 3:
+            new_material['alias'] = unicode(tok['spacy_noun_chunk'])
+            used_chunk = True
+        if not used_chunk: new_material['alias'] = ' '.join(t['raw'] for t in chunk['toks'])
+        if chunk['type'] == 'intrmed':
+          new_material['alias'] = unicode('intermediate_') + unicode(new_material['alias'])
 
-            materials.append(new_material)
-            material_inds.append(chunk['ind'])
-            material_chunks.append(chunk)
+        materials.append(new_material)
+        material_inds.append(chunk['ind'])
+        material_chunks.append(chunk)
     except Exception, e:
       self.__logger.warning( 'FAILURE: Failed to resolve materials')
       self.__logger.warning( 'ERR_MSG: ' + str(e) )
 
     try:
       #Then sweep through all other chunks and get everything else (local mapping)
-      for chunk in [c for c in chunks if c['type'] not in ['operation', 'material', 'target', 'intermediate']]:
+      for chunk in [c for c in chunks if c['type'] not in ['operation', 'material', 'target', 'intrmed']]:
         if len(material_inds) > 0:
-          if chunk['type'] == 'amount':
+          if chunk['type'] == 'amt_unit':
             try:
               new_amount = Amount()
               num_conv = self._get_float_from_string(chunk['toks'][0]['raw'])
@@ -393,7 +436,7 @@ class InfoExtractor(object):
                   new_amount['units'] = unicode(raw_units)
 
               chunk_dists = [abs(ind - chunk['ind']) if self._is_chunk_ancestor(chk, chunk) else MAX_DIST for (ind, chk) in zip(material_inds, material_chunks)]
-              if not chunk_dists: chunk_dists = [abs(ind - chunk['ind']) for ind in material_inds]
+              if (not chunk_dists) or (min(chunk_dists) == max(chunk_dists)): chunk_dists = [abs(ind - chunk['ind']) for ind in material_inds]
               nearest_idx = chunk_dists.index(min(chunk_dists))
               materials[nearest_idx]['amounts'].append(new_amount)
             except Exception, e:
@@ -406,21 +449,21 @@ class InfoExtractor(object):
               new_descriptor['structure'].append(' '.join(c['raw'] for c in chunk['toks']))
 
               chunk_dists = [abs(ind - chunk['ind']) if self._is_chunk_ancestor(chk, chunk) else MAX_DIST for (ind, chk) in zip(material_inds, material_chunks)]
-              if not chunk_dists: chunk_dists = [abs(ind - chunk['ind']) for ind in material_inds]
+              if (not chunk_dists) or (min(chunk_dists) == max(chunk_dists)): chunk_dists = [abs(ind - chunk['ind']) for ind in material_inds]
               nearest_idx = chunk_dists.index(min(chunk_dists))
               materials[nearest_idx]['descriptors'].append(new_descriptor)
             except Exception, e:
               self.__logger.warning( 'FAILURE: Failed descriptor casting')
               self.__logger.warning( 'ERR_MSG: ' + str(e) )
 
-          if chunk['type'] == 'property':
+          if chunk['type'] == 'prop_unit':
             try:
               new_property = Property()
               num_conv = self._get_float_from_string(chunk['toks'][0]['raw'])
               if num_conv is None: num_conv = self._get_float_from_string(chunk['toks'][0]['nums'])
               if num_conv is None: continue
               new_property['num_value'] = num_conv
-              raw_units = ''.join([t['raw'] for t in chunk['toks']])
+              raw_units = ''.join([t['alpha'] for t in chunk['toks']])
               new_property['units'] = unicode(raw_units)
 
               for tok in chunk['toks']:
@@ -429,7 +472,7 @@ class InfoExtractor(object):
                   break
 
               chunk_dists = [abs(ind - chunk['ind']) if self._is_chunk_ancestor(chk, chunk) else MAX_DIST for (ind, chk) in zip(material_inds, material_chunks)]
-              if not chunk_dists: chunk_dists = [abs(ind - chunk['ind']) for ind in material_inds]
+              if (not chunk_dists) or (min(chunk_dists) == max(chunk_dists)): chunk_dists = [abs(ind - chunk['ind']) for ind in material_inds]
               nearest_idx = chunk_dists.index(min(chunk_dists))
               materials[nearest_idx]['properties'].append(new_property)
             except Exception, e:
@@ -438,7 +481,7 @@ class InfoExtractor(object):
 
 
         if len(operation_inds) > 0:
-          if chunk['type'] == 'condition':
+          if chunk['type'] == 'cnd_unit':
             try:
               new_condition = Condition()
               num_conv = self._get_float_from_string(chunk['toks'][0]['raw'])
@@ -461,20 +504,20 @@ class InfoExtractor(object):
                     new_condition['units'] = unicode(raw_units)
 
               chunk_dists = [abs(ind - chunk['ind']) if self._is_chunk_ancestor(chk, chunk) else MAX_DIST for (ind, chk) in zip(operation_inds, operation_chunks)]
-              if not chunk_dists: chunk_dists = [abs(ind - chunk['ind']) for ind in operation_inds]
+              if (not chunk_dists) or (min(chunk_dists) == max(chunk_dists)): chunk_dists = [abs(ind - chunk['ind']) for ind in operation_inds]
               nearest_idx = chunk_dists.index(min(chunk_dists))
               operations[nearest_idx]['conditions'].append(new_condition)
             except Exception, e:
               self.__logger.warning( 'FAILURE: Failed condition casting')
               self.__logger.warning( 'ERR_MSG: ' + str(e) )
 
-          if chunk['type'] == 'apparatus':
+          if chunk['type'] == 'synth_aprt':
             try:
               new_apparatus = Apparatus()
               new_apparatus['type'] = ' '.join(c['raw'] for c in chunk['toks'])
 
               chunk_dists = [abs(ind - chunk['ind']) if self._is_chunk_ancestor(chk, chunk) else MAX_DIST for (ind, chk) in zip(operation_inds, operation_chunks)]
-              if not chunk_dists: chunk_dists = [abs(ind - chunk['ind']) for ind in operation_inds]
+              if (not chunk_dists) or (min(chunk_dists) == max(chunk_dists)): chunk_dists = [abs(ind - chunk['ind']) for ind in operation_inds]
               nearest_idx = chunk_dists.index(min(chunk_dists))
               operations[nearest_idx]['apparatuses'].append(new_apparatus)
             except Exception, e:
@@ -571,13 +614,13 @@ class InfoExtractor(object):
       alias = material['alias']
       common_in = next((c['id1'] for c in new_connections if c['id2'] == material['_id']), None)
       common_out = next((c['id2'] for c in new_connections if c['id1'] == material['_id']), None)
-      name_matches = [m for m in materials if m['alias'] == alias]
+      name_matches = [m for m in materials if m['alias'].lower() == alias.lower()]
       id_matches = []
 
       for name_match in name_matches:
         this_in = next((c['id1'] for c in new_connections if c['id2'] == name_match['_id']), None)
         this_out = next((c['id2'] for c in new_connections if c['id1'] == name_match['_id']), None)
-        if this_in == common_in and this_out == common_out:
+        if (this_in == common_in) or (this_out == common_out):
           id_matches.append(name_match['_id'])
 
       if len(id_matches) > 1 and alias not in duplicate_sets:
@@ -637,9 +680,24 @@ class InfoExtractor(object):
     return num
 
   def _merge_materials(self, mat_to_keep, mat, merge_amounts=True):
-    mat_to_keep['properties'].extend(mat['properties'])
-    mat_to_keep['descriptors'].extend(mat['descriptors'])
-    if merge_amounts: mat_to_keep['amounts'].extend(mat['amounts'])
+    orig_set = set()
+    for item in mat_to_keep['properties']: orig_set.add(item['units'])
+    for item in mat_to_keep['descriptors']: orig_set.add(','.join(item['structure']))
+    for item in mat_to_keep['amounts']: orig_set.add(item['units'])
+
+    for item in mat['properties']:
+      if item['units'] not in orig_set:
+        mat_to_keep['properties'].append(item)
+        orig_set.add(item['units'])
+    for item in mat['descriptors']:
+      if ','.join(item['structure']) not in orig_set:
+        mat_to_keep['descriptors'].append(item)
+        orig_set.add(','.join(item['structure']))
+    if merge_amounts:
+      for item in mat['amounts']:
+        if item['units'] not in orig_set:
+          mat_to_keep['amounts'].append(item)
+          orig_set.add(item['units'])
 
     return mat_to_keep
 
@@ -668,3 +726,28 @@ class InfoExtractor(object):
   def _load_unit_conversions(self, fpath='data/unit_conversions.json'):
     with open(fpath) as f:
       self.unit_conv = loads(f.read())
+
+  def _get_token_label_types(self, token_labels, window_size = 1):
+    tok_embeddings = [self.tc.featurize_embedding(l['raw']) for l in token_labels]
+    label_vec_matrix = [
+      np.array([l['vec'] for l in token_labels]),
+      np.array([self._get_array_window(token_labels, tok_embeddings, i, window_size) for i in range(len(tok_embeddings))])
+    ]
+    label_types = [self.token_class_lookups[c] for c in self.tc.predict(label_vec_matrix)]
+    return label_types
+
+  def _get_array_window(self, arr_lbl, arr_emb, ind, size):
+    window = list(self.tc.featurize_embedding(arr_lbl[ind]['head_raw']))
+    for i in range(ind-size, ind+size+1):
+      if (i < 0) or (i >= len(arr_emb)):
+        window.extend([0]*len(arr_emb[ind]))
+      else:
+        window.extend(arr_emb[i])
+    return window
+
+  def _is_ascii(self, string):
+    try:
+      string.decode('ascii')
+      return True
+    except:
+      return False

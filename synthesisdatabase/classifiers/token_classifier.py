@@ -9,9 +9,11 @@ from pymatgen import (Composition, Element)
 from re import (match, search)
 
 from keras.models import Sequential
-from keras.layers import Dense, Activation, Merge
+from keras.metrics import fmeasure
+from keras.layers import Dense, Activation, Merge, Dropout
 from keras.models import load_model
 from keras.callbacks import EarlyStopping, ModelCheckpoint
+from keras.regularizers import l2, activity_l2
 from keras import backend as K
 
 from gensim.models import Word2Vec
@@ -19,23 +21,34 @@ from collections import OrderedDict
 from json import loads, dumps
 from pymongo import MongoClient
 import numpy as np
+import tensorflow as tf
 
 
 class TokenClassifier(object):
   def __init__(self, db):
-    self.token_classes = {
-      'null': 0,
-      'amount': 1,
-      'condition': 2,
-      'material': 3,
-      'target': 4,
-      'operation': 5,
-      'descriptor': 6,
-      'property': 7,
-      'apparatus': 8,
-      'intermediate': 9,
-      'num': 10
+    token_classes =  {
+      0: 'null',
+      1: 'amt_unit',
+      2: 'amt_misc',
+      3: 'cnd_unit',
+      4: 'cnd_misc',
+      5: 'material',
+      6: 'target',
+      7: 'operation',
+      8: 'descriptor',
+      9: 'prop_unit',
+      10: 'prop_type',
+      11: 'synth_aprt',
+      12: 'char_aprt',
+      13: 'brand',
+      14: 'intrmed',
+      15: 'number',
+      16: 'meta',
+      17: 'ref',
+      18: 'prop_misc'
     }
+    self.token_classes = {y:x for x,y in token_classes.iteritems()}
+
     self.db = db
     self.mc = MaterialTokenClassifier()
     self.mc.load()
@@ -47,7 +60,7 @@ class TokenClassifier(object):
 
     self.model_type = 'hierarchical'
 
-  def build_nn_model(self, model_type='dense_ff', input_dim=1, inner_dim=64, embedding_dim=100):
+  def build_nn_model(self, model_type='dense_ff', input_dim=1, inner_dim=64, embedding_dim=100, window_size=3):
     model = None
 
     if model_type == 'dense_ff':
@@ -57,10 +70,12 @@ class TokenClassifier(object):
 
     elif model_type == 'hierarchical':
       heuristic_layer = Sequential()
-      heuristic_layer.add(Dense(output_dim=inner_dim, input_dim=input_dim, activation="relu"))
+      heuristic_layer.add(Dense(output_dim=inner_dim, input_dim=input_dim, activation="relu", W_regularizer=l2(1.0), activity_regularizer=activity_l2(1.0)))
+      heuristic_layer.add(Dropout(0.5))
 
       embedding_layer = Sequential()
-      embedding_layer.add(Dense(output_dim=inner_dim, input_dim=embedding_dim, activation="relu"))
+      embedding_layer.add(Dense(output_dim=inner_dim*(window_size+1), input_dim=embedding_dim*(window_size+1), activation="relu", W_regularizer=l2(1.0), activity_regularizer=activity_l2(1.0)))
+      embedding_layer.add(Dropout(0.5))
 
       merge_layer = Merge([heuristic_layer, embedding_layer], mode='concat')
 
@@ -71,7 +86,7 @@ class TokenClassifier(object):
     model.compile(
       optimizer='adam',
       loss='categorical_crossentropy',
-      metrics=['categorical_accuracy', 'fmeasure']
+      metrics=['categorical_accuracy', self._non_null_accuracy]
     )
 
     self.model = model
@@ -156,6 +171,11 @@ class TokenClassifier(object):
       nb_epoch=num_epochs,
       validation_split=val_split,
       callbacks= callbacks,
+      class_weight={
+        0: 0.1,
+        1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1,
+        10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1,
+      },
       verbose=verbosity
     )
 
@@ -163,7 +183,7 @@ class TokenClassifier(object):
     return self.model.evaluate(inputs, outputs, batch_size=batch_size)
 
   def predict(self, input_data):
-    return [ np.argmax(v) for v in self.fast_predict(input_data)[0] ]
+    return [ np.argmax(v) for v in self.fast_predict(input_data + [0])[0] ]
 
   def save(self, filepath='bin/token_classifier_nn'):
     filepath += '.' + str(self.model_type) + '.model'
@@ -172,13 +192,13 @@ class TokenClassifier(object):
   def load(self, filepath='bin/token_classifier_nn'):
     try:
       filepath += '.' + str(self.model_type) + '.model'
-      self.model = load_model(filepath)
+      self.model = load_model(filepath, custom_objects={'_non_null_accuracy': self._non_null_accuracy})
       self.fast_predict = K.function(
-        self.model.inputs,
+        self.model.inputs + [K.learning_phase()],
         [self.model.layers[1].output]
       )
     except:
-      return None
+      return -1
 
   def _load_compound_names(self, fpath='data/compound_names.txt'):
     with open(fpath) as f:
@@ -239,3 +259,6 @@ class TokenClassifier(object):
       if len(_) > 1: return True
     except:
       return False
+
+  def _non_null_accuracy(self, y_true, y_pred):
+    return fmeasure(y_true[:,1:], y_pred[:,1:])
