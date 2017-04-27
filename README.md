@@ -17,7 +17,7 @@ If you didn't already have [spacy](https://spacy.io/docs) installed before runni
 
 In order to download article files from publisher APIs, you need the appropriate API keys, set to environment variables `ELS_API_KEY` and `CRF_API_KEY`, for Elsevier and CrossRef, respectively. You'll also need a Materials Project API key stored in the environment variable `MAPI_KEY`, and a Citrination API key stored in `CITRINATION_API_TOKEN` to retrieve materials properties.
 
-##Conceptual Overview
+## Conceptual Overview
 
 The pipeline, at a high level, does the following:
 
@@ -29,7 +29,7 @@ The pipeline, at a high level, does the following:
 
 The outputs of the pipeline are all saved to MongoDB. The schema of saved objects are outlined in `base_models.py` and `models.py`.
 
-##Testing
+## Testing
 
 Run `nosetests -w synthesisdatabase`. Make sure you have nose installed. Automated testing is done through CircleCI.
 
